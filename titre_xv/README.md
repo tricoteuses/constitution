@@ -10,6 +10,7 @@ Identifiant: LEGISCTA000006095837
 - [Article 88-2](article_88-2.md)
 - [Article 88-3](article_88-3.md)
 - [Article 88-4](article_88-4.md)
+- [Article 88-5](article_88-5.md)
 
 <details>
   <summary><h2>Autres formats</h2></summary>
