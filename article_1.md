@@ -3,18 +3,19 @@ Nature: Article
 Numéro: 1
 Type: AUTONOME
 État: MODIFIE
-Date de début: 1995-08-05
-Date de fin: 2003-03-29
-Identifiant: LEGIARTI000006527449
+Date de début: 2003-03-29
+Date de fin: 2008-07-25
+Identifiant: LEGIARTI000006527450
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX001AAXXXXXXAB
+Ancien identifiant: PPCACXXXXXX001AAXXXXXXAC
 ---
 
 # Article 1
 
 La France est une République indivisible, laïque, démocratique et sociale. Elle
 assure l'égalité devant la loi de tous les citoyens sans distinction d'origine,
-de race ou de religion. Elle respecte toutes les croyances.
+de race ou de religion. Elle respecte toutes les croyances. Son organisation est
+décentralisée.
 
 
 <details>
@@ -24,7 +25,7 @@ de race ou de religion. Elle respecte toutes les croyances.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528619?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 8 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276204?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 1 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -32,7 +33,7 @@ de race ou de religion. Elle respecte toutes les croyances.
   
   <ul>
     <li>
-      1995-08-04 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528619?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 8 ENTIEREMENT_MODIF</a>
+      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276204?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 1 ENTIEREMENT_MODIF</a>
     </li>
   </ul>
 </details>
@@ -40,9 +41,9 @@ de race ou de religion. Elle respecte toutes les croyances.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527449.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527449.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527449.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527450.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527450.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527450.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/article_1.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527449/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527450/)
 </details>

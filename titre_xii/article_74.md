@@ -2,27 +2,64 @@
 Nature: Article
 Numéro: 74
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1993-07-28
-Date de fin: 2003-03-29
-Identifiant: LEGIARTI000006527586
+État: VIGUEUR
+Date de début: 2003-03-29
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000006527587
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX074AAXXXXXXAC
+Ancien identifiant: PPCACXXXXXX074AAXXXXXXAD
 ---
 
 # Article 74
 
-Les territoires d'outre-mer de la République ont une organisation particulière
-tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la
+Les collectivités d'outre-mer régies par le présent article ont un statut qui
+tient compte des intérêts propres de chacune d'elles au sein de la
 République.<br />
 
-Les statuts des territoires d'outre-mer sont fixés par des lois organiques qui
-définissent, notamment, les compétences de leurs institutions propres, et
-modifiés, dans la même forme, après consultation de l'assemblée territoriale
-intéressée.<br />
+Ce statut est défini par une loi organique, adoptée après avis de l'assemblée
+délibérante, qui fixe :<br />
 
-Les autres modalités de leur organisation particulière sont définies et
-modifiées par la loi après consultation de l'assemblée territoriale intéressée.
+-les conditions dans lesquelles les lois et règlements y sont applicables ;<br />
+
+-les compétences de cette collectivité ; sous réserve de celles déjà exercées
+par elle, le transfert de compétences de l'Etat ne peut porter sur les matières
+énumérées au quatrième alinéa de l'article 73, précisées et complétées, le cas
+échéant, par la loi organique ;<br />
+
+-les règles d'organisation et de fonctionnement des institutions de la
+collectivité et le régime électoral de son assemblée délibérante ;<br />
+
+-les conditions dans lesquelles ses institutions sont consultées sur les projets
+et propositions de loi et les projets d'ordonnance ou de décret comportant des
+dispositions particulières à la collectivité, ainsi que sur la ratification ou
+l'approbation d'engagements internationaux conclus dans les matières relevant de
+sa compétence.<br />
+
+La loi organique peut également déterminer, pour celles de ces collectivités qui
+sont dotées de l'autonomie, les conditions dans lesquelles :<br />
+
+-le Conseil d'Etat exerce un contrôle juridictionnel spécifique sur certaines
+catégories d'actes de l'assemblée délibérante intervenant au titre des
+compétences qu'elle exerce dans le domaine de la loi ;<br />
+
+-l'assemblée délibérante peut modifier une loi promulguée postérieurement à
+l'entrée en vigueur du statut de la collectivité, lorsque le Conseil
+constitutionnel, saisi notamment par les autorités de la collectivité, a
+constaté que la loi était intervenue dans le domaine de compétence de cette
+collectivité ;<br />
+
+-des mesures justifiées par les nécessités locales peuvent être prises par la
+collectivité en faveur de sa population, en matière d'accès à l'emploi, de droit
+d'établissement pour l'exercice d'une activité professionnelle ou de protection
+du patrimoine foncier ;<br />
+
+-la collectivité peut participer, sous le contrôle de l'Etat, à l'exercice des
+compétences qu'il conserve, dans le respect des garanties accordées sur
+l'ensemble du territoire national pour l'exercice des libertés publiques.<br />
+
+Les autres modalités de l'organisation particulière des collectivités relevant
+du présent article sont définies et modifiées par la loi après consultation de
+leur assemblée délibérante.
 
 
 <details>
@@ -32,7 +69,19 @@ modifiées par la loi après consultation de l'assemblée territoriale intéress
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527580?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 73 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1993-07-28</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527581?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 73 AUTONOME MODIFIE, en vigueur du 1993-07-28 au 2003-03-29</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276207?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 10 ENTIEREMENT_MODIF</a> MODIFIE source
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527582?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 73 AUTONOME MODIFIE, en vigueur du 2003-03-29 au 2008-07-25</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241099?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 73 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
     </li>
   </ul>
   
@@ -53,6 +102,9 @@ modifiées par la loi après consultation de l'assemblée territoriale intéress
     </li>
     <li>
       1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241095?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 72-3 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
+    </li>
+    <li>
+      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527580?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 73 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1993-07-28</a>
     </li>
     <li>
       1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241101?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74-1 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
@@ -82,10 +134,10 @@ modifiées par la loi après consultation de l'assemblée territoriale intéress
       1990-12-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027591431?vers=git&vers=legifrance">Loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales. - article 32 AUTONOME ABROGE, en vigueur du 2013-06-22 au 2024-09-01</a>
     </li>
     <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a>
+      2000-06-21 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019463025?vers=git&vers=legifrance">Décret n°2000-559 du 21 juin 2000 portant organisation générale de l'armée de terre - article 6 AUTONOME ABROGE, en vigueur du 2008-09-13 au 2008-11-28</a>
     </li>
     <li>
-      2000-06-21 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019463025?vers=git&vers=legifrance">Décret n°2000-559 du 21 juin 2000 portant organisation générale de l'armée de terre - article 6 AUTONOME ABROGE, en vigueur du 2008-09-13 au 2008-11-28</a>
+      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276207?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 10 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2004-02-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741680?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a>
@@ -324,9 +376,9 @@ modifiées par la loi après consultation de l'assemblée territoriale intéress
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527586.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527586.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527586.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527587.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527587.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527587.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xii/article_74.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527586/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527587/)
 </details>

@@ -7,8 +7,13 @@ Identifiant: LEGISCTA000006095833
 # Titre XII : Des collectivités territoriales
 
 - [Article 72](article_72.md)
+- [Article 72-1](article_72-1.md)
+- [Article 72-2](article_72-2.md)
+- [Article 72-3](article_72-3.md)
+- [Article 72-4](article_72-4.md)
 - [Article 73](article_73.md)
 - [Article 74](article_74.md)
+- [Article 74-1](article_74-1.md)
 - [Article 75](article_75.md)
 
 <details>

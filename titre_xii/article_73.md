@@ -3,18 +3,48 @@ Nature: Article
 Numéro: 73
 Type: AUTONOME
 État: MODIFIE
-Date de début: 1993-07-28
-Date de fin: 2003-03-29
-Identifiant: LEGIARTI000006527581
+Date de début: 2003-03-29
+Date de fin: 2008-07-25
+Identifiant: LEGIARTI000006527582
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX073AAXXXXXXAB
+Ancien identifiant: PPCACXXXXXX073AAXXXXXXAC
 ---
 
 # Article 73
 
-Le régime législatif et l'organisation administrative des départements
-d'outre-mer peuvent faire l'objet de mesures d'adaptation nécessitées par leur
-situation particulière.
+Dans les départements et les régions d'outre-mer, les lois et règlements sont
+applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux
+caractéristiques et contraintes particulières de ces collectivités.<br />
+
+Ces adaptations peuvent être décidées par ces collectivités dans les matières où
+s'exercent leurs compétences et si elles y ont été habilitées par la loi.<br />
+
+Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les
+collectivités régies par le présent article peuvent être habilitées par la loi à
+fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre
+limité de matières pouvant relever du domaine de la loi.<br />
+
+Ces règles ne peuvent porter sur la nationalité, les droits civiques, les
+garanties des libertés publiques, l'état et la capacité des personnes,
+l'organisation de la justice, le droit pénal, la procédure pénale, la politique
+étrangère, la défense, la sécurité et l'ordre publics, la monnaie, le crédit et
+les changes, ainsi que le droit électoral. Cette énumération pourra être
+précisée et complétée par une loi organique.<br />
+
+La disposition prévue aux deux précédents alinéas n'est pas applicable au
+département et à la région de La Réunion.<br />
+
+Les habilitations prévues aux deuxième et troisième alinéas sont décidées, à la
+demande de la collectivité concernée, dans les conditions et sous les réserves
+prévues par une loi organique. Elles ne peuvent intervenir lorsque sont en cause
+les conditions essentielles d'exercice d'une liberté publique ou d'un droit
+constitutionnellement garanti.<br />
+
+La création par la loi d'une collectivité se substituant à un département et une
+région d'outre-mer ou l'institution d'une assemblée délibérante unique pour ces
+deux collectivités ne peut intervenir sans qu'ait été recueilli, selon les
+formes prévues au second alinéa de l'article 72-4, le consentement des électeurs
+inscrits dans le ressort de ces collectivités.
 
 
 <details>
@@ -24,7 +54,7 @@ situation particulière.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276206?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 9 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -65,10 +95,10 @@ situation particulière.
       1988-03-11 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023245319?vers=git&vers=legifrance">Loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique. - article 9-1-A AUTONOME MODIFIE_MORT_NE, en vigueur du 2014-03-01 au 2013-05-19</a>
     </li>
     <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a>
+      2002-02-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034109930?vers=git&vers=legifrance">Ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans le Département de Mayotte - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2018-01-01</a>
     </li>
     <li>
-      2002-02-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034109930?vers=git&vers=legifrance">Ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans le Département de Mayotte - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2018-01-01</a>
+      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276206?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 9 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2004-02-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741680?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a>
@@ -595,9 +625,9 @@ situation particulière.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527581.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527581.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527581.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527582.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527582.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527582.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xii/article_73.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527581/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527582/)
 </details>

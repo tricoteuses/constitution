@@ -2,25 +2,46 @@
 Nature: Article
 Numéro: 72
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1993-07-28
-Date de fin: 2003-03-29
-Identifiant: LEGIARTI000006527578
+État: VIGUEUR
+Date de début: 2003-03-29
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000006527579
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX072AAXXXXXXAB
+Ancien identifiant: PPCACXXXXXX072AAXXXXXXAC
 ---
 
 # Article 72
 
 Les collectivités territoriales de la République sont les communes, les
-départements, les territoires d'outre-mer. Toute autre collectivité territoriale
-est créée par la loi.<br />
+départements, les régions, les collectivités à statut particulier et les
+collectivités d'outre-mer régies par l'article 74. Toute autre collectivité
+territoriale est créée par la loi, le cas échéant en lieu et place d'une ou de
+plusieurs collectivités mentionnées au présent alinéa.<br />
 
-Ces collectivités s'administrent librement par des conseils élus et dans les
-conditions fixées par la loi.<br />
+Les collectivités territoriales ont vocation à prendre les décisions pour
+l'ensemble des compétences qui peuvent le mieux être mises en oeuvre à leur
+échelon.<br />
 
-Dans les départements et les territoires, le délégué du Gouvernement a la charge
-des intérêts nationaux, du contrôle administratif et du respect des lois.
+Dans les conditions prévues par la loi, ces collectivités s'administrent
+librement par des conseils élus et disposent d'un pouvoir réglementaire pour
+l'exercice de leurs compétences.<br />
+
+Dans les conditions prévues par la loi organique, et sauf lorsque sont en cause
+les conditions essentielles d'exercice d'une liberté publique ou d'un droit
+constitutionnellement garanti, les collectivités territoriales ou leurs
+groupements peuvent, lorsque, selon le cas, la loi ou le règlement l'a prévu,
+déroger, à titre expérimental et pour un objet et une durée limités, aux
+dispositions législatives ou réglementaires qui régissent l'exercice de leurs
+compétences.<br />
+
+Aucune collectivité territoriale ne peut exercer une tutelle sur une autre.
+Cependant, lorsque l'exercice d'une compétence nécessite le concours de
+plusieurs collectivités territoriales, la loi peut autoriser l'une d'entre elles
+ou un de leurs groupements à organiser les modalités de leur action commune.<br />
+
+Dans les collectivités territoriales de la République, le représentant de
+l'Etat, représentant de chacun des membres du Gouvernement, a la charge des
+intérêts nationaux, du contrôle administratif et du respect des lois.
 
 
 <details>
@@ -30,7 +51,19 @@ des intérêts nationaux, du contrôle administratif et du respect des lois.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527586?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1993-07-28 au 2003-03-29</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527585?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1992-06-26 au 1993-07-28</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527584?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1992-06-26</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527587?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME VIGUEUR, en vigueur depuis le 2003-03-29</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218055?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 5 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -38,7 +71,10 @@ des intérêts nationaux, du contrôle administratif et du respect des lois.
   
   <ul>
     <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a>
+      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527584?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1992-06-26</a>
+    </li>
+    <li>
+      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218055?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 5 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2004-02-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741680?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a>
@@ -82,9 +118,9 @@ des intérêts nationaux, du contrôle administratif et du respect des lois.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527578.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527578.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527578.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527579.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527579.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527579.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xii/article_72.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527578/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527579/)
 </details>

@@ -10,6 +10,7 @@ Identifiant: LEGISCTA000006095825
 - [Article 35](article_35.md)
 - [Article 36](article_36.md)
 - [Article 37](article_37.md)
+- [Article 37-1](article_37-1.md)
 - [Article 38](article_38.md)
 - [Article 39](article_39.md)
 - [Article 40](article_40.md)
