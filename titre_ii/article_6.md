@@ -3,16 +3,16 @@ Nature: Article
 Numéro: 6
 Type: AUTONOME
 État: MODIFIE
-Date de début: 1962-11-09
-Date de fin: 2000-10-03
-Identifiant: LEGIARTI000006527461
+Date de début: 2000-10-03
+Date de fin: 2008-07-25
+Identifiant: LEGIARTI000006527462
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX006AAXXXXXXAB
+Ancien identifiant: PPCACXXXXXX006AAXXXXXXAC
 ---
 
 # Article 6
 
-Le Président de la République est élu pour sept ans au suffrage universel
+Le Président de la République est élu pour cinq ans au suffrage universel
 direct.<br />
 
 Les modalités d'application du présent article sont fixées par une loi
@@ -26,7 +26,7 @@ organique.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527730?vers=git&vers=legifrance">Loi n° 62-1292 du 6 novembre 1962 RELATIVE A L'ELECTION DU PRESIDENT DE LA REPUBLIQUE AU SUFFRAGE UNIVERSEL - article 1 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006529271?vers=git&vers=legifrance">LOI constitutionnelle no 2000-964 du 2 octobre 2000 relative à la durée du mandat du Président de la République - article unique ENTIEREMENT_MODIF</a> MODIFICATION cible
     </li>
   </ul>
   
@@ -34,7 +34,7 @@ organique.
   
   <ul>
     <li>
-      1962-11-06 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527730?vers=git&vers=legifrance">Loi n° 62-1292 du 6 novembre 1962 RELATIVE A L'ELECTION DU PRESIDENT DE LA REPUBLIQUE AU SUFFRAGE UNIVERSEL - article 1 ENTIEREMENT_MODIF</a>
+      2000-10-02 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006529271?vers=git&vers=legifrance">LOI constitutionnelle no 2000-964 du 2 octobre 2000 relative à la durée du mandat du Président de la République - article unique ENTIEREMENT_MODIF</a>
     </li>
   </ul>
 </details>
@@ -42,9 +42,9 @@ organique.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527461.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527461.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527461.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527462.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527462.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527462.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_ii/article_6.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527461/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527462/)
 </details>
