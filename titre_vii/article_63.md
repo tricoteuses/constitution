@@ -1,0 +1,40 @@
+---
+Nature: Article
+Numéro: 63
+Type: AUTONOME
+État: VIGUEUR
+Date de début: 1958-10-05
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000006527554
+Origine: LEGI
+Ancien identifiant: PPCACXXXXXX063AAXXXXXXAA
+---
+
+# Article 63
+
+Une loi organique détermine les règles d'organisation et de fonctionnement du
+Conseil constitutionnel, la procédure qui est suivie devant lui, et notamment
+les délais ouverts pour le saisir de contestations.
+
+
+<details>
+  <summary><h2>Références</h2></summary>
+
+  ### Textes faisant référence à l'article
+  
+  <ul>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020915519?vers=git&vers=legifrance">Rapport au Président de la République relatif à l'ordonnance n° 2009-936 du 29 juillet 2009 relative à l'élection de députés par les Français établis hors de France</a> CITATION source
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary><h2>Autres formats</h2></summary>
+
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527554.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527554.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527554.md)
+* [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_vii/article_63.md)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527554/)
+</details>
