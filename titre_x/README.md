@@ -8,6 +8,7 @@ Identifiant: LEGISCTA000006095830
 
 - [Article 68-1](article_68-1.md)
 - [Article 68-2](article_68-2.md)
+- [Article 68-3](article_68-3.md)
 
 <details>
   <summary><h2>Autres formats</h2></summary>

@@ -10,7 +10,6 @@ Identifiant: LEGISCTA000006095833
 - [Article 73](article_73.md)
 - [Article 74](article_74.md)
 - [Article 75](article_75.md)
-- [Article 76](article_76.md)
 
 <details>
   <summary><h2>Autres formats</h2></summary>
