@@ -20,6 +20,7 @@ Identifiant: LEGISCTA000006095825
 - [Article 45](article_45.md)
 - [Article 46](article_46.md)
 - [Article 47](article_47.md)
+- [Article 47-1](article_47-1.md)
 - [Article 48](article_48.md)
 - [Article 49](article_49.md)
 - [Article 50](article_50.md)
