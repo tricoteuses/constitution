@@ -3,11 +3,11 @@ Nature: Article
 Numéro: 34
 Type: AUTONOME
 État: MODIFIE
-Date de début: 2003-03-29
-Date de fin: 2005-03-02
-Identifiant: LEGIARTI000006527504
+Date de début: 2005-03-02
+Date de fin: 2008-07-25
+Identifiant: LEGIARTI000006527505
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX034AAXXXXXXAC
+Ancien identifiant: PPCACXXXXXX034AAXXXXXXAD
 ---
 
 # Article 34
@@ -52,6 +52,8 @@ compétences et de leurs ressources ;<br />
 
 - de l'enseignement ;<br />
 
+- de la préservation de l'environnement ;<br />
+
 - du régime de la propriété, des droits réels et des obligations civiles et
 commerciales ;<br />
 
@@ -79,7 +81,7 @@ une loi organique.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218053?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 2 ENTIEREMENT_MODIF</a> MODIFIE source
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006239260?vers=git&vers=legifrance">LOI constitutionnelle n° 2005-205 du 1er mars 2005 relative à la Charte de l'environnement - article 3 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -90,7 +92,7 @@ une loi organique.
       1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527589?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 75 AUTONOME VIGUEUR, en vigueur depuis le 1993-07-28</a>
     </li>
     <li>
-      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218053?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 2 ENTIEREMENT_MODIF</a>
+      2005-03-01 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006239260?vers=git&vers=legifrance">LOI constitutionnelle n° 2005-205 du 1er mars 2005 relative à la Charte de l'environnement - article 3 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2010-12-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023348994?vers=git&vers=legifrance">LOI n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014 - article 1 AUTONOME ABROGE, en vigueur du 2010-12-30 au 2013-01-02</a>
@@ -110,9 +112,9 @@ une loi organique.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527504.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527504.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527504.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527505.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527505.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527505.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_v/article_34.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527504/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527505/)
 </details>
