@@ -3,19 +3,26 @@ Nature: Article
 Numéro: 74
 Type: AUTONOME
 État: MODIFIE
-Date de début: 1958-10-05
-Date de fin: 1992-06-26
-Identifiant: LEGIARTI000006527584
+Date de début: 1992-06-26
+Date de fin: 1993-07-28
+Identifiant: LEGIARTI000006527585
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX074AAXXXXXXAA
+Ancien identifiant: PPCACXXXXXX074AAXXXXXXAB
 ---
 
 # Article 74
 
 Les territoires d'Outre-mer de la République ont une organisation particulière
 tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la
-République. Cette organisation est définie et modifiée par la loi aprés
-consultation de l'assemblée territoriale intéressée.
+République.<br />
+
+Les statuts des territoires d'outre-mer sont fixés par des lois organiques qui
+définissent, notamment, les compétences de leurs institutions propres, et
+modifiés, dans la même forme, après consultation de l'assemblée territoriale
+intéressée.<br />
+
+Les autres modalités de leur organisation particulière sont définies et
+modifiées par la loi après consultation de l'assemblée territoriale intéressée.
 
 
 <details>
@@ -25,429 +32,7 @@ consultation de l'assemblée territoriale intéressée.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394410?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6461-5 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006354230?vers=git&vers=legifrance">Code électoral - article LO493 AUTONOME MODIFIE, en vigueur du 2007-02-22 au 2015-03-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038611038?vers=git&vers=legifrance">Code de commerce - article L711-15 AUTONOME VIGUEUR, en vigueur depuis le 2019-05-24</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006574736?vers=git&vers=legifrance">Code de la défense - article D1681-7 AUTONOME ABROGE, en vigueur du 2007-04-24 au 2021-04-14</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030610504?vers=git&vers=legifrance">Code de commerce - article R711-63 AUTONOME MODIFIE, en vigueur du 2015-05-17 au 2019-12-11</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021960333?vers=git&vers=legifrance">Code du service national - article L120-34 AUTONOME MODIFIE, en vigueur du 2010-07-01 au 2014-08-02</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006389088?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO1114-1 AUTONOME MODIFIE, en vigueur du 2004-07-30 au 2011-03-31</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006393813?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6211-1 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394046?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6311-1 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023179869?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO1114-1 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-31</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030610537?vers=git&vers=legifrance">Code de commerce - article L711-15 AUTONOME MODIFIE, en vigueur du 2015-05-17 au 2019-05-24</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000045293840?vers=git&vers=legifrance">Code du sport - article L112-14 AUTONOME VIGUEUR, en vigueur depuis le 2022-03-04</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038872784?vers=git&vers=legifrance">Code du sport - article L112-12 AUTONOME VIGUEUR, en vigueur depuis le 2019-08-03</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038872790?vers=git&vers=legifrance">Code du sport - article L112-15 AUTONOME VIGUEUR, en vigueur depuis le 2019-08-03</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020179794?vers=git&vers=legifrance">Code monétaire et financier - article L713-5 AUTONOME MODIFIE, en vigueur du 2009-02-01 au 2015-07-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025019328?vers=git&vers=legifrance">Code monétaire et financier - article L713-2 AUTONOME MODIFIE, en vigueur du 2012-01-01 au 2014-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033518534?vers=git&vers=legifrance">Code monétaire et financier - article L713-5 AUTONOME ABROGE, en vigueur du 2017-01-01 au 2022-02-26</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033518560?vers=git&vers=legifrance">Code monétaire et financier - article L713-2 AUTONOME MODIFIE, en vigueur du 2017-07-01 au 2020-02-14</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021449291?vers=git&vers=legifrance">Arrêté du 1er décembre 2009 portant création des commissions administratives paritaires nationales et locales compétentes à l'égard des corps des personnels des systèmes d'information et de communication du ministère de l'intérieur - article 7 AUTONOME ABROGE, en vigueur du 2010-05-01 au 2014-07-21</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000045290739?vers=git&vers=legifrance">Code du sport - article L131-13-1 AUTONOME VIGUEUR, en vigueur depuis le 2022-03-04</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030898526?vers=git&vers=legifrance">Code monétaire et financier - article L713-2 AUTONOME MODIFIE, en vigueur du 2015-07-17 au 2017-07-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027439870?vers=git&vers=legifrance">Code électoral - article LO520 AUTONOME VIGUEUR, en vigueur depuis le 2015-03-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034414877?vers=git&vers=legifrance">Code des pensions militaires d'invalidité et des victimes de guerre - article R151-12-1 AUTONOME ABROGE, en vigueur du 2017-07-01 au 2019-11-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000043370203?vers=git&vers=legifrance">Code de la défense - article D*1432-1 AUTONOME MODIFIE, en vigueur du 2021-04-14 au 2024-03-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031492144?vers=git&vers=legifrance">Code électoral - article LO493 AUTONOME VIGUEUR, en vigueur depuis le 2015-11-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026993259?vers=git&vers=legifrance">Code monétaire et financier - article L713-2 AUTONOME MODIFIE, en vigueur du 2014-01-01 au 2015-07-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024287960?vers=git&vers=legifrance">Code pénal - article R431-5 AUTONOME ABROGE, en vigueur du 2011-07-02 au 2014-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048847421?vers=git&vers=legifrance">Code des douanes - article 266 sexies AUTONOME MODIFIE, en vigueur du 2023-12-31 au 2025-02-16</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030898498?vers=git&vers=legifrance">Code monétaire et financier - article L713-5 AUTONOME MODIFIE, en vigueur du 2015-07-17 au 2017-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030610362?vers=git&vers=legifrance">Code de commerce - article R711-60 AUTONOME VIGUEUR, en vigueur depuis le 2015-05-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031853624?vers=git&vers=legifrance">Code général des collectivités territoriales - article R1213-29 AUTONOME VIGUEUR, en vigueur depuis le 2016-01-16</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022658550?vers=git&vers=legifrance">Décret n° 84-558 du 4 juillet 1984 fixant les conditions de désignation des membres du Conseil économique, social et environnemental - article 12 AUTONOME ABROGE, en vigueur du 2010-07-31 au 2021-04-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023179943?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6111-1 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-31</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000041578895?vers=git&vers=legifrance">Code monétaire et financier - article L713-2 AUTONOME ABROGE, en vigueur du 2020-02-14 au 2022-02-26</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031395305?vers=git&vers=legifrance">Code de justice administrative - article R777-3-4 AUTONOME ABROGE, en vigueur du 2015-11-01 au 2024-07-15</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006393819?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6213-1 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000035586098?vers=git&vers=legifrance">Code électoral - article LO135-2 AUTONOME VIGUEUR, en vigueur depuis le 2017-09-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033975728?vers=git&vers=legifrance">Code du service national - article L120-34 AUTONOME VIGUEUR, en vigueur depuis le 2017-01-29</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006574648?vers=git&vers=legifrance">Code de la défense - article D*1432-1 AUTONOME MODIFIE, en vigueur du 2007-08-30 au 2021-04-14</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031318576?vers=git&vers=legifrance">Loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication (Loi Léotard) - article 30-1 AUTONOME MODIFIE, en vigueur du 2015-10-16 au 2021-10-27</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028203335?vers=git&vers=legifrance">Loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication (Loi Léotard) - article 30-1 AUTONOME MODIFIE, en vigueur du 2013-11-17 au 2015-10-16</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394197?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6351-18 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024435761?vers=git&vers=legifrance">LOI n° 2010-1657 du 29 décembre 2010 de finances pour 2011 - article 101 PARTIELLEMENT_MODIF MODIFIE, en vigueur du 2011-07-31 au 2011-12-30</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000049216828?vers=git&vers=legifrance">Code de la défense - article D*1432-1 AUTONOME VIGUEUR, en vigueur depuis le 2024-03-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020881322?vers=git&vers=legifrance">LOI n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires - article 133 AUTONOME VIGUEUR, en vigueur depuis le 2009-07-23</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325582?vers=git&vers=legifrance">Code des transports - article R6763-5 AUTONOME MODIFIE, en vigueur du 2023-11-01 au 2025-04-28</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020672291?vers=git&vers=legifrance">LOI n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer - article 31 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-29</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000036488989?vers=git&vers=legifrance">Arrêté du 18 avril 2013 pris pour l'application de l'article 128 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et fixant l'assignation comptable des rémunérations des personnels de l'Etat servies sans ordonnancement préalable ainsi que des titres de perception émis à l'encontre des personnels et relatifs aux indus de rémunération, aux acomptes sur rémunération non régularisés, aux validations de services auxiliaires et aux rachats d'années d'études - article 2 AUTONOME MODIFIE, en vigueur du 2017-12-31 au 2018-12-03</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006663043?vers=git&vers=legifrance">Décret n°84-558 du 4 juillet 1984 fixant les conditions de désignation des membres du Conseil économique et social - article 12 AUTONOME MODIFIE, en vigueur du 2006-05-26 au 2010-07-31</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325368?vers=git&vers=legifrance">Code des transports - article R6723-2 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325426?vers=git&vers=legifrance">Code des transports - article R6733-5 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325322?vers=git&vers=legifrance">Code des transports - article R6713-1 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325512?vers=git&vers=legifrance">Code des transports - article R6753-5 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325732?vers=git&vers=legifrance">Code des transports - article R6783-5 AUTONOME MODIFIE, en vigueur du 2023-11-01 au 2025-04-28</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031367978?vers=git&vers=legifrance">Code des relations entre le public et l'administration - article L541-1 AUTONOME VIGUEUR_DIFF, en vigueur depuis le 2016-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019463025?vers=git&vers=legifrance">Décret n°2000-559 du 21 juin 2000 portant organisation générale de l'armée de terre - article 6 AUTONOME ABROGE, en vigueur du 2008-09-13 au 2008-11-28</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325454?vers=git&vers=legifrance">Code des transports - article R6742-3 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048325076?vers=git&vers=legifrance">Code des transports - article R6527-10 AUTONOME TRANSFERE, en vigueur du 2023-11-01 au 2023-11-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241095?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 72-3 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000041975837?vers=git&vers=legifrance">Arrêté du 18 avril 2013 pris pour l'application de l'article 128 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et fixant l'assignation comptable des rémunérations des personnels de l'Etat servies sans ordonnancement préalable ainsi que des titres de perception émis à l'encontre des personnels et relatifs aux indus de rémunération, aux acomptes sur rémunération non régularisés, aux validations de services auxiliaires et aux rachats d'années d'études - article 2 AUTONOME MODIFIE, en vigueur du 2020-06-08 au 2022-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000035294869?vers=git&vers=legifrance">Arrêté du 18 avril 2013 pris pour l'application de l'article 128 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et fixant l'assignation comptable des rémunérations des personnels de l'Etat servies sans ordonnancement préalable ainsi que des titres de perception émis à l'encontre des personnels et relatifs aux indus de rémunération, aux acomptes sur rémunération non régularisés, aux validations de services auxiliaires et aux rachats d'années d'études - article 2 AUTONOME MODIFIE, en vigueur du 2017-07-28 au 2017-12-31</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000042602965?vers=git&vers=legifrance">Décret n° 2020-1505 du 2 décembre 2020 modifiant les décrets n° 2020-1262 du 16 octobre 2020 et n° 2020-1310 du 29 octobre 2020 prescrivant les mesures générales nécessaires pour faire face à l'épidémie de covid-19 dans le cadre de l'état d'urgence sanitaire - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2020-12-03</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023245314?vers=git&vers=legifrance">Loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique. - article 9-1 AUTONOME MODIFIE_MORT_NE, en vigueur du 2014-03-01 au 2013-05-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021449285?vers=git&vers=legifrance">Arrêté du 1er décembre 2009 portant création des commissions administratives paritaires nationales et locales compétentes à l'égard des corps des personnels des systèmes d'information et de communication du ministère de l'intérieur - article 4 AUTONOME ABROGE, en vigueur du 2010-05-01 au 2014-07-21</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022516962?vers=git&vers=legifrance">Code de commerce - article L711-15 AUTONOME MODIFIE, en vigueur du 2010-07-25 au 2015-05-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037694877?vers=git&vers=legifrance">Arrêté du 18 avril 2013 pris pour l'application de l'article 128 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et fixant l'assignation comptable des rémunérations des personnels de l'Etat servies sans ordonnancement préalable ainsi que des titres de perception émis à l'encontre des personnels et relatifs aux indus de rémunération, aux acomptes sur rémunération non régularisés, aux validations de services auxiliaires et aux rachats d'années d'études - article 2 AUTONOME MODIFIE, en vigueur du 2018-12-03 au 2019-08-30</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038987500?vers=git&vers=legifrance">Arrêté du 18 avril 2013 pris pour l'application de l'article 128 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et fixant l'assignation comptable des rémunérations des personnels de l'Etat servies sans ordonnancement préalable ainsi que des titres de perception émis à l'encontre des personnels et relatifs aux indus de rémunération, aux acomptes sur rémunération non régularisés, aux validations de services auxiliaires et aux rachats d'années d'études - article 2 AUTONOME MODIFIE, en vigueur du 2019-08-30 au 2020-06-08</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025075806?vers=git&vers=legifrance">Loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication (Loi Léotard) - article 30-1 AUTONOME MODIFIE, en vigueur du 2011-12-30 au 2013-11-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029321729?vers=git&vers=legifrance">Code du service national - article L120-34 AUTONOME MODIFIE, en vigueur du 2014-08-02 au 2017-01-29</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021449387?vers=git&vers=legifrance">Arrêté du 1er décembre 2009 portant création des commissions administratives paritaires nationales et locales compétentes à l'égard des corps des personnels techniques du ministère de l'intérieur - article 7 AUTONOME ABROGE, en vigueur du 2010-05-01 au 2014-07-21</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006393955?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6251-18 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000042999553?vers=git&vers=legifrance">Ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique, social et environnemental - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2021-04-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031367929?vers=git&vers=legifrance">Code des relations entre le public et l'administration - article L521-1 AUTONOME VIGUEUR_DIFF, en vigueur depuis le 2016-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031367954?vers=git&vers=legifrance">Code des relations entre le public et l'administration - article L531-1 AUTONOME VIGUEUR_DIFF, en vigueur depuis le 2016-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034105513?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 73 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027440123?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME MODIFIE, en vigueur du 2015-03-22 au 2017-09-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000017854596?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME MODIFIE, en vigueur du 2008-02-10 au 2015-03-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018220560?vers=git&vers=legifrance">Décret n° 2008-227 du 5 mars 2008 abrogeant et remplaçant le décret n° 66-850 du 15 novembre 1966 relatif à la responsabilité personnelle et pécuniaire des régisseurs - article 24 AUTONOME ABROGE, en vigueur du 2008-03-08 au 2023-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527579?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 72 AUTONOME VIGUEUR, en vigueur depuis le 2003-03-29</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021449381?vers=git&vers=legifrance">Arrêté du 1er décembre 2009 portant création des commissions administratives paritaires nationales et locales compétentes à l'égard des corps des personnels techniques du ministère de l'intérieur - article 4 AUTONOME ABROGE, en vigueur du 2010-05-01 au 2014-07-21</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022782147?vers=git&vers=legifrance">Arrêté du 25 août 2010 relatif à la procédure de désignation des membres du Conseil économique, social et environnemental représentant les activités économiques et sociales des départements et régions d'outre-mer, des collectivités d'outre-mer régies par l'article 74 de la Constitution et de la Nouvelle-Calédonie - article 2 AUTONOME ABROGE, en vigueur du 2010-09-01 au 2015-07-26</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022782150?vers=git&vers=legifrance">Arrêté du 25 août 2010 relatif à la procédure de désignation des membres du Conseil économique, social et environnemental représentant les activités économiques et sociales des départements et régions d'outre-mer, des collectivités d'outre-mer régies par l'article 74 de la Constitution et de la Nouvelle-Calédonie - article 4 AUTONOME ABROGE, en vigueur du 2010-09-01 au 2015-07-26</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030930230?vers=git&vers=legifrance">Loi du 1er juillet 1901 relative au contrat d'association - article 21 bis AUTONOME VIGUEUR, en vigueur depuis le 2015-07-25</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018222059?vers=git&vers=legifrance">Décret n° 2008-228 du 5 mars 2008 relatif à la constatation et à l'apurement des débets des comptables publics et assimilés - article 24 AUTONOME ABROGE, en vigueur du 2008-03-08 au 2023-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000035586184?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME MODIFIE, en vigueur du 2017-09-17 au 2019-07-07</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021664571?vers=git&vers=legifrance">Loi n° 63-156 du 23 février 1963 de finances pour 1963 (2e partie-Moyens des services et dispositions spéciales). - article 60 AUTONOME MODIFIE, en vigueur du 2010-01-01 au 2012-07-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023245319?vers=git&vers=legifrance">Loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique. - article 9-1-A AUTONOME MODIFIE_MORT_NE, en vigueur du 2014-03-01 au 2013-05-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020105569?vers=git&vers=legifrance">Code électoral - article L125 AUTONOME VIGUEUR, en vigueur depuis le 2012-06-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022785260?vers=git&vers=legifrance">Décret n° 2010-1048 du 1er septembre 2010 relatif à la Commission nationale d'évaluation des politiques de l'Etat outre-mer - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2010-09-04</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023245328?vers=git&vers=legifrance">Loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique. - article 8 AUTONOME MODIFIE_MORT_NE, en vigueur du 2014-03-01 au 2013-05-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024412309?vers=git&vers=legifrance">Ordonnance n° 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique et social - article 7 AUTONOME MODIFIE, en vigueur du 2014-03-01 au 2021-04-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741680?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241101?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74-1 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394293?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6413-1 AUTONOME VIGUEUR, en vigueur depuis le 2008-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006354262?vers=git&vers=legifrance">Code électoral - article LO520 AUTONOME MODIFIE, en vigueur du 2007-02-22 au 2015-03-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024042377?vers=git&vers=legifrance">Loi n° 55-385 du 3 avril 1955 relatif à l'état d'urgence. - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2011-05-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029993908?vers=git&vers=legifrance">Décret n°55-1397 du 22 octobre 1955 instituant la carte nationale d'identité - article 15 AUTONOME MODIFIE, en vigueur du 2014-12-29 au 2015-02-16</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031365601?vers=git&vers=legifrance">Ordonnance n° 2015-1341 du 23 octobre 2015 relative aux dispositions législatives du code des relations entre le public et l'administration - article 8 AUTONOME VIGUEUR_DIFF, en vigueur depuis le 2016-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394425?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6461-18 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000045038263?vers=git&vers=legifrance">Arrêté du 18 avril 2013 pris pour l'application de l'article 128 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique et fixant l'assignation comptable des rémunérations des personnels de l'Etat servies sans ordonnancement préalable ainsi que des titres de perception émis à l'encontre des personnels et relatifs aux indus de rémunération, aux acomptes sur rémunération non régularisés, aux validations de services auxiliaires et aux rachats d'années d'études - article 2 AUTONOME MODIFIE, en vigueur du 2022-01-01 au 2022-09-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027439866?vers=git&vers=legifrance">Code électoral - article LO548 AUTONOME VIGUEUR, en vigueur depuis le 2015-03-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027591431?vers=git&vers=legifrance">Loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales. - article 32 AUTONOME ABROGE, en vigueur du 2013-06-22 au 2024-09-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034105673?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 146 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006393572?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6111-1 AUTONOME MODIFIE, en vigueur du 2007-02-22 au 2011-03-31</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028350899?vers=git&vers=legifrance">Décret n°55-1397 du 22 octobre 1955 instituant la carte nationale d'identité - article 15 AUTONOME MODIFIE, en vigueur du 2014-01-01 au 2014-12-29</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022232366?vers=git&vers=legifrance">Décret n°55-1397 du 22 octobre 1955 instituant la carte nationale d'identité - article 15 AUTONOME MODIFIE, en vigueur du 2010-05-20 au 2014-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006354294?vers=git&vers=legifrance">Code électoral - article LO548 AUTONOME MODIFIE, en vigueur du 2007-02-22 au 2015-03-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032274253?vers=git&vers=legifrance">Code électoral - article LO135-2 AUTONOME MODIFIE, en vigueur du 2016-03-19 au 2017-09-17</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394289?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6411-1 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027439874?vers=git&vers=legifrance">Code électoral - article LO493 AUTONOME MODIFIE, en vigueur du 2015-03-22 au 2015-11-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030921903?vers=git&vers=legifrance">Ordonnance n° 2015-904 du 23 juillet 2015 portant simplification du régime des associations et des fondations - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2015-07-25</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021288977?vers=git&vers=legifrance">Décret n° 2009-1405 du 17 novembre 2009 relatif à la consultation des électeurs de la Guyane en application des articles 72-4 et 73 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2009-11-20</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021288984?vers=git&vers=legifrance">Décret n° 2009-1406 du 17 novembre 2009 relatif à la consultation des électeurs de la Martinique en application des articles 72-4 et 73 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2009-11-20</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020628786?vers=git&vers=legifrance">Arrêté du 7 mai 2009 relatif à la procédure de désignation des membres du conseil économique, social et environnemental représentant les activités économiques et sociales des départements et régions d'outre-mer, des collectivités d'outre-mer régies par l'article 74 de la Constitution et de la Nouvelle-Calédonie - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-20</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034105679?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024023488?vers=git&vers=legifrance">LOI n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit - article 200 AUTONOME VIGUEUR, en vigueur depuis le 2011-05-19</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024023554?vers=git&vers=legifrance">LOI n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2011-05-19</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Textes faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000021288980?vers=git&vers=legifrance">Décret n° 2009-1406 du 17 novembre 2009 relatif à la consultation des électeurs de la Martinique en application des articles 72-4 et 73 de la Constitution VIGUEUR, en vigueur depuis le 2009-11-20</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021288029?vers=git&vers=legifrance">Décret n° 2009-1406 du 17 novembre 2009 relatif à la consultation des électeurs de la Martinique en application des articles 72-4 et 73 de la Constitution</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000017571600?vers=git&vers=legifrance">Arrêté du 26 novembre 2007 portant fermeture du service de la police aux frontières de Saint-Barthélemy</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020612596?vers=git&vers=legifrance">Ordonnance n° 2009-536 du 14 mai 2009 portant diverses dispositions d'adaptation du droit outre-mer</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020900826?vers=git&vers=legifrance">Décret n° 2009-906 du 24 juillet 2009 relatif aux pouvoirs du représentant de l'Etat, à l'organisation et à l'action des services de l'Etat à Saint-Barthélemy et à Saint-Martin</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020900848?vers=git&vers=legifrance">Décret n° 2009-907 du 24 juillet 2009 relatif aux services de la préfecture de Saint-Barthélemy et de Saint-Martin</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021288022?vers=git&vers=legifrance">Décret n° 2009-1405 du 17 novembre 2009 relatif à la consultation des électeurs de la Guyane en application des articles 72-4 et 73 de la Constitution</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020723304?vers=git&vers=legifrance">Décret n° 2009-650 du 9 juin 2009 modifiant diverses dispositions relatives à l'organisation administrative des collectivités de Saint-Barthélemy et de Saint-Martin</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020176033?vers=git&vers=legifrance">Ordonnance n° 2009-102 du 30 janvier 2009 relative aux informations sur le donneur d'ordre qui doivent accompagner les virements de fonds à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021528544?vers=git&vers=legifrance">Décret n° 2009-1644 du 23 décembre 2009 portant extension et adaptation à la Nouvelle-Calédonie et à la Polynésie française de diverses dispositions du code de la route</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020612883?vers=git&vers=legifrance">Ordonnance n° 2009-537 du 14 mai 2009 portant extension et adaptation à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie de diverses dispositions de nature législative</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020792979?vers=git&vers=legifrance">Ordonnance n° 2009-799 du 24 juin 2009 portant actualisation et adaptation de la législation financière et de la législation douanière applicables en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna, à Saint-Pierre-et-Miquelon et à Mayotte</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020887172?vers=git&vers=legifrance">Ordonnance n° 2009-884 du 22 juillet 2009 portant extension en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna de dispositions des ordonnances n° 2009-79 du 22 janvier 2009 créant l'Autorité des normes comptables et n° 2009-107 du 30 janvier 2009 relative aux sociétés d'investissement à capital fixe, aux fonds fermés étrangers et à certains instruments financiers</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020499142?vers=git&vers=legifrance">Ordonnance n° 2009-394 du 9 avril 2009 portant extension de dispositions de l'ordonnance n° 2008-1081 du 23 octobre 2008 réformant le cadre de la gestion d'actifs pour compte de tiers en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020728509?vers=git&vers=legifrance">Ordonnance n° 2009-664 du 11 juin 2009 relative à l'organisation du service public de l'emploi et à la formation professionnelle à Mayotte</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020176050?vers=git&vers=legifrance">Ordonnance n° 2009-103 du 30 janvier 2009 prise pour l'application à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna de certaines mesures de gel des avoirs</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021344815?vers=git&vers=legifrance">Décision n° 328776 du 25 novembre 2009 du Conseil d'Etat statuant au contentieux (section du contentieux, 10e et 9e sous-sections réunies) sur le rapport de la 10e sous-section de la section du contentieux</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000020729274?vers=git&vers=legifrance">Ordonnance n° 2009-664 du 11 juin 2009 relative à l'organisation du service public de l'emploi et à la formation professionnelle à Mayotte VIGUEUR, en vigueur depuis le 2009-06-13</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020792835?vers=git&vers=legifrance">Ordonnance n° 2009-797 du 24 juin 2009 relative à l'application à Saint-Barthélemy, à Saint-Martin, à Saint-Pierre-et-Miquelon, à Mayotte, en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna de l'ordonnance n° 2009-15 du 8 janvier 2009 relative aux instruments financiers</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021528553?vers=git&vers=legifrance">Décret n° 2009-1645 du 23 décembre 2009 pris pour l'application de l'article LO 6251-3 du code général des collectivités territoriales et portant approbation totale d'un projet d'acte déterminant dans le domaine de la loi les sanctions applicables en matière d'urbanisme</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020792894?vers=git&vers=legifrance">Ordonnance n° 2009-798 du 24 juin 2009 portant extension de l'ordonnance n° 2009-80 du 22 janvier 2009 relative à l'appel public à l'épargne et portant diverses dispositions en matière financière en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020899930?vers=git&vers=legifrance">Ordonnance n° 2009-896 du 24 juillet 2009 portant actualisation du droit commercial et du droit pénal applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000021288973?vers=git&vers=legifrance">Décret n° 2009-1405 du 17 novembre 2009 relatif à la consultation des électeurs de la Guyane en application des articles 72-4 et 73 de la Constitution VIGUEUR, en vigueur depuis le 2009-11-20</a> CITATION source
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528764?vers=git&vers=legifrance">LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
     </li>
   </ul>
   
@@ -495,6 +80,9 @@ consultation de l'assemblée territoriale intéressée.
     </li>
     <li>
       1990-12-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027591431?vers=git&vers=legifrance">Loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales. - article 32 AUTONOME ABROGE, en vigueur du 2013-06-22 au 2024-09-01</a>
+    </li>
+    <li>
+      1992-06-25 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528764?vers=git&vers=legifrance">LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 3 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2000-06-21 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019463025?vers=git&vers=legifrance">Décret n°2000-559 du 21 juin 2000 portant organisation générale de l'armée de terre - article 6 AUTONOME ABROGE, en vigueur du 2008-09-13 au 2008-11-28</a>
@@ -736,9 +324,9 @@ consultation de l'assemblée territoriale intéressée.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527584.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527584.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527584.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527585.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527585.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527585.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xii/article_74.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527584/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527585/)
 </details>

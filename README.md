@@ -32,8 +32,9 @@ promulgue la loi constitutionnelle dont la teneur suit :
 - [Titre X : Le Conseil économique et social.](titre_x/README.md)
 - [Titre XI : Des collectivités territoriales](titre_xi/README.md)
 - [Titre XII : De la Communauté.](titre_xii/README.md)
-- [Titre XIV : De la révision](titre_xiv/README.md)
-- [Titre XV : Dispositions transitoires.](titre_xv/README.md)
+- [Titre XIV : Des Communautés européennes et de l'Union européenne.](titre_xiv/README.md)
+- [Titre XV : De la révision](titre_xv/README.md)
+- [Titre XVI : Dispositions transitoires.](titre_xvi/README.md)
 
 Le Président de la République : RENE COTY<br />
 
