@@ -3,16 +3,16 @@ Nature: Article
 Numéro: 74
 Type: AUTONOME
 État: MODIFIE
-Date de début: 1992-06-26
-Date de fin: 1993-07-28
-Identifiant: LEGIARTI000006527585
+Date de début: 1993-07-28
+Date de fin: 2003-03-29
+Identifiant: LEGIARTI000006527586
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX074AAXXXXXXAB
+Ancien identifiant: PPCACXXXXXX074AAXXXXXXAC
 ---
 
 # Article 74
 
-Les territoires d'Outre-mer de la République ont une organisation particulière
+Les territoires d'outre-mer de la République ont une organisation particulière
 tenant compte de leurs intérêts propres dans l'ensemble des intérêts de la
 République.<br />
 
@@ -32,7 +32,7 @@ modifiées par la loi après consultation de l'assemblée territoriale intéress
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528764?vers=git&vers=legifrance">LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
     </li>
   </ul>
   
@@ -82,7 +82,7 @@ modifiées par la loi après consultation de l'assemblée territoriale intéress
       1990-12-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027591431?vers=git&vers=legifrance">Loi n° 90-1258 du 31 décembre 1990 relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé et aux sociétés de participations financières de professions libérales. - article 32 AUTONOME ABROGE, en vigueur du 2013-06-22 au 2024-09-01</a>
     </li>
     <li>
-      1992-06-25 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528764?vers=git&vers=legifrance">LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 3 ENTIEREMENT_MODIF</a>
+      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2000-06-21 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019463025?vers=git&vers=legifrance">Décret n°2000-559 du 21 juin 2000 portant organisation générale de l'armée de terre - article 6 AUTONOME ABROGE, en vigueur du 2008-09-13 au 2008-11-28</a>
@@ -324,9 +324,9 @@ modifiées par la loi après consultation de l'assemblée territoriale intéress
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527585.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527585.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527585.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527586.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527586.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527586.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xii/article_74.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527585/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527586/)
 </details>

@@ -29,12 +29,14 @@ promulgue la loi constitutionnelle dont la teneur suit :
 - [Titre VII : Le Conseil constitutionnel](titre_vii/README.md)
 - [Titre VIII : De l'autorité judiciaire](titre_viii/README.md)
 - [Titre IX : La Haute Cour de Justice.](titre_ix/README.md)
-- [Titre X : Le Conseil économique et social.](titre_x/README.md)
-- [Titre XI : Des collectivités territoriales](titre_xi/README.md)
-- [Titre XII : De la Communauté.](titre_xii/README.md)
-- [Titre XIV : Des Communautés européennes et de l'Union européenne.](titre_xiv/README.md)
-- [Titre XV : De la révision](titre_xv/README.md)
-- [Titre XVI : Dispositions transitoires.](titre_xvi/README.md)
+- [Titre X : De la responsabilité pénale des membres du Gouvernement](titre_x/README.md)
+- [Titre XI : Le Conseil économique et social.](titre_xi/README.md)
+- [Titre XII : Des collectivités territoriales](titre_xii/README.md)
+- [Titre XIII : De la Communauté.](titre_xiii/README.md)
+- [Titre XIV : Des accords d'association.](titre_xiv/README.md)
+- [Titre XV : Des Communautés européennes et de l'Union européenne](titre_xv/README.md)
+- [Titre XVI : De la révision](titre_xvi/README.md)
+- [Titre XVII : Dispositions transitoires.](titre_xvii/README.md)
 
 Le Président de la République : RENE COTY<br />
 
