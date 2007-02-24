@@ -2,21 +2,34 @@
 Nature: Article
 Numéro: 68
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1993-07-28
-Date de fin: 2007-02-24
-Identifiant: LEGIARTI000006527563
+État: VIGUEUR
+Date de début: 2007-02-24
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000006527564
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX068AAXXXXXXAB
+Ancien identifiant: PPCACXXXXXX068AAXXXXXXAC
 ---
 
 # Article 68
 
-Le Président de la République n'est responsable des actes accomplis dans
-l'exercice de ses fonctions qu'en cas de haute trahison. Il ne peut être mis en
-accusation que par les deux assemblées statuant par un vote identique au scrutin
-public et à la majorité absolue des membres les composant ; il est jugé par la
-Haute Cour de Justice.
+Le Président de la République ne peut être destitué qu'en cas de manquement à
+ses devoirs manifestement incompatible avec l'exercice de son mandat. La
+destitution est prononcée par le Parlement constitué en Haute Cour.<br />
+
+La proposition de réunion de la Haute Cour adoptée par une des assemblées du
+Parlement est aussitôt transmise à l'autre qui se prononce dans les quinze
+jours.<br />
+
+La Haute Cour est présidée par le président de l'Assemblée nationale. Elle
+statue dans un délai d'un mois, à bulletins secrets, sur la destitution. Sa
+décision est d'effet immédiat.<br />
+
+Les décisions prises en application du présent article le sont à la majorité des
+deux tiers des membres composant l'assemblée concernée ou la Haute Cour. Toute
+délégation de vote est interdite. Seuls sont recensés les votes favorables à la
+proposition de réunion de la Haute Cour ou à la destitution.<br />
+
+Une loi organique fixe les conditions d'application du présent article.
 
 
 <details>
@@ -26,7 +39,7 @@ Haute Cour de Justice.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528768?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 2 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276554?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-238 du 23 février 2007 portant modification du titre IX de la Constitution - article unique ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -37,7 +50,7 @@ Haute Cour de Justice.
       1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527561?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-24</a>
     </li>
     <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528768?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 2 ENTIEREMENT_MODIF</a>
+      2007-02-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276554?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-238 du 23 février 2007 portant modification du titre IX de la Constitution - article unique ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2014-11-24 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029797076?vers=git&vers=legifrance">LOI organique n° 2014-1392 du 24 novembre 2014 portant application de l'article 68 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-11-26</a>
@@ -48,9 +61,9 @@ Haute Cour de Justice.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527563.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527563.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527563.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527564.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527564.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527564.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_ix/article_68.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527563/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527564/)
 </details>
