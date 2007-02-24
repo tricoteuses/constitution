@@ -9,6 +9,7 @@ Identifiant: LEGISCTA000006095828
 - [Article 64](article_64.md)
 - [Article 65](article_65.md)
 - [Article 66](article_66.md)
+- [Article 66-1](article_66-1.md)
 
 <details>
   <summary><h2>Autres formats</h2></summary>
