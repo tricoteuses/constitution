@@ -28,7 +28,7 @@ promulgue la loi constitutionnelle dont la teneur suit :
 - [Titre VI : Des traités et accords internationaux](titre_vi/README.md)
 - [Titre VII : Le Conseil constitutionnel](titre_vii/README.md)
 - [Titre VIII : De l'autorité judiciaire](titre_viii/README.md)
-- [Titre IX : La Haute Cour de Justice.](titre_ix/README.md)
+- [Titre IX : La Haute Cour](titre_ix/README.md)
 - [Titre X : De la responsabilité pénale des membres du Gouvernement](titre_x/README.md)
 - [Titre XI : Le Conseil économique et social.](titre_xi/README.md)
 - [Titre XII : Des collectivités territoriales](titre_xii/README.md)
