@@ -30,10 +30,10 @@ promulgue la loi constitutionnelle dont la teneur suit :
 - [Titre VIII : De l'autorité judiciaire](titre_viii/README.md)
 - [Titre IX : La Haute Cour](titre_ix/README.md)
 - [Titre X : De la responsabilité pénale des membres du Gouvernement](titre_x/README.md)
-- [Titre XI : Le Conseil économique et social.](titre_xi/README.md)
+- [Titre XI : Le Conseil économique, social et environnemental](titre_xi/README.md)
 - [Titre XII : Des collectivités territoriales](titre_xii/README.md)
 - [Titre XIII : Dispositions transitoires relatives à la Nouvelle-Calédonie](titre_xiii/README.md)
-- [Titre XIV : Des accords d'association.](titre_xiv/README.md)
+- [Titre XIV :  De la francophonie et des accords d'association](titre_xiv/README.md)
 - [Titre XV : Des Communautés européennes et de l'Union européenne](titre_xv/README.md)
 - [Titre XVI : De la révision](titre_xvi/README.md)
 
