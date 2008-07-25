@@ -2,35 +2,35 @@
 Nature: Article
 Numéro: 65
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1993-07-28
-Date de fin: 2008-07-25
-Identifiant: LEGIARTI000006527557
+État: VIGUEUR
+Date de début: 2008-07-25
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000019241083
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX065AAXXXXXXAB
 ---
 
 # Article 65
 
-Le Conseil supérieur de la magistrature est présidé par le Président de la
-République. Le ministre de la justice en est le vice-président de droit. Il peut
-suppléer le Président de la République.<br />
+Le Conseil supérieur de la magistrature comprend une formation compétente à
+l'égard des magistrats du siège et une formation compétente à l'égard des
+magistrats du parquet.<br />
 
-Le Conseil supérieur de la magistrature comprend deux formations, l'une
-compétente à l'égard des magistrats du siège, l'autre à l'égard des magistrats
-du parquet.<br />
+La formation compétente à l'égard des magistrats du siège est présidée par le
+premier président de la Cour de cassation. Elle comprend, en outre, cinq
+magistrats du siège et un magistrat du parquet, un conseiller d'État désigné par
+le Conseil d'État, un avocat ainsi que six personnalités qualifiées qui
+n'appartiennent ni au Parlement, ni à l'ordre judiciaire, ni à l'ordre
+administratif. Le Président de la République, le Président de l'Assemblée
+nationale et le Président du Sénat désignent chacun deux personnalités
+qualifiées. La procédure prévue au dernier alinéa de l'article 13 est applicable
+aux nominations des personnalités qualifiées. Les nominations effectuées par le
+président de chaque assemblée du Parlement sont soumises au seul avis de la
+commission permanente compétente de l'assemblée intéressée.<br />
 
-La formation compétente à l'égard des magistrats du siège comprend, outre le
-Président de la République et le garde des sceaux, cinq magistrats du siège et
-un magistrat du parquet, un conseiller d'Etat, désigné par le Conseil d'Etat, et
-trois personnalités n'appartenant ni au Parlement ni à l'ordre judiciaire,
-désignées respectivement par le Président de la République, le président de
-l'Assemblée nationale et le président du Sénat.<br />
-
-La formation compétente à l'égard des magistrats du parquet comprend, outre le
-Président de la République et le garde des sceaux, cinq magistrats du parquet et
-un magistrat du siège, le conseiller d'Etat et les trois personnalités
-mentionnés à l'alinéa précédent.<br />
+La formation compétente à l'égard des magistrats du parquet est présidée par le
+procureur général près la Cour de cassation. Elle comprend, en outre, cinq
+magistrats du parquet et un magistrat du siège, ainsi que le conseiller d'État,
+l'avocat et les six personnalités qualifiées mentionnés au deuxième alinéa.<br />
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des
 magistrats du siège fait des propositions pour les nominations des magistrats du
@@ -38,19 +38,41 @@ siège à la Cour de cassation, pour celles de premier président de cour d'appe
 et pour celles de président de tribunal de grande instance. Les autres
 magistrats du siège sont nommés sur son avis conforme.<br />
 
-Elle statue comme conseil de discipline des magistrats du siège. Elle est alors
-présidée par le premier président de la Cour de cassation.<br />
+La formation du Conseil supérieur de la magistrature compétente à l'égard des
+magistrats du parquet donne son avis sur les nominations qui concernent les
+magistrats du parquet.<br />
 
 La formation du Conseil supérieur de la magistrature compétente à l'égard des
-magistrats du parquet donne son avis pour les nominations concernant les
-magistrats du parquet, à l'exception des emplois auxquels il est pourvu en
-conseil des ministres.<br />
+magistrats du siège statue comme conseil de discipline des magistrats du siège.
+Elle comprend alors, outre les membres visés au deuxième alinéa, le magistrat du
+siège appartenant à la formation compétente à l'égard des magistrats du
+parquet.<br />
 
-Elle donne son avis sur les sanctions disciplinaires concernant les magistrats
-du parquet. Elle est alors présidée par le procureur général près la Cour de
-cassation.<br />
+La formation du Conseil supérieur de la magistrature compétente à l'égard des
+magistrats du parquet donne son avis sur les sanctions disciplinaires qui les
+concernent. Elle comprend alors, outre les membres visés au troisième alinéa, le
+magistrat du parquet appartenant à la formation compétente à l'égard des
+magistrats du siège.<br />
 
-Une loi organique détermine les conditions d'application du présent article.
+Le Conseil supérieur de la magistrature se réunit en formation plénière pour
+répondre aux demandes d'avis formulées par le Président de la République au
+titre de l'article 64. Il se prononce, dans la même formation, sur les questions
+relatives à la déontologie des magistrats ainsi que sur toute question relative
+au fonctionnement de la justice dont le saisit le ministre de la justice. La
+formation plénière comprend trois des cinq magistrats du siège mentionnés au
+deuxième alinéa, trois des cinq magistrats du parquet mentionnés au troisième
+alinéa, ainsi que le conseiller d'État, l'avocat et les six personnalités
+qualifiées mentionnés au deuxième alinéa. Elle est présidée par le premier
+président de la Cour de cassation, que peut suppléer le procureur général près
+cette cour.<br />
+
+Sauf en matière disciplinaire, le ministre de la justice peut participer aux
+séances des formations du Conseil supérieur de la magistrature.<br />
+
+Le Conseil supérieur de la magistrature peut être saisi par un justiciable dans
+les conditions fixées par une loi organique.<br />
+
+La loi organique détermine les conditions d'application du présent article.
 
 
 <details>
@@ -60,7 +82,19 @@ Une loi organique détermine les conditions d'application du présent article.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528767?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 1 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527555?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 64 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238700?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 31 ENTIEREMENT_MODIF</a> MODIFIE source
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241006?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527476?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 2003-03-29 au 2008-07-25</a> CITATION cible
     </li>
   </ul>
   
@@ -68,10 +102,13 @@ Une loi organique détermine les conditions d'application du présent article.
   
   <ul>
     <li>
-      1958-12-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022510676?vers=git&vers=legifrance">Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24</a>
+      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29</a>
     </li>
     <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528767?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 1 ENTIEREMENT_MODIF</a>
+      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527555?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 64 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05</a>
+    </li>
+    <li>
+      1958-12-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022510676?vers=git&vers=legifrance">Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24</a>
     </li>
     <li>
       1994-02-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022510633?vers=git&vers=legifrance">Loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature - article 10-2 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24</a>
@@ -84,6 +121,9 @@ Une loi organique détermine les conditions d'application du présent article.
     </li>
     <li>
       1995-05-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025110390?vers=git&vers=legifrance">Décret n°95-735 du 10 mai 1995 relatif à la rémunération des membres du Conseil supérieur de la magistrature ainsi que des membres du secrétariat général de ce conseil - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-01</a>
+    </li>
+    <li>
+      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238700?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 31 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2010-05-25 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022265706?vers=git&vers=legifrance">LOI organique n° 2010-541 du 25 mai 2010 prorogeant le mandat des membres du Conseil supérieur de la magistrature - article unique AUTONOME VIGUEUR, en vigueur depuis le 2010-05-27</a>
@@ -100,9 +140,9 @@ Une loi organique détermine les conditions d'application du présent article.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527557.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527557.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527557.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241083.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241083.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241083.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_viii/article_65.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527557/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241083/)
 </details>

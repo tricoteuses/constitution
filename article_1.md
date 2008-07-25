@@ -2,12 +2,11 @@
 Nature: Article
 Numéro: 1
 Type: AUTONOME
-État: MODIFIE
-Date de début: 2003-03-29
-Date de fin: 2008-07-25
-Identifiant: LEGIARTI000006527450
+État: VIGUEUR
+Date de début: 2008-07-25
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000019240997
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX001AAXXXXXXAC
 ---
 
 # Article 1
@@ -15,7 +14,10 @@ Ancien identifiant: PPCACXXXXXX001AAXXXXXXAC
 La France est une République indivisible, laïque, démocratique et sociale. Elle
 assure l'égalité devant la loi de tous les citoyens sans distinction d'origine,
 de race ou de religion. Elle respecte toutes les croyances. Son organisation est
-décentralisée.
+décentralisée.<br />
+
+La loi favorise l'égal accès des femmes et des hommes aux mandats électoraux et
+fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales.
 
 
 <details>
@@ -25,7 +27,7 @@ décentralisée.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276204?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 1 ENTIEREMENT_MODIF</a> MODIFIE source
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238672?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 1 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -33,7 +35,7 @@ décentralisée.
   
   <ul>
     <li>
-      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276204?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 1 ENTIEREMENT_MODIF</a>
+      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238672?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 1 ENTIEREMENT_MODIF</a>
     </li>
   </ul>
 </details>
@@ -41,9 +43,9 @@ décentralisée.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527450.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527450.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527450.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/09/LEGIARTI000019240997.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/09/LEGIARTI000019240997.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/09/LEGIARTI000019240997.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/article_1.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527450/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019240997/)
 </details>

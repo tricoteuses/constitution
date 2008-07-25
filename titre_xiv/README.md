@@ -6,6 +6,7 @@ Identifiant: LEGISCTA000019241110
 
 # Titre XIV : De la francophonie et des accords d'association
 
+- [Article 87](article_87.md)
 - [Article 88](article_88.md)
 
 <details>

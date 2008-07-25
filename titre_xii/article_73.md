@@ -2,12 +2,11 @@
 Nature: Article
 Numéro: 73
 Type: AUTONOME
-État: MODIFIE
-Date de début: 2003-03-29
-Date de fin: 2008-07-25
-Identifiant: LEGIARTI000006527582
+État: VIGUEUR
+Date de début: 2008-07-25
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000019241099
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX073AAXXXXXXAC
 ---
 
 # Article 73
@@ -17,12 +16,14 @@ applicables de plein droit. Ils peuvent faire l'objet d'adaptations tenant aux
 caractéristiques et contraintes particulières de ces collectivités.<br />
 
 Ces adaptations peuvent être décidées par ces collectivités dans les matières où
-s'exercent leurs compétences et si elles y ont été habilitées par la loi.<br />
+s'exercent leurs compétences et si elles y ont été habilitées selon le cas, par
+la loi ou par le règlement.<br />
 
 Par dérogation au premier alinéa et pour tenir compte de leurs spécificités, les
-collectivités régies par le présent article peuvent être habilitées par la loi à
-fixer elles-mêmes les règles applicables sur leur territoire, dans un nombre
-limité de matières pouvant relever du domaine de la loi.<br />
+collectivités régies par le présent article peuvent être habilitées, selon le
+cas, par la loi ou par le règlement, à fixer elles-mêmes les règles applicables
+sur leur territoire, dans un nombre limité de matières pouvant relever du
+domaine de la loi ou du règlement.<br />
 
 Ces règles ne peuvent porter sur la nationalité, les droits civiques, les
 garanties des libertés publiques, l'état et la capacité des personnes,
@@ -54,7 +55,10 @@ inscrits dans le ressort de ces collectivités.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276206?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 9 ENTIEREMENT_MODIF</a> MODIFIE source
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527596?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 72-4 AUTONOME VIGUEUR, en vigueur depuis le 2003-03-29</a> CITATION cible
+    </li>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238727?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 38 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -62,7 +66,7 @@ inscrits dans le ressort de ces collectivités.
   
   <ul>
     <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527596?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 72-4 AUTONOME VIGUEUR, en vigueur depuis le 2003-03-29</a>
+      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527596?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 72-4 AUTONOME VIGUEUR, en vigueur depuis le 2003-03-29</a>
     </li>
     <li>
       1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527587?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME VIGUEUR, en vigueur depuis le 2003-03-29</a>
@@ -98,13 +102,13 @@ inscrits dans le ressort de ces collectivités.
       2002-02-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034109930?vers=git&vers=legifrance">Ordonnance n° 2002-149 du 7 février 2002 relative à l'extension et la généralisation des prestations familiales et à la protection sociale dans le Département de Mayotte - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2018-01-01</a>
     </li>
     <li>
-      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276206?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 9 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
       2004-02-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741680?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a>
     </li>
     <li>
       2007-12-21 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000049999641?vers=git&vers=legifrance">Arrêté du 21 décembre 2007 relatif aux modalités d'établissement des redevances pour pollution de l'eau et pour modernisation des réseaux de collecte - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2024-07-17</a>
+    </li>
+    <li>
+      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238727?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 38 ENTIEREMENT_MODIF</a>
     </li>
     <li>
       2009-04-15 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022405347?vers=git&vers=legifrance">LOI organique n° 2009-403 du 15 avril 2009 relative à l'application des articles 34-1, 39 et 44 de la Constitution - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2010-06-30</a>
@@ -625,9 +629,9 @@ inscrits dans le ressort de ces collectivités.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527582.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527582.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527582.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241099.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241099.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241099.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xii/article_73.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527582/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241099/)
 </details>

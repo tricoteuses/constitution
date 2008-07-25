@@ -2,23 +2,27 @@
 Nature: Article
 Numéro: 69
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1993-07-28
-Date de fin: 2008-07-25
-Identifiant: LEGIARTI000006527571
+État: VIGUEUR
+Date de début: 2008-07-25
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000019241088
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX069AAXXXXXXAB
 ---
 
 # Article 69
 
-Le Conseil économique et social, saisi par le Gouvernement, donne son avis sur
-les projets de loi, d'ordonnance ou de décret ainsi que sur les propositions de
-loi qui lui sont soumis.<br />
+Le Conseil économique, social et environnemental, saisi par le Gouvernement,
+donne son avis sur les projets de loi, d'ordonnance ou de décret ainsi que sur
+les propositions de loi qui lui sont soumis.<br />
 
-Un membre du Conseil économique et social peut être désigné par celui-ci pour
-exposer devant les assemblées parlementaires l'avis du Conseil sur les projets
-ou propositions qui lui ont été soumis.
+Un membre du Conseil économique, social et environnemental peut être désigné par
+celui-ci pour exposer devant les assemblées parlementaires l'avis du Conseil sur
+les projets ou propositions qui lui ont été soumis.<br />
+
+Le Conseil économique, social et environnemental peut être saisi par voie de
+pétition dans les conditions fixées par une loi organique. Après examen de la
+pétition, il fait connaître au Gouvernement et au Parlement les suites qu'il
+propose d'y donner.
 
 
 <details>
@@ -28,7 +32,7 @@ ou propositions qui lui ont été soumis.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238717?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 33 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -36,7 +40,7 @@ ou propositions qui lui ont été soumis.
   
   <ul>
     <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a>
+      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238717?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 33 ENTIEREMENT_MODIF</a>
     </li>
   </ul>
 </details>
@@ -44,9 +48,9 @@ ou propositions qui lui ont été soumis.
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527571.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527571.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527571.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241088.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241088.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241088.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xi/article_69.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527571/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241088/)
 </details>

@@ -2,12 +2,11 @@
 Nature: Article
 Numéro: 16
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1958-10-05
-Date de fin: 2008-07-25
-Identifiant: LEGIARTI000006527479
+État: VIGUEUR
+Date de début: 2008-07-25
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000019241008
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX016AAXXXXXXAA
 ---
 
 # Article 16
@@ -29,7 +28,15 @@ Le Conseil constitutionnel est consulté à leur sujet.<br />
 Le Parlement se réunit de plein droit.<br />
 
 L'Assemblée nationale ne peut être dissoute pendant l'exercice des pouvoirs
-exceptionnels.
+exceptionnels.<br />
+
+Après trente jours d'exercice des pouvoirs exceptionnels, le Conseil
+constitutionnel peut être saisi par le Président de l'Assemblée nationale, le
+Président du Sénat, soixante députés ou soixante sénateurs, aux fins d'examiner
+si les conditions énoncées au premier alinéa demeurent réunies. Il se prononce
+dans les délais les plus brefs par un avis public. Il procède de plein droit à
+cet examen et se prononce dans les mêmes conditions au terme de soixante jours
+d'exercice des pouvoirs exceptionnels et à tout moment au-delà de cette durée.
 
 
 ### Nota
@@ -41,11 +48,19 @@ terme " menacés " devrait en effet s'écrire " menacées ".
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Textes faisant référence à l'article
+  ### Articles faisant référence à l'article
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000000340953?vers=git&vers=legifrance">Décision du 23 avril 1961</a> APPLICATION source
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238682?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 6 ENTIEREMENT_MODIF</a> MODIFIE source
+    </li>
+  </ul>
+  
+  ### Références faites par l'article
+  
+  <ul>
+    <li>
+      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238682?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 6 ENTIEREMENT_MODIF</a>
     </li>
   </ul>
 </details>
@@ -53,9 +68,9 @@ terme " menacés " devrait en effet s'écrire " menacées ".
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527479.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527479.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527479.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241008.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241008.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241008.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_ii/article_16.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527479/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241008/)
 </details>

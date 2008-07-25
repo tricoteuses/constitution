@@ -7,6 +7,7 @@ Identifiant: LEGISCTA000006095825
 # Titre V : Des rapports entre le Parlement et le Gouvernement
 
 - [Article 34](article_34.md)
+- [Article 34-1](article_34-1.md)
 - [Article 35](article_35.md)
 - [Article 36](article_36.md)
 - [Article 37](article_37.md)
@@ -22,6 +23,7 @@ Identifiant: LEGISCTA000006095825
 - [Article 46](article_46.md)
 - [Article 47](article_47.md)
 - [Article 47-1](article_47-1.md)
+- [Article 47-2](article_47-2.md)
 - [Article 48](article_48.md)
 - [Article 49](article_49.md)
 - [Article 50](article_50.md)

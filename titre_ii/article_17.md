@@ -2,25 +2,44 @@
 Nature: Article
 Numéro: 17
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1958-10-05
-Date de fin: 2008-07-25
-Identifiant: LEGIARTI000006527480
+État: VIGUEUR
+Date de début: 2008-07-25
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000019241010
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX017AAXXXXXXAA
 ---
 
 # Article 17
 
-Le Président de la République a le droit de faire grâce.
+Le Président de la République a le droit de faire grâce à titre individuel.
 
+
+<details>
+  <summary><h2>Références</h2></summary>
+
+  ### Articles faisant référence à l'article
+  
+  <ul>
+    <li>
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238660?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 7 ENTIEREMENT_MODIF</a> MODIFIE source
+    </li>
+  </ul>
+  
+  ### Références faites par l'article
+  
+  <ul>
+    <li>
+      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238660?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 7 ENTIEREMENT_MODIF</a>
+    </li>
+  </ul>
+</details>
 
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527480.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527480.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/74/LEGIARTI000006527480.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241010.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241010.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241010.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_ii/article_17.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527480/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241010/)
 </details>
