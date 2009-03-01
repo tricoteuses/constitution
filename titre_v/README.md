@@ -27,7 +27,10 @@ Identifiant: LEGISCTA000006095825
 - [Article 48](article_48.md)
 - [Article 49](article_49.md)
 - [Article 50](article_50.md)
+- [Article 50-1](article_50-1.md)
 - [Article 51](article_51.md)
+- [Article 51-1](article_51-1.md)
+- [Article 51-2](article_51-2.md)
 
 <details>
   <summary><h2>Autres formats</h2></summary>

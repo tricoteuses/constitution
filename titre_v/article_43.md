@@ -2,23 +2,22 @@
 Nature: Article
 Numéro: 43
 Type: AUTONOME
-État: MODIFIE
-Date de début: 1958-10-05
-Date de fin: 2009-03-01
-Identifiant: LEGIARTI000006527519
+État: VIGUEUR
+Date de début: 2009-03-01
+Date de fin: 2999-01-01
+Identifiant: LEGIARTI000019241036
 Origine: LEGI
-Ancien identifiant: PPCACXXXXXX043AAXXXXXXAA
 ---
 
 # Article 43
 
-Les projets et propositions de loi sont, à la demande du Gouvernement ou de
-l'Assemblée qui en est saisie, envoyés pour examen à des commissions
-spécialement désignées à cet effet.<br />
+Les projets et propositions de loi sont envoyés pour examen à l'une des
+commissions permanentes dont le nombre est limité à huit dans chaque
+assemblée.<br />
 
-Les projets et propositions pour lesquels une telle demande n'a pas été faite
-sont envoyés à l'une des commissions permanentes dont le nombre est limité à six
-dans chaque Assemblée.
+À la demande du Gouvernement ou de l'assemblée qui en est saisie, les projets ou
+propositions de loi sont envoyés pour examen à une commission spécialement
+désignée à cet effet.
 
 
 <details>
@@ -28,25 +27,7 @@ dans chaque Assemblée.
   
   <ul>
     <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000035391366?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2017-08-10</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024967160?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 AUTONOME MODIFIE, en vigueur du 2011-12-15 au 2013-07-28</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027782510?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 AUTONOME MODIFIE, en vigueur du 2013-07-28 au 2014-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241032?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 42 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028636465?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 AUTONOME MODIFIE, en vigueur du 2014-02-22 au 2017-08-10</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023519114?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 AUTONOME MODIFIE, en vigueur du 2011-02-05 au 2011-12-15</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513857?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a> CITATION source
+      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238668?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 18 ENTIEREMENT_MODIF</a> MODIFIE source
     </li>
   </ul>
   
@@ -62,15 +43,18 @@ dans chaque Assemblée.
     <li>
       1958-11-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513857?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a>
     </li>
+    <li>
+      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238668?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 18 ENTIEREMENT_MODIF</a>
+    </li>
   </ul>
 </details>
 
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527519.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527519.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527519.md)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241036.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241036.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/19/24/10/LEGIARTI000019241036.md)
 * [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_v/article_43.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527519/)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241036/)
 </details>
