@@ -1,18 +1,23 @@
 ---
 Nature: Article
-Numéro: 88-2
+Numéro: 88-7
 Type: AUTONOME
 État: VIGUEUR
 Date de début: 2009-12-01
 Date de fin: 2999-01-01
-Identifiant: LEGIARTI000018077026
+Identifiant: LEGIARTI000018077015
 Origine: LEGI
 ---
 
-# Article 88-2
+# Article 88-7
 
-La loi fixe les règles relatives au mandat d'arrêt européen en application des
-actes pris par les institutions de l'Union européenne.
+Par le vote d'une motion adoptée en termes identiques par l'Assemblée nationale
+et le Sénat, le Parlement peut s'opposer à une modification des règles
+d'adoption d'actes de l'Union européenne dans les cas prévus, au titre de la
+révision simplifiée des traités ou de la coopération judiciaire civile, par le
+traité sur l'Union européenne et le traité sur le fonctionnement de l'Union
+européenne, tels qu'ils résultent du traité signé à Lisbonne le 13 décembre
+2007.
 
 
 ### Nota
@@ -41,21 +46,15 @@ vigueur le 1er décembre 2009.
     <li>
       2008-02-04 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF</a>
     </li>
-    <li>
-      CITATION source Traité 1992-02-07, signé à Maastricht
-    </li>
-    <li>
-      CITATION source Traité 1997-10-02, signé à Amsterdam
-    </li>
   </ul>
 </details>
 
 <details>
   <summary><h2>Autres formats</h2></summary>
 
-* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/18/07/70/LEGIARTI000018077026.json)
-* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/18/07/70/LEGIARTI000018077026.json)
-* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/18/07/70/LEGIARTI000018077026.md)
-* [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xv/article_88-2.md)
-* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018077026/)
+* [JSON dans git](https://git.tricoteuses.fr/dila/donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/18/07/70/LEGIARTI000018077015.json)
+* [Références JSON dans git](https://git.tricoteuses.fr/dila/references_donnees_juridiques/src/branch/main/LEGI/ARTI/00/00/18/07/70/LEGIARTI000018077015.json)
+* [Markdown dans git](https://git.tricoteuses.fr/dila/textes_juridiques/src/branch/main/LEGI/ARTI/00/00/18/07/70/LEGIARTI000018077015.md)
+* [Markdown chronologique dans git](https://git.tricoteuses.fr/constitution/constitution_du_4_octobre_1958/src/branch/main/titre_xv/article_88-7.md)
+* [Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000018077015/)
 </details>
