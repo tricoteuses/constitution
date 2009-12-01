@@ -11,6 +11,7 @@ Identifiant: LEGISCTA000050961916
 - [Article 88-3](article_88-3.md)
 - [Article 88-4](article_88-4.md)
 - [Article 88-5](article_88-5.md)
+- [Article 88-6](article_88-6.md)
 - [Article 88-7](article_88-7.md)
 
 <details>
