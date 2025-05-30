@@ -11,8 +11,9 @@ Origine: LEGI
 
 # Article 39
 
-L'initiative des lois appartient concurremment au Premier ministre et aux
-membres du Parlement.<br />
+L'initiative des lois appartient concurremment au Premier ministre, aux
+membres du Parlement, ainsi qu'aux citoyens dans les conditions prévues au
+titre V bis.<br />
 
 Les projets de loi sont délibérés en conseil des ministres après avis du Conseil
 d'Etat et déposés sur le bureau de l'une des deux Assemblées. Les projets de loi

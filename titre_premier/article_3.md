@@ -12,7 +12,7 @@ Origine: LEGI
 # Article 3
 
 La souveraineté nationale appartient au peuple qui l'exerce par ses
-représentants et par la voie du référendum.<br />
+représentants, par la voie du référendum, et par des assemblées de citoyens tirés au sort chargés de débattre et de décider sur des sujets déterminés.<br />
 
 Aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.<br />
 
