@@ -25,6 +25,7 @@ promulgue la loi constitutionnelle dont la teneur suit :
 - [Titre III : Le Gouvernement](titre_iii/README.md)
 - [Titre IV : Le Parlement](titre_iv/README.md)
 - [Titre V : Des rapports entre le Parlement et le Gouvernement](titre_v/README.md)
+- [Titre V bis : De la législation par les citoyens](titre_v_bis/README.md)
 - [Titre VI : Des traités et accords internationaux](titre_vi/README.md)
 - [Titre VII : Le Conseil constitutionnel](titre_vii/README.md)
 - [Titre VIII : De l'autorité judiciaire](titre_viii/README.md)
