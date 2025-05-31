@@ -24,15 +24,15 @@ fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales
   <summary><h2>Références</h2></summary>
 
 ### Textes citant cet article
-| Type    | Document                                    |
-| :------ | :------------------------------------------ |
-| MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238672?vers=git&vers=legifrance) |
+| Type    | Sens    | Document                                    |
+| :------ | :------ | :------------------------------------------ |
+| MODIFIE | source | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238672?vers=git&vers=legifrance) |
 
 
 ### Cet article cite les textes suivants
-| Date       | Type    | Document                                    |
-| :--------- | :------ | :------------------------------------------ |
-| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238672?vers=git&vers=legifrance) |
+| Date       | Type    | Sens    | Document                                    |
+| :--------- | :------ | :------ | :------------------------------------------ |
+| 2008-07-23 | MODIFIE | cible | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238672?vers=git&vers=legifrance) |
 
 </details>
 

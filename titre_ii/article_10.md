@@ -22,12 +22,14 @@ délibération ne peut être refusée.
 
 <details>
   <summary><h2>Références</h2></summary>
-### Références reçues par cet article
-| Type    | Document                                    |
-| :------ | :------------------------------------------ |
-| APPLICATION | [Décret du 13 juillet 1983 IL EST DEMANDE AU PARLEMENT UNE NOUVELLE DELIBERATION DE LA LOI SUR L'EXPOSITION UNIVERSELLE DE 1989, ELLE INTERVIENDRA EN PREMIER LIEU A L'ASSEMBLEE NATIONALE](https://legal.tricoteuses.fr//redirection/JORFTEXT000000519991?vers=git&vers=legifrance) |
-| APPLICATION | [Observations du Gouvernement en réponse à la saisine du Conseil constitutionnel en date du 29 octobre 1997 par plus de soixante sénateurs](https://legal.tricoteuses.fr//redirection/JORFTEXT000000553204?vers=git&vers=legifrance) |
-| APPLICATION | [Décret du 9 août 1985 SOUMETTANT LA LOI SUR L'EVOLUTION DE LA NOUVELLE-CALEDONIE A UNE NOUVELLE DELIBERATION](https://legal.tricoteuses.fr//redirection/JORFTEXT000000332234?vers=git&vers=legifrance) |
+
+### Textes citant cet article
+| Type    | Sens    | Document                                    |
+| :------ | :------ | :------------------------------------------ |
+| APPLICATION | source | [Décret du 13 juillet 1983 IL EST DEMANDE AU PARLEMENT UNE NOUVELLE DELIBERATION DE LA LOI SUR L'EXPOSITION UNIVERSELLE DE 1989, ELLE INTERVIENDRA EN PREMIER LIEU A L'ASSEMBLEE NATIONALE](https://legal.tricoteuses.fr//redirection/JORFTEXT000000519991?vers=git&vers=legifrance) |
+| APPLICATION | source | [Observations du Gouvernement en réponse à la saisine du Conseil constitutionnel en date du 29 octobre 1997 par plus de soixante sénateurs](https://legal.tricoteuses.fr//redirection/JORFTEXT000000553204?vers=git&vers=legifrance) |
+| APPLICATION | source | [Décret du 9 août 1985 SOUMETTANT LA LOI SUR L'EVOLUTION DE LA NOUVELLE-CALEDONIE A UNE NOUVELLE DELIBERATION](https://legal.tricoteuses.fr//redirection/JORFTEXT000000332234?vers=git&vers=legifrance) |
+
 </details>
 
 <details>
