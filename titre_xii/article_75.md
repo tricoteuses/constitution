@@ -20,42 +20,24 @@ pas renoncé.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241018?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du 2008-07-25 au 2024-03-10</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527502?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1996-02-23</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000049255019?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 34 AUTONOME VIGUEUR, en vigueur depuis le 2024-03-10</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527503?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du 1996-02-23 au 2003-03-29</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527505?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du 2005-03-02 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527504?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du 2003-03-29 au 2005-03-02</a> CITATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527502?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1996-02-23</a>
-    </li>
-    <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+|  | MODIFICATION | [LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du  au 2024-03-10](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241018?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du  au 1996-02-23](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527502?vers=git&vers=legifrance) |
+| 2024-03-10 | CITATION | [Constitution du 4 octobre 1958 - article 34 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000049255019?vers=git&vers=legifrance) |
+| 1996-02-23 | CITATION | [Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du  au 2003-03-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527503?vers=git&vers=legifrance) |
+| 2005-03-02 | CITATION | [Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527505?vers=git&vers=legifrance) |
+| 2003-03-29 | CITATION | [Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du  au 2005-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527504?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 34 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1996-02-23](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527502?vers=git&vers=legifrance) |
+| 1993-07-27 | MODIFICATION | [LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

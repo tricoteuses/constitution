@@ -28,35 +28,20 @@ du mois qui suit le décret de clôture.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241057?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 48 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Textes faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020787845?vers=git&vers=legifrance">Décret du 23 juin 2009 portant convocation du Parlement en session extraordinaire</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020913212?vers=git&vers=legifrance">Décret du 29 juillet 2009 portant convocation du Parlement en session extraordinaire</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021087461?vers=git&vers=legifrance">DÉCRET DU 29 SEPTEMBRE 2009 PORTANT CLÔTURE DE LA SESSION EXTRAORDINAIRE DU PARLEMENT</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241057?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 48 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2009-03-01 | CITATION | [Constitution du 4 octobre 1958 - article 48 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241057?vers=git&vers=legifrance) |
+|  | CITATION | [Décret du 23 juin 2009 portant convocation du Parlement en session extraordinaire](https://legal.tricoteuses.fr//redirection/JORFTEXT000020787845?vers=git&vers=legifrance) |
+|  | CITATION | [Décret du 29 juillet 2009 portant convocation du Parlement en session extraordinaire](https://legal.tricoteuses.fr//redirection/JORFTEXT000020913212?vers=git&vers=legifrance) |
+|  | CITATION | [DÉCRET DU 29 SEPTEMBRE 2009 PORTANT CLÔTURE DE LA SESSION EXTRAORDINAIRE DU PARLEMENT](https://legal.tricoteuses.fr//redirection/JORFTEXT000021087461?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 48 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241057?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

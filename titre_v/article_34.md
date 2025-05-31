@@ -83,36 +83,22 @@ une loi organique.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000049255008?vers=git&vers=legifrance">LOI constitutionnelle n° 2024-200 du 8 mars 2024 relative à la liberté de recourir à l'interruption volontaire de grossesse - article unique PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2024-03-10</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527589?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 75 AUTONOME VIGUEUR, en vigueur depuis le 1993-07-28</a>
-    </li>
-    <li>
-      2010-12-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023348994?vers=git&vers=legifrance">LOI n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014 - article 1 AUTONOME ABROGE, en vigueur du 2010-12-30 au 2013-01-02</a>
-    </li>
-    <li>
-      2012-12-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026787072?vers=git&vers=legifrance">LOI organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques - article 1 AUTONOME ABROGE, en vigueur du 2013-03-01 au 2022-09-26</a>
-    </li>
-    <li>
-      2024-03-08 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000049255008?vers=git&vers=legifrance">LOI constitutionnelle n° 2024-200 du 8 mars 2024 relative à la liberté de recourir à l'interruption volontaire de grossesse - article unique PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2024-03-10</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006466025?vers=git&vers=legifrance">Code des postes et des communications électroniques - article L140 AUTONOME VIGUEUR, en vigueur depuis le 2005-12-31</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020097948?vers=git&vers=legifrance">Code électoral - article L568 AUTONOME VIGUEUR, en vigueur depuis le 2009-01-15</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2024-03-10 | MODIFIE | [LOI constitutionnelle n° 2024-200 du 8 mars 2024 relative à la liberté de recourir à l'interruption volontaire de grossesse - article unique PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000049255008?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 75 AUTONOME VIGUEUR, en vigueur depuis le 1993-07-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527589?vers=git&vers=legifrance) |
+| 2010-12-28 | CITATION | [LOI n° 2010-1645 du 28 décembre 2010 de programmation des finances publiques pour les années 2011 à 2014 - article 1 AUTONOME ABROGE, en vigueur du 2010-12-30 au 2013-01-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000023348994?vers=git&vers=legifrance) |
+| 2012-12-17 | CITATION | [LOI organique n° 2012-1403 du 17 décembre 2012 relative à la programmation et à la gouvernance des finances publiques - article 1 AUTONOME ABROGE, en vigueur du 2013-03-01 au 2022-09-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000026787072?vers=git&vers=legifrance) |
+| 2024-03-08 | MODIFIE | [LOI constitutionnelle n° 2024-200 du 8 mars 2024 relative à la liberté de recourir à l'interruption volontaire de grossesse - article unique PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2024-03-10](https://legal.tricoteuses.fr//redirection/LEGIARTI000049255008?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code des postes et des communications électroniques - article L140 AUTONOME VIGUEUR, en vigueur depuis le 2005-12-31](https://legal.tricoteuses.fr//redirection/LEGIARTI000006466025?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article L568 AUTONOME VIGUEUR, en vigueur depuis le 2009-01-15](https://legal.tricoteuses.fr//redirection/LEGIARTI000020097948?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

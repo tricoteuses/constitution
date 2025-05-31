@@ -27,24 +27,18 @@ d'égalité et de fraternité et conçues en vue de leur évolution démocratiqu
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006239259?vers=git&vers=legifrance">LOI constitutionnelle n° 2005-205 du 1er mars 2005 relative à la Charte de l'environnement - article 1 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2005-03-01 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006239259?vers=git&vers=legifrance">LOI constitutionnelle n° 2005-205 du 1er mars 2005 relative à la Charte de l'environnement - article 1 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000006071193?vers=git&vers=legifrance">Constitution du 27 octobre 1946 VIGUEUR</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [LOI constitutionnelle n° 2005-205 du 1er mars 2005 relative à la Charte de l'environnement - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006239259?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2005-03-01 | MODIFIE | [LOI constitutionnelle n° 2005-205 du 1er mars 2005 relative à la Charte de l'environnement - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006239259?vers=git&vers=legifrance) |
+|  | CITATION | [Constitution du 27 octobre 1946 VIGUEUR](https://legal.tricoteuses.fr//redirection/LEGITEXT000006071193?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

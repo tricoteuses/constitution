@@ -19,13 +19,11 @@ l'élection des députés et des sénateurs.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Textes faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020915519?vers=git&vers=legifrance">Rapport au Président de la République relatif à l'ordonnance n° 2009-936 du 29 juillet 2009 relative à l'élection de députés par les Français établis hors de France</a> CITATION source
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| CITATION | [Rapport au Président de la République relatif à l'ordonnance n° 2009-936 du 29 juillet 2009 relative à l'élection de députés par les Français établis hors de France](https://legal.tricoteuses.fr//redirection/JORFTEXT000020915519?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

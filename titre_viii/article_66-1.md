@@ -18,21 +18,17 @@ Nul ne peut être condamné à la peine de mort.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276555?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-239 du 23 février 2007 relative à l'interdiction de la peine de mort - article 1 ENTIEREMENT_MODIF</a> CREE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2007-02-23 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276555?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-239 du 23 février 2007 relative à l'interdiction de la peine de mort - article 1 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| CREE | [LOI constitutionnelle n° 2007-239 du 23 février 2007 relative à l'interdiction de la peine de mort - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006276555?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2007-02-23 | CREE | [LOI constitutionnelle n° 2007-239 du 23 février 2007 relative à l'interdiction de la peine de mort - article 1 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006276555?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

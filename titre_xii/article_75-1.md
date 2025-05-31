@@ -17,21 +17,17 @@ Les langues régionales appartiennent au patrimoine de la France.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238731?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 40 ENTIEREMENT_MODIF</a> CREE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2008-07-23 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238731?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 40 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 40 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238731?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-23 | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 40 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238731?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

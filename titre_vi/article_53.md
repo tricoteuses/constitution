@@ -27,33 +27,21 @@ consentement des populations intéressées.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006393821?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6213-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394295?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6413-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394054?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6313-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006393821?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6213-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394054?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6313-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006394295?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO6413-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2007-02-22 | CITATION | [Code général des collectivités territoriales - article LO6213-3 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006393821?vers=git&vers=legifrance) |
+| 2007-02-22 | CITATION | [Code général des collectivités territoriales - article LO6413-3 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006394295?vers=git&vers=legifrance) |
+| 2007-02-22 | CITATION | [Code général des collectivités territoriales - article LO6313-3 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006394054?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article LO6213-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000006393821?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article LO6313-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000006394054?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article LO6413-3 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000006394295?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

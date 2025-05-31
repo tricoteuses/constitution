@@ -31,27 +31,19 @@ assemblée.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528612?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 2 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241050?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 47-1 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241057?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 48 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a>
-    </li>
-    <li>
-      1995-08-04 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528612?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 2 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528612?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 47-1 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241050?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 48 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241057?vers=git&vers=legifrance) |
+| 1995-08-04 | MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528612?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

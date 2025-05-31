@@ -19,45 +19,24 @@ prévues aux articles 11 et 89 et au titre XV. Il en proclame les résultats.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006239257?vers=git&vers=legifrance">LOI constitutionnelle n° 2005-204 du 1er mars 2005 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241004?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527471?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1995-08-05 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019240655?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 89 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      CITATION source Constitution du 4 octobre 1958 -  Titre XV : De l'Union européenne (V)
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a>
-    </li>
-    <li>
-      2005-03-01 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006239257?vers=git&vers=legifrance">LOI constitutionnelle n° 2005-204 du 1er mars 2005 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+|  | MODIFIE | [LOI constitutionnelle n° 2005-204 du 1er mars 2005 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006239257?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241004?vers=git&vers=legifrance) |
+| 1995-08-05 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527471?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du  au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 89 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019240655?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance) |
+| 2005-03-01 | MODIFIE | [LOI constitutionnelle n° 2005-204 du 1er mars 2005 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006239257?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

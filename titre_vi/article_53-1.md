@@ -27,29 +27,18 @@ sollicite la protection de la France pour un autre motif.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528848?vers=git&vers=legifrance">Loi constitutionnelle n°93-1256 du 25 novembre 1993 relative aux accords internationaux en matière de droit d'asile - article unique ENTIEREMENT_MODIF</a> CREE source
-    </li>
-  </ul>
-  
-  ### Textes faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000000864577?vers=git&vers=legifrance">Loi constitutionnelle n°93-1256 du 25 novembre 1993 relative aux accords internationaux en matière de droit d'asile</a> CREATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1993-11-25 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528848?vers=git&vers=legifrance">Loi constitutionnelle n°93-1256 du 25 novembre 1993 relative aux accords internationaux en matière de droit d'asile - article unique ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| CREE | [Loi constitutionnelle n°93-1256 du 25 novembre 1993 relative aux accords internationaux en matière de droit d'asile - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528848?vers=git&vers=legifrance) |
+| CREATION | [Loi constitutionnelle n°93-1256 du 25 novembre 1993 relative aux accords internationaux en matière de droit d'asile](https://legal.tricoteuses.fr//redirection/JORFTEXT000000864577?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1993-11-25 | CREE | [Loi constitutionnelle n°93-1256 du 25 novembre 1993 relative aux accords internationaux en matière de droit d'asile - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528848?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

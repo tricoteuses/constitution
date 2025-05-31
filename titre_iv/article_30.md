@@ -20,19 +20,13 @@ République.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Textes faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020787845?vers=git&vers=legifrance">Décret du 23 juin 2009 portant convocation du Parlement en session extraordinaire</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020913212?vers=git&vers=legifrance">Décret du 29 juillet 2009 portant convocation du Parlement en session extraordinaire</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021087461?vers=git&vers=legifrance">DÉCRET DU 29 SEPTEMBRE 2009 PORTANT CLÔTURE DE LA SESSION EXTRAORDINAIRE DU PARLEMENT</a> CITATION source
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| CITATION | [Décret du 23 juin 2009 portant convocation du Parlement en session extraordinaire](https://legal.tricoteuses.fr//redirection/JORFTEXT000020787845?vers=git&vers=legifrance) |
+| CITATION | [Décret du 29 juillet 2009 portant convocation du Parlement en session extraordinaire](https://legal.tricoteuses.fr//redirection/JORFTEXT000020913212?vers=git&vers=legifrance) |
+| CITATION | [DÉCRET DU 29 SEPTEMBRE 2009 PORTANT CLÔTURE DE LA SESSION EXTRAORDINAIRE DU PARLEMENT](https://legal.tricoteuses.fr//redirection/JORFTEXT000021087461?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

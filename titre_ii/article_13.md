@@ -42,66 +42,32 @@ commissions permanentes compétentes selon les emplois ou fonctions concernés.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238751?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 5 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527485?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 21 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05</a>
-    </li>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241083?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 65 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241106?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 71-1 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241071?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 56 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-    <li>
-      1958-11-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022514007?vers=git&vers=legifrance">Ordonnance n° 58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote. - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a>
-    </li>
-    <li>
-      1958-11-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513857?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a>
-    </li>
-    <li>
-      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238751?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 5 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2009-03-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020354820?vers=git&vers=legifrance">LOI organique n° 2009-257 du 5 mars 2009 relative à la nomination des présidents des sociétés France Télévisions et Radio France et de la société en charge de l'audiovisuel extérieur de la France - article unique AUTONOME MODIFIE, en vigueur du 2009-03-08 au 2010-07-25</a>
-    </li>
-    <li>
-      2010-07-23 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513124?vers=git&vers=legifrance">LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a>
-    </li>
-    <li>
-      2010-07-23 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513202?vers=git&vers=legifrance">LOI organique n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a>
-    </li>
-    <li>
-      2011-03-29 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023782454?vers=git&vers=legifrance">LOI organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-31</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000039370125?vers=git&vers=legifrance">Code de l'énergie - article L132-2 AUTONOME VIGUEUR, en vigueur depuis le 2019-11-10</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000039786292?vers=git&vers=legifrance">Code des transports - article L1261-5 AUTONOME VIGUEUR, en vigueur depuis le 2019-12-27</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000039446279?vers=git&vers=legifrance">Code électoral - article LO567-9 AUTONOME VIGUEUR, en vigueur depuis le 2019-12-04</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance) |
+| MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 5 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238751?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 21 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527485?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 65 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241083?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 71-1 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241106?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 56 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241071?vers=git&vers=legifrance) |
+| 1958-11-07 | CITATION | [Ordonnance n° 58-1066 du 7 novembre 1958 portant loi organique autorisant exceptionnellement les parlementaires à déléguer leur droit de vote. - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000022514007?vers=git&vers=legifrance) |
+| 1958-11-17 | CITATION | [Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000022513857?vers=git&vers=legifrance) |
+| 2003-03-28 | MODIFIE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 5 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238751?vers=git&vers=legifrance) |
+| 2009-03-05 | CITATION | [LOI organique n° 2009-257 du 5 mars 2009 relative à la nomination des présidents des sociétés France Télévisions et Radio France et de la société en charge de l'audiovisuel extérieur de la France - article unique AUTONOME MODIFIE, en vigueur du 2009-03-08 au 2010-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000020354820?vers=git&vers=legifrance) |
+| 2010-07-23 | CITATION | [LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000022513124?vers=git&vers=legifrance) |
+| 2010-07-23 | CITATION | [LOI organique n° 2010-837 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000022513202?vers=git&vers=legifrance) |
+| 2011-03-29 | CITATION | [LOI organique n° 2011-333 du 29 mars 2011 relative au Défenseur des droits - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-31](https://legal.tricoteuses.fr//redirection/LEGIARTI000023782454?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code de l'énergie - article L132-2 AUTONOME VIGUEUR, en vigueur depuis le 2019-11-10](https://legal.tricoteuses.fr//redirection/LEGIARTI000039370125?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code des transports - article L1261-5 AUTONOME VIGUEUR, en vigueur depuis le 2019-12-27](https://legal.tricoteuses.fr//redirection/LEGIARTI000039786292?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article LO567-9 AUTONOME VIGUEUR, en vigueur depuis le 2019-12-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000039446279?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

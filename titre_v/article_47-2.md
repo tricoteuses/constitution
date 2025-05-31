@@ -25,33 +25,21 @@ leur situation financière.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023516842?vers=git&vers=legifrance">Code des juridictions financières - article L132-5 AUTONOME TRANSFERE, en vigueur du 2011-02-05 au 2017-05-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238680?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 22 ENTIEREMENT_MODIF</a> CREE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033262842?vers=git&vers=legifrance">Code des juridictions financières - article L132-6 AUTONOME VIGUEUR, en vigueur depuis le 2017-05-01</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2008-07-23 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238680?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 22 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023516842?vers=git&vers=legifrance">Code des juridictions financières - article L132-5 AUTONOME TRANSFERE, en vigueur du 2011-02-05 au 2017-05-01</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033262842?vers=git&vers=legifrance">Code des juridictions financières - article L132-6 AUTONOME VIGUEUR, en vigueur depuis le 2017-05-01</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2011-02-05 | CITATION | [Code des juridictions financières - article L132-5 AUTONOME TRANSFERE, en vigueur du  au 2017-05-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000023516842?vers=git&vers=legifrance) |
+|  | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 22 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238680?vers=git&vers=legifrance) |
+| 2017-05-01 | CITATION | [Code des juridictions financières - article L132-6 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000033262842?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-23 | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 22 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238680?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code des juridictions financières - article L132-5 AUTONOME TRANSFERE, en vigueur du 2011-02-05 au 2017-05-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000023516842?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code des juridictions financières - article L132-6 AUTONOME VIGUEUR, en vigueur depuis le 2017-05-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000033262842?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

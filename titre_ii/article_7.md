@@ -72,69 +72,33 @@ l'empêchement du Président de la République et l'élection de son successeur.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241004?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241062?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527549?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 61 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1974-10-30</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527471?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1995-08-05 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019240655?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 89 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527550?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 61 AUTONOME MODIFIE, en vigueur du 1974-10-30 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527529?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1995-08-05 au 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241074?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 61 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527549?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 61 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1974-10-30</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a>
-    </li>
-    <li>
-      1962-11-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000044248785?vers=git&vers=legifrance">Loi n° 62-1292 du 6 novembre 1962 relative à l'élection du Président de la République au suffrage universel - article 3 AUTONOME ABROGE_DIFF, en vigueur du 2021-10-27 au 2027-01-01</a>
-    </li>
-    <li>
-      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241004?vers=git&vers=legifrance) |
+| 2009-03-01 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241062?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du  au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 61 AUTONOME MODIFIE, en vigueur du  au 1974-10-30](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527549?vers=git&vers=legifrance) |
+| 1995-08-05 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527471?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du  au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 89 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019240655?vers=git&vers=legifrance) |
+| 1974-10-30 | CITATION | [Constitution du 4 octobre 1958 - article 61 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527550?vers=git&vers=legifrance) |
+| 1995-08-05 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du  au 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527529?vers=git&vers=legifrance) |
+|  | MODIFIE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 61 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241074?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 11 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527470?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 61 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1974-10-30](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527549?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance) |
+| 1962-11-06 | CITATION | [Loi n° 62-1292 du 6 novembre 1962 relative à l'élection du Président de la République au suffrage universel - article 3 AUTONOME ABROGE_DIFF, en vigueur du 2021-10-27 au 2027-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000044248785?vers=git&vers=legifrance) |
+| 2003-03-28 | MODIFIE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 12 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218060?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

@@ -78,63 +78,31 @@ La loi organique détermine les conditions d'application du présent article.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527555?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 64 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238700?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 31 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241006?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527476?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 2003-03-29 au 2008-07-25</a> CITATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527555?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 64 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05</a>
-    </li>
-    <li>
-      1958-12-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022510676?vers=git&vers=legifrance">Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24</a>
-    </li>
-    <li>
-      1994-02-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022510633?vers=git&vers=legifrance">Loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature - article 10-2 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24</a>
-    </li>
-    <li>
-      1994-02-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048434992?vers=git&vers=legifrance">Loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature - article 20-2 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-22</a>
-    </li>
-    <li>
-      1994-02-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048435008?vers=git&vers=legifrance">Loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature - article 5-2 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-22</a>
-    </li>
-    <li>
-      1995-05-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025110390?vers=git&vers=legifrance">Décret n°95-735 du 10 mai 1995 relatif à la rémunération des membres du Conseil supérieur de la magistrature ainsi que des membres du secrétariat général de ce conseil - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-01</a>
-    </li>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238700?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 31 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2010-05-25 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022265706?vers=git&vers=legifrance">LOI organique n° 2010-541 du 25 mai 2010 prorogeant le mandat des membres du Conseil supérieur de la magistrature - article unique AUTONOME VIGUEUR, en vigueur depuis le 2010-05-27</a>
-    </li>
-    <li>
-      2010-07-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022509923?vers=git&vers=legifrance">LOI organique n° 2010-830 du 22 juillet 2010 relative à l'application de l'article 65 de la Constitution - article 38 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24</a>
-    </li>
-    <li>
-      2010-07-23 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513136?vers=git&vers=legifrance">LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 64 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527555?vers=git&vers=legifrance) |
+|  | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 31 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238700?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du  au 2003-03-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241006?vers=git&vers=legifrance) |
+| 2003-03-29 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527476?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 64 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527555?vers=git&vers=legifrance) |
+| 1958-12-22 | CITATION | [Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature. - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022510676?vers=git&vers=legifrance) |
+| 1994-02-05 | CITATION | [Loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature - article 10-2 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022510633?vers=git&vers=legifrance) |
+| 1994-02-05 | CITATION | [Loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature - article 20-2 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000048434992?vers=git&vers=legifrance) |
+| 1994-02-05 | CITATION | [Loi organique n° 94-100 du 5 février 1994 sur le Conseil supérieur de la magistrature - article 5-2 AUTONOME VIGUEUR, en vigueur depuis le 2023-11-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000048435008?vers=git&vers=legifrance) |
+| 1995-05-10 | CITATION | [Décret n°95-735 du 10 mai 1995 relatif à la rémunération des membres du Conseil supérieur de la magistrature ainsi que des membres du secrétariat général de ce conseil - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000025110390?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 31 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238700?vers=git&vers=legifrance) |
+| 2010-05-25 | CITATION | [LOI organique n° 2010-541 du 25 mai 2010 prorogeant le mandat des membres du Conseil supérieur de la magistrature - article unique AUTONOME VIGUEUR, en vigueur depuis le 2010-05-27](https://legal.tricoteuses.fr//redirection/LEGIARTI000022265706?vers=git&vers=legifrance) |
+| 2010-07-22 | CITATION | [LOI organique n° 2010-830 du 22 juillet 2010 relative à l'application de l'article 65 de la Constitution - article 38 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022509923?vers=git&vers=legifrance) |
+| 2010-07-23 | CITATION | [LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000022513136?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

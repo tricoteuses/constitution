@@ -26,33 +26,21 @@ proposés ou acceptés par le Gouvernement.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238670?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 19 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241026?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 39 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-    <li>
-      2001-08-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000044611870?vers=git&vers=legifrance">Loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances - article 51 AUTONOME VIGUEUR, en vigueur depuis le 2022-09-26</a>
-    </li>
-    <li>
-      2004-02-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741652?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 9 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a>
-    </li>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238670?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 19 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028888866?vers=git&vers=legifrance">Code général des collectivités territoriales - article R1213-27 AUTONOME VIGUEUR, en vigueur depuis le 2014-05-03</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 19 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238670?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 39 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241026?vers=git&vers=legifrance) |
+| 2001-08-01 | CITATION | [Loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances - article 51 AUTONOME VIGUEUR, en vigueur depuis le 2022-09-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000044611870?vers=git&vers=legifrance) |
+| 2004-02-27 | CITATION | [Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 9 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000038741652?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 19 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238670?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article R1213-27 AUTONOME VIGUEUR, en vigueur depuis le 2014-05-03](https://legal.tricoteuses.fr//redirection/LEGIARTI000028888866?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

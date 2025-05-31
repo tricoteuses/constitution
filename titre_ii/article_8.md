@@ -22,28 +22,16 @@ Gouvernement et met fin à leurs fonctions.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Textes faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000019875116?vers=git&vers=legifrance">Décret du 5 décembre 2008 relatif à la composition du Gouvernement</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000019917106?vers=git&vers=legifrance">Décret du 12 décembre 2008 relatif à la composition du Gouvernement</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000021241324?vers=git&vers=legifrance">Décret du 6 novembre 2009 relatif à la composition du Gouvernement</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020781363?vers=git&vers=legifrance">Décret du 23 juin 2009 relatif à la composition du Gouvernement</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020099569?vers=git&vers=legifrance">Décret du 15 janvier 2009 relatif à la composition du Gouvernement</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/JORFTEXT000020132615?vers=git&vers=legifrance">Décret du 21 janvier 2009 relatif à la composition du Gouvernement</a> CITATION source
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| CITATION | [Décret du 5 décembre 2008 relatif à la composition du Gouvernement](https://legal.tricoteuses.fr//redirection/JORFTEXT000019875116?vers=git&vers=legifrance) |
+| CITATION | [Décret du 12 décembre 2008 relatif à la composition du Gouvernement](https://legal.tricoteuses.fr//redirection/JORFTEXT000019917106?vers=git&vers=legifrance) |
+| CITATION | [Décret du 6 novembre 2009 relatif à la composition du Gouvernement](https://legal.tricoteuses.fr//redirection/JORFTEXT000021241324?vers=git&vers=legifrance) |
+| CITATION | [Décret du 23 juin 2009 relatif à la composition du Gouvernement](https://legal.tricoteuses.fr//redirection/JORFTEXT000020781363?vers=git&vers=legifrance) |
+| CITATION | [Décret du 15 janvier 2009 relatif à la composition du Gouvernement](https://legal.tricoteuses.fr//redirection/JORFTEXT000020099569?vers=git&vers=legifrance) |
+| CITATION | [Décret du 21 janvier 2009 relatif à la composition du Gouvernement](https://legal.tricoteuses.fr//redirection/JORFTEXT000020132615?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

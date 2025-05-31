@@ -47,72 +47,34 @@ intérêts nationaux, du contrôle administratif et du respect des lois.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527586?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1993-07-28 au 2003-03-29</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527585?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1992-06-26 au 1993-07-28</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527584?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1992-06-26</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527587?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME VIGUEUR, en vigueur depuis le 2003-03-29</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218055?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 5 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527584?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1992-06-26</a>
-    </li>
-    <li>
-      2003-03-28 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218055?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 5 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2004-02-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741680?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a>
-    </li>
-    <li>
-      2013-04-15 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037993469?vers=git&vers=legifrance">LOI n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses dispositions sur la tarification de l'eau et sur les éoliennes - article 28 AUTONOME VIGUEUR, en vigueur depuis le 2018-12-31</a>
-    </li>
-    <li>
-      2017-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000042654215?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2020-12-09</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048697317?vers=git&vers=legifrance">Code de la sécurité sociale - article L382-31 AUTONOME VIGUEUR, en vigueur depuis le 2023-12-28</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034115674?vers=git&vers=legifrance">Code général des collectivités territoriales - article L2512-1 AUTONOME VIGUEUR, en vigueur depuis le 2019-01-01</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028528966?vers=git&vers=legifrance">Code général des collectivités territoriales - article L3611-1 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000043399222?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO1113-1 AUTONOME VIGUEUR, en vigueur depuis le 2021-04-21</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031492144?vers=git&vers=legifrance">Code électoral - article LO493 AUTONOME VIGUEUR, en vigueur depuis le 2015-11-19</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027439870?vers=git&vers=legifrance">Code électoral - article LO520 AUTONOME VIGUEUR, en vigueur depuis le 2015-03-22</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027439866?vers=git&vers=legifrance">Code électoral - article LO548 AUTONOME VIGUEUR, en vigueur depuis le 2015-03-22</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033463146?vers=git&vers=legifrance">Code général des collectivités territoriales - article L4421-1 AUTONOME VIGUEUR, en vigueur depuis le 2018-01-01</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000043399260?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO1113-7 AUTONOME VIGUEUR, en vigueur depuis le 2021-04-21</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1993-07-28 | CITATION | [Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du  au 2003-03-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527586?vers=git&vers=legifrance) |
+| 1992-06-26 | CITATION | [Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du  au 1993-07-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527585?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du  au 1992-06-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527584?vers=git&vers=legifrance) |
+| 2003-03-29 | CITATION | [Constitution du 4 octobre 1958 - article 74 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527587?vers=git&vers=legifrance) |
+|  | MODIFIE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 5 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218055?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 74 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1992-06-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527584?vers=git&vers=legifrance) |
+| 2003-03-28 | MODIFIE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 5 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218055?vers=git&vers=legifrance) |
+| 2004-02-27 | CITATION | [Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 111 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000038741680?vers=git&vers=legifrance) |
+| 2013-04-15 | CITATION | [LOI n° 2013-312 du 15 avril 2013 visant à préparer la transition vers un système énergétique sobre et portant diverses dispositions sur la tarification de l'eau et sur les éoliennes - article 28 AUTONOME VIGUEUR, en vigueur depuis le 2018-12-31](https://legal.tricoteuses.fr//redirection/LEGIARTI000037993469?vers=git&vers=legifrance) |
+| 2017-02-28 | CITATION | [LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2020-12-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000042654215?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code de la sécurité sociale - article L382-31 AUTONOME VIGUEUR, en vigueur depuis le 2023-12-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000048697317?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article L2512-1 AUTONOME VIGUEUR, en vigueur depuis le 2019-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000034115674?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article L3611-1 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000028528966?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article LO1113-1 AUTONOME VIGUEUR, en vigueur depuis le 2021-04-21](https://legal.tricoteuses.fr//redirection/LEGIARTI000043399222?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article LO493 AUTONOME VIGUEUR, en vigueur depuis le 2015-11-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000031492144?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article LO520 AUTONOME VIGUEUR, en vigueur depuis le 2015-03-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000027439870?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article LO548 AUTONOME VIGUEUR, en vigueur depuis le 2015-03-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000027439866?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article L4421-1 AUTONOME VIGUEUR, en vigueur depuis le 2018-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000033463146?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article LO1113-7 AUTONOME VIGUEUR, en vigueur depuis le 2021-04-21](https://legal.tricoteuses.fr//redirection/LEGIARTI000043399260?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

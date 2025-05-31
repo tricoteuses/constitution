@@ -29,621 +29,217 @@ sont du domaine législatif.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238705?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 14 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241029?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 41 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a>
-    </li>
-    <li>
-      2004-08-13 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006399628?vers=git&vers=legifrance">Loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales (1). - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2005-01-01</a>
-    </li>
-    <li>
-      2005-01-18 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006658556?vers=git&vers=legifrance">Loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale - article 122 AUTONOME VIGUEUR, en vigueur depuis le 2005-01-19</a>
-    </li>
-    <li>
-      2005-02-11 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006682329?vers=git&vers=legifrance">Loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées - article 92 AUTONOME VIGUEUR, en vigueur depuis le 2005-02-12</a>
-    </li>
-    <li>
-      2005-07-13 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006628696?vers=git&vers=legifrance">Loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique - article 109 AUTONOME ABROGE, en vigueur du 2005-07-14 au 2011-06-01</a>
-    </li>
-    <li>
-      2005-07-26 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006243200?vers=git&vers=legifrance">Loi n° 2005-846 du 26 juillet 2005 habilitant le Gouvernement à prendre, par ordonnance, des mesures d'urgence pour l'emploi (1). - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2005-07-27</a>
-    </li>
-    <li>
-      2007-12-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000017726076?vers=git&vers=legifrance">LOI n° 2007-1774 du 17 décembre 2007 portant diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-19</a>
-    </li>
-    <li>
-      2007-12-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000017726066?vers=git&vers=legifrance">LOI n° 2007-1774 du 17 décembre 2007 portant diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-19</a>
-    </li>
-    <li>
-      2007-12-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000017726072?vers=git&vers=legifrance">LOI n° 2007-1774 du 17 décembre 2007 portant diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-19</a>
-    </li>
-    <li>
-      2008-01-03 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000017959706?vers=git&vers=legifrance">LOI n° 2008-3 du 3 janvier 2008 pour le développement de la concurrence au service des consommateurs - article 35 AUTONOME ABROGE, en vigueur du 2008-01-05 au 2010-07-03</a>
-    </li>
-    <li>
-      2008-04-15 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018650932?vers=git&vers=legifrance">LOI n° 2008-337 du 15 avril 2008 ratifiant l'ordonnance n° 2007-613 du 26 avril 2007 portant diverses dispositions d'adaptation au droit communautaire dans le domaine du médicament - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2008-04-17</a>
-    </li>
-    <li>
-      2008-04-15 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018650942?vers=git&vers=legifrance">LOI n° 2008-337 du 15 avril 2008 ratifiant l'ordonnance n° 2007-613 du 26 avril 2007 portant diverses dispositions d'adaptation au droit communautaire dans le domaine du médicament - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2008-04-17</a>
-    </li>
-    <li>
-      2008-06-25 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019067184?vers=git&vers=legifrance">LOI n° 2008-596 du 25 juin 2008 portant modernisation du marché du travail - article 10 AUTONOME VIGUEUR, en vigueur depuis le 2008-06-27</a>
-    </li>
-    <li>
-      2008-07-03 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019118506?vers=git&vers=legifrance">LOI n° 2008-649 du 3 juillet 2008 portant diverses dispositions d'adaptation du droit des sociétés au droit communautaire - article 32 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-05</a>
-    </li>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238705?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 14 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2008-08-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019279084?vers=git&vers=legifrance">LOI n° 2008-757 du 1er août 2008 relative à la responsabilité environnementale et à diverses dispositions d'adaptation au droit communautaire dans le domaine de l'environnement - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2008-08-03</a>
-    </li>
-    <li>
-      2008-08-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019279088?vers=git&vers=legifrance">LOI n° 2008-757 du 1er août 2008 relative à la responsabilité environnementale et à diverses dispositions d'adaptation au droit communautaire dans le domaine de l'environnement - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2008-08-03</a>
-    </li>
-    <li>
-      2008-12-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019861584?vers=git&vers=legifrance">LOI n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2008-12-04</a>
-    </li>
-    <li>
-      2008-12-18 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000019957905?vers=git&vers=legifrance">Ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté VIGUEUR</a>
-    </li>
-    <li>
-      2009-02-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020277763?vers=git&vers=legifrance">LOI n° 2009-179 du 17 février 2009 pour l'accélération des programmes de construction et d'investissement publics et privés - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2009-02-19</a>
-    </li>
-    <li>
-      2009-02-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020452147?vers=git&vers=legifrance">LOI n° 2009-179 du 17 février 2009 pour l'accélération des programmes de construction et d'investissement publics et privés - article 37 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-28</a>
-    </li>
-    <li>
-      2009-03-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020353725?vers=git&vers=legifrance">LOI n° 2009-258 du 5 mars 2009 relative à la communication audiovisuelle et au nouveau service public de la télévision - article 23 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-08</a>
-    </li>
-    <li>
-      2009-03-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020905770?vers=git&vers=legifrance">LOI n° 2009-258 du 5 mars 2009 relative à la communication audiovisuelle et au nouveau service public de la télévision - article 71 AUTONOME VIGUEUR, en vigueur depuis le 2009-07-26</a>
-    </li>
-    <li>
-      2009-03-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020353629?vers=git&vers=legifrance">LOI n° 2009-258 du 5 mars 2009 relative à la communication audiovisuelle et au nouveau service public de la télévision - article 72 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-08</a>
-    </li>
-    <li>
-      2009-05-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020606440?vers=git&vers=legifrance">LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 68 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14</a>
-    </li>
-    <li>
-      2009-05-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020606498?vers=git&vers=legifrance">LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 78 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14</a>
-    </li>
-    <li>
-      2009-05-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020606626?vers=git&vers=legifrance">LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 120 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14</a>
-    </li>
-    <li>
-      2009-05-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020606442?vers=git&vers=legifrance">LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 69 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14</a>
-    </li>
-    <li>
-      2009-05-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020606612?vers=git&vers=legifrance">LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 88 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14</a>
-    </li>
-    <li>
-      2009-05-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020606556?vers=git&vers=legifrance">LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 93 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14</a>
-    </li>
-    <li>
-      2009-05-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020672227?vers=git&vers=legifrance">LOI n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer - article 72 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-29</a>
-    </li>
-    <li>
-      2009-07-21 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020881322?vers=git&vers=legifrance">LOI n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires - article 133 AUTONOME VIGUEUR, en vigueur depuis le 2009-07-23</a>
-    </li>
-    <li>
-      2009-07-29 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000045293516?vers=git&vers=legifrance">LOI n° 2009-928 du 29 juillet 2009 relative à la programmation militaire pour les années 2009 à 2014 et portant diverses dispositions concernant la défense - article 20 AUTONOME VIGUEUR, en vigueur depuis le 2023-01-01</a>
-    </li>
-    <li>
-      2010-06-15 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022355953?vers=git&vers=legifrance">LOI n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2010-06-17</a>
-    </li>
-    <li>
-      2010-07-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022420553?vers=git&vers=legifrance">LOI n° 2010-737 du 1er juillet 2010 portant réforme du crédit à la consommation - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-03</a>
-    </li>
-    <li>
-      2010-07-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022473134?vers=git&vers=legifrance">LOI n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement - article 169 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-14</a>
-    </li>
-    <li>
-      2010-07-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022522739?vers=git&vers=legifrance">LOI n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-29</a>
-    </li>
-    <li>
-      2010-07-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022522909?vers=git&vers=legifrance">LOI n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche - article 94 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-29</a>
-    </li>
-    <li>
-      2010-10-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022942876?vers=git&vers=legifrance">LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 33 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24</a>
-    </li>
-    <li>
-      2010-10-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022942878?vers=git&vers=legifrance">LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 34 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24</a>
-    </li>
-    <li>
-      2010-10-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022942928?vers=git&vers=legifrance">LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 56 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24</a>
-    </li>
-    <li>
-      2010-10-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022942990?vers=git&vers=legifrance">LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 77 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24</a>
-    </li>
-    <li>
-      2010-10-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022942810?vers=git&vers=legifrance">LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 91 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24</a>
-    </li>
-    <li>
-      2010-12-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023176289?vers=git&vers=legifrance">LOI n° 2010-1487 du 7 décembre 2010 relative au Département de Mayotte - article 30 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-09</a>
-    </li>
-    <li>
-      2010-12-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023176277?vers=git&vers=legifrance">LOI n° 2010-1487 du 7 décembre 2010 relative au Département de Mayotte - article 33 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-09</a>
-    </li>
-    <li>
-      2010-12-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023241015?vers=git&vers=legifrance">LOI n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales - article 87 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-18</a>
-    </li>
-    <li>
-      2010-12-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023241019?vers=git&vers=legifrance">LOI n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales - article 88 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-18</a>
-    </li>
-    <li>
-      2010-12-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023274868?vers=git&vers=legifrance">LOI n° 2010-1609 du 22 décembre 2010 relative à l'exécution des décisions de justice, aux conditions d'exercice de certaines professions réglementées et aux experts judiciaires - article 42 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2010-12-24</a>
-    </li>
-    <li>
-      2010-12-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023274798?vers=git&vers=legifrance">LOI n° 2010-1609 du 22 décembre 2010 relative à l'exécution des décisions de justice, aux conditions d'exercice de certaines professions réglementées et aux experts judiciaires - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-24</a>
-    </li>
-    <li>
-      2011-01-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023376144?vers=git&vers=legifrance">LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07</a>
-    </li>
-    <li>
-      2011-01-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023376126?vers=git&vers=legifrance">LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 16 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07</a>
-    </li>
-    <li>
-      2011-01-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023376128?vers=git&vers=legifrance">LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 17 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07</a>
-    </li>
-    <li>
-      2011-01-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023376130?vers=git&vers=legifrance">LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 18 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07</a>
-    </li>
-    <li>
-      2011-01-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023376136?vers=git&vers=legifrance">LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07</a>
-    </li>
-    <li>
-      2011-01-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023376108?vers=git&vers=legifrance">LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07</a>
-    </li>
-    <li>
-      2011-01-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023376110?vers=git&vers=legifrance">LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07</a>
-    </li>
-    <li>
-      2011-03-14 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023708985?vers=git&vers=legifrance">LOI n° 2011-267 du 14 mars 2011 d'orientation et de programmation pour la performance de la sécurité intérieure - article 102 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-16</a>
-    </li>
-    <li>
-      2011-03-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023752132?vers=git&vers=legifrance">LOI n° 2011-302 du 22 mars 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière de santé, de travail et de communications électroniques - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-24</a>
-    </li>
-    <li>
-      2011-03-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000023752144?vers=git&vers=legifrance">LOI n° 2011-302 du 22 mars 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière de santé, de travail et de communications électroniques - article 22 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-24</a>
-    </li>
-    <li>
-      2011-05-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024023486?vers=git&vers=legifrance">LOI n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit - article 198 AUTONOME VIGUEUR, en vigueur depuis le 2011-05-19</a>
-    </li>
-    <li>
-      2011-05-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024023482?vers=git&vers=legifrance">LOI n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit - article 199 AUTONOME VIGUEUR, en vigueur depuis le 2011-05-19</a>
-    </li>
-    <li>
-      2011-07-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024324053?vers=git&vers=legifrance">LOI n° 2011-814 du 7 juillet 2011 relative à la bioéthique - article 56 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-09</a>
-    </li>
-    <li>
-      2011-07-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024404948?vers=git&vers=legifrance">LOI n° 2011-884 du 27 juillet 2011 relative aux collectivités territoriales de Guyane et de Martinique - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-29</a>
-    </li>
-    <li>
-      2012-02-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025402200?vers=git&vers=legifrance">LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26</a>
-    </li>
-    <li>
-      2012-02-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025402202?vers=git&vers=legifrance">LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26</a>
-    </li>
-    <li>
-      2012-02-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025402204?vers=git&vers=legifrance">LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26</a>
-    </li>
-    <li>
-      2012-02-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025402206?vers=git&vers=legifrance">LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26</a>
-    </li>
-    <li>
-      2012-02-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025402196?vers=git&vers=legifrance">LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26</a>
-    </li>
-    <li>
-      2012-03-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025555096?vers=git&vers=legifrance">LOI n° 2012-387 du 22 mars 2012 relative à la simplification du droit et à l'allégement des démarches administratives - article 51 AUTONOME VIGUEUR, en vigueur depuis le 2012-03-24</a>
-    </li>
-    <li>
-      2012-03-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000025555128?vers=git&vers=legifrance">LOI n° 2012-387 du 22 mars 2012 relative à la simplification du droit et à l'allégement des démarches administratives - article 59 AUTONOME VIGUEUR, en vigueur depuis le 2012-03-24</a>
-    </li>
-    <li>
-      2012-11-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026658408?vers=git&vers=legifrance">LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2012-11-22</a>
-    </li>
-    <li>
-      2012-11-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026658452?vers=git&vers=legifrance">LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 25 AUTONOME VIGUEUR, en vigueur depuis le 2012-11-22</a>
-    </li>
-    <li>
-      2012-11-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028699400?vers=git&vers=legifrance">LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2014-03-07</a>
-    </li>
-    <li>
-      2012-11-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026658460?vers=git&vers=legifrance">LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 30 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2012-11-22</a>
-    </li>
-    <li>
-      2012-12-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026845010?vers=git&vers=legifrance">LOI n° 2012-1460 du 27 décembre 2012 relative à la mise en œuvre du principe de participation du public défini à l'article 7 de la Charte de l'environnement - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2012-12-29</a>
-    </li>
-    <li>
-      2012-12-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026894006?vers=git&vers=legifrance">LOI n° 2012-1559 du 31 décembre 2012 relative à la création de la Banque publique d'investissement - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2013-01-02</a>
-    </li>
-    <li>
-      2012-12-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026894012?vers=git&vers=legifrance">LOI n° 2012-1559 du 31 décembre 2012 relative à la création de la Banque publique d'investissement - article 18 AUTONOME VIGUEUR, en vigueur depuis le 2013-01-02</a>
-    </li>
-    <li>
-      2012-12-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000026893996?vers=git&vers=legifrance">LOI n° 2012-1559 du 31 décembre 2012 relative à la création de la Banque publique d'investissement - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2013-01-02</a>
-    </li>
-    <li>
-      2013-03-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027124290?vers=git&vers=legifrance">LOI n° 2013-185 du 1er mars 2013 portant création du contrat de génération - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2013-03-04</a>
-    </li>
-    <li>
-      2013-06-14 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027548739?vers=git&vers=legifrance">LOI n° 2013-504 du 14 juin 2013 relative à la sécurisation de l'emploi - article 25 AUTONOME VIGUEUR, en vigueur depuis le 2013-06-17</a>
-    </li>
-    <li>
-      2013-07-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027646996?vers=git&vers=legifrance">LOI n° 2013-569 du 1er juillet 2013 habilitant le Gouvernement à adopter des mesures de nature législative pour accélérer les projets de construction - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-03</a>
-    </li>
-    <li>
-      2013-07-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027736831?vers=git&vers=legifrance">LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 124 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-24</a>
-    </li>
-    <li>
-      2013-07-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027736840?vers=git&vers=legifrance">LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 126 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-24</a>
-    </li>
-    <li>
-      2013-07-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030103066?vers=git&vers=legifrance">LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 127 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-16</a>
-    </li>
-    <li>
-      2013-07-22 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000027736810?vers=git&vers=legifrance">LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 128 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-24</a>
-    </li>
-    <li>
-      2013-11-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033222884?vers=git&vers=legifrance">LOI n° 2013-1005 du 12 novembre 2013 habilitant le Gouvernement à simplifier les relations entre l'administration et les citoyens - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2016-01-01</a>
-    </li>
-    <li>
-      2013-12-18 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028340532?vers=git&vers=legifrance">LOI n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale - article 55 AUTONOME VIGUEUR, en vigueur depuis le 2013-12-20</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426497?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426513?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 10 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426515?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426517?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426528?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 17 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426499?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426559?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426503?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426505?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028426507?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000042031244?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2019-12-27</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032973403?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 13 AUTONOME VIGUEUR, en vigueur depuis le 2017-01-01</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033034379?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2016-08-10</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033034371?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2016-08-10</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033034365?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 16 AUTONOME VIGUEUR, en vigueur depuis le 2016-08-10</a>
-    </li>
-    <li>
-      2014-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048539946?vers=git&vers=legifrance">LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2024-01-01</a>
-    </li>
-    <li>
-      2014-01-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030054336?vers=git&vers=legifrance">LOI n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites - article 50 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-01-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028494670?vers=git&vers=legifrance">LOI n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites - article 52 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-22</a>
-    </li>
-    <li>
-      2014-03-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028685235?vers=git&vers=legifrance">LOI n° 2014-288 du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale - article 35 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-03-07</a>
-    </li>
-    <li>
-      2014-03-24 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031010662?vers=git&vers=legifrance">LOI n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové - article 171 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2014-07-08 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029211465?vers=git&vers=legifrance">LOI n° 2014-779 du 8 juillet 2014 encadrant les conditions de la vente à distance des livres et habilitant le Gouvernement à modifier par ordonnance les dispositions du code de la propriété intellectuelle relatives au contrat d'édition - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2014-07-10</a>
-    </li>
-    <li>
-      2014-07-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029222314?vers=git&vers=legifrance">LOI n° 2014-789 du 10 juillet 2014 habilitant le Gouvernement à adopter des mesures législatives pour la mise en accessibilité des établissements recevant du public, des transports publics, des bâtiments d'habitation et de la voirie pour les personnes handicapées - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-07-12</a>
-    </li>
-    <li>
-      2014-07-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029222323?vers=git&vers=legifrance">LOI n° 2014-789 du 10 juillet 2014 habilitant le Gouvernement à adopter des mesures législatives pour la mise en accessibilité des établissements recevant du public, des transports publics, des bâtiments d'habitation et de la voirie pour les personnes handicapées - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2014-07-12</a>
-    </li>
-    <li>
-      2014-07-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029315050?vers=git&vers=legifrance">LOI n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire - article 62 AUTONOME VIGUEUR, en vigueur depuis le 2014-08-02</a>
-    </li>
-    <li>
-      2014-07-31 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032374661?vers=git&vers=legifrance">LOI n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire - article 96 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2016-04-09</a>
-    </li>
-    <li>
-      2014-08-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029333496?vers=git&vers=legifrance">LOI n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes - article 74 AUTONOME VIGUEUR, en vigueur depuis le 2014-08-06</a>
-    </li>
-    <li>
-      2014-10-13 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029575131?vers=git&vers=legifrance">LOI n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt - article 21 AUTONOME VIGUEUR, en vigueur depuis le 2014-10-15</a>
-    </li>
-    <li>
-      2014-10-13 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029575199?vers=git&vers=legifrance">LOI n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt - article 55 AUTONOME VIGUEUR, en vigueur depuis le 2014-10-15</a>
-    </li>
-    <li>
-      2014-11-13 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029755293?vers=git&vers=legifrance">LOI n° 2014-1353 du 13 novembre 2014 renforçant les dispositions relatives à la lutte contre le terrorisme - article 26 AUTONOME VIGUEUR, en vigueur depuis le 2014-11-15</a>
-    </li>
-    <li>
-      2014-12-18 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031085348?vers=git&vers=legifrance">LOI n° 2014-1528 du 18 décembre 2014 relative à la désignation des conseillers prud'hommes - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-19</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928193?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928263?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 10 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928261?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 12 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928269?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 15 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928275?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 18 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928277?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928195?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928285?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 23 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928173?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928179?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928199?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 36 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928249?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928209?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 42 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928217?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 46 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928221?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 49 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928251?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-20 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029928257?vers=git&vers=legifrance">LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 9 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034341?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034349?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034301?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034311?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034313?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 17 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034317?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034283?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034325?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 27 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034327?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 28 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034329?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034293?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034331?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 30 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034343?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034285?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030034347?vers=git&vers=legifrance">LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 9 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2014-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030096126?vers=git&vers=legifrance">LOI n° 2014-1663 du 30 décembre 2014 habilitant le Gouvernement à prendre les mesures relevant du domaine de la loi nécessaires pour assurer dans le droit interne le respect des principes du code mondial antidopage - article unique AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01</a>
-    </li>
-    <li>
-      2015-02-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030249591?vers=git&vers=legifrance">LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 1 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18</a>
-    </li>
-    <li>
-      2015-02-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030249611?vers=git&vers=legifrance">LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 15 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18</a>
-    </li>
-    <li>
-      2015-02-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030249627?vers=git&vers=legifrance">LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 20 AUTONOME VIGUEUR, en vigueur depuis le 2015-02-18</a>
-    </li>
-    <li>
-      2015-02-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030249619?vers=git&vers=legifrance">LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 21 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18</a>
-    </li>
-    <li>
-      2015-02-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030249595?vers=git&vers=legifrance">LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 3 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18</a>
-    </li>
-    <li>
-      2015-02-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030249601?vers=git&vers=legifrance">LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2015-02-18</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030982294?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 1 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030981787?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 106 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030981869?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 115 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030981899?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 61 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030981905?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 64 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030982306?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030982308?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030982114?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 94 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08</a>
-    </li>
-    <li>
-      2015-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038885033?vers=git&vers=legifrance">LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2019-10-01</a>
-    </li>
-    <li>
-      2015-08-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000030998175?vers=git&vers=legifrance">LOI n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République - article 30 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-09</a>
-    </li>
-    <li>
-      2015-08-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000051201109?vers=git&vers=legifrance">LOI n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République - article 59 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2025-02-16</a>
-    </li>
-    <li>
-      2015-08-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031047987?vers=git&vers=legifrance">LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte - article 119 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-19</a>
-    </li>
-    <li>
-      2015-08-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000031048013?vers=git&vers=legifrance">LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte - article 123 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-19</a>
-    </li>
-    <li>
-      2015-08-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033810264?vers=git&vers=legifrance">LOI n° 2015-994 du 17 août 2015 relative au dialogue social et à l'emploi - article 60 AUTONOME VIGUEUR, en vigueur depuis le 2017-01-01</a>
-    </li>
-    <li>
-      2016-01-26 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034109984?vers=git&vers=legifrance">LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé - article 223 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a>
-    </li>
-    <li>
-      2016-06-03 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032631389?vers=git&vers=legifrance">LOI n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale - article 118 AUTONOME VIGUEUR, en vigueur depuis le 2016-06-05</a>
-    </li>
-    <li>
-      2016-07-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032855910?vers=git&vers=legifrance">LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 93 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09</a>
-    </li>
-    <li>
-      2016-07-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032855772?vers=git&vers=legifrance">LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 94 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09</a>
-    </li>
-    <li>
-      2016-07-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032855912?vers=git&vers=legifrance">LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 95 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09</a>
-    </li>
-    <li>
-      2016-07-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000032855914?vers=git&vers=legifrance">LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 96 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09</a>
-    </li>
-    <li>
-      2016-10-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033205256?vers=git&vers=legifrance">LOI n° 2016-1321 du 7 octobre 2016 pour une République numérique - article 103 AUTONOME VIGUEUR, en vigueur depuis le 2016-10-09</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033562207?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 114 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033562213?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 117 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033562219?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 120 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033562223?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 122 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033562021?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 136 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033561935?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 48 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033561973?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 67 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2016-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033561979?vers=git&vers=legifrance">LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 70 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11</a>
-    </li>
-    <li>
-      2017-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034105617?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 118 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a>
-    </li>
-    <li>
-      2017-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034105459?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 38 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a>
-    </li>
-    <li>
-      2017-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034105417?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 42 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2017-03-02</a>
-    </li>
-    <li>
-      2017-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034105485?vers=git&vers=legifrance">LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 55 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a>
-    </li>
-    <li>
-      2017-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034108149?vers=git&vers=legifrance">LOI n° 2017-257 du 28 février 2017 relative au statut de Paris et à l'aménagement métropolitain - article 55 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2017-03-02</a>
-    </li>
-    <li>
-      2017-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000034108121?vers=git&vers=legifrance">LOI n° 2017-257 du 28 février 2017 relative au statut de Paris et à l'aménagement métropolitain - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02</a>
-    </li>
-    <li>
-      2017-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000036397149?vers=git&vers=legifrance">LOI n° 2017-1839 du 30 décembre 2017 mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures et portant diverses dispositions relatives à l'énergie et à l'environnement - article 12 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2018-01-01</a>
-    </li>
-    <li>
-      2018-08-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037309113?vers=git&vers=legifrance">LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12</a>
-    </li>
-    <li>
-      2018-08-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037309119?vers=git&vers=legifrance">LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 52 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12</a>
-    </li>
-    <li>
-      2018-08-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037309179?vers=git&vers=legifrance">LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 63 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12</a>
-    </li>
-    <li>
-      2018-08-10 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037309181?vers=git&vers=legifrance">LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12</a>
-    </li>
-    <li>
-      2018-09-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037368684?vers=git&vers=legifrance">LOI n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel - article 114 AUTONOME VIGUEUR, en vigueur depuis le 2018-09-07</a>
-    </li>
-    <li>
-      2018-09-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037368602?vers=git&vers=legifrance">LOI n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel - article 93 AUTONOME VIGUEUR, en vigueur depuis le 2018-09-07</a>
-    </li>
-    <li>
-      2019-01-23 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000038048526?vers=git&vers=legifrance">Ordonnance n° 2019-36 du 23 janvier 2019 portant diverses adaptations et dérogations temporaires nécessaires à la réalisation en urgence des travaux requis par le rétablissement des contrôles à la frontière avec le Royaume-Uni en raison du retrait de cet Etat de l'Union européenne VIGUEUR</a>
-    </li>
-    <li>
-      2020-12-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000042604501?vers=git&vers=legifrance">Ordonnance n° 2020-1502 du 2 décembre 2020 adaptant les conditions d'exercice des missions des services de santé au travail à l'urgence sanitaire VIGUEUR</a>
-    </li>
-    <li>
-      2023-02-28 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000048850279?vers=git&vers=legifrance">LOI n° 2023-140 du 28 février 2023 créant une aide universelle d'urgence pour les victimes de violences conjugales - article 2 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2023-12-31</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 14 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238705?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 41 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241029?vers=git&vers=legifrance) |
+| 2004-08-13 | CITATION | [Loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales (1). - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2005-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006399628?vers=git&vers=legifrance) |
+| 2005-01-18 | CITATION | [Loi n° 2005-32 du 18 janvier 2005 de programmation pour la cohésion sociale - article 122 AUTONOME VIGUEUR, en vigueur depuis le 2005-01-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000006658556?vers=git&vers=legifrance) |
+| 2005-02-11 | CITATION | [Loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées - article 92 AUTONOME VIGUEUR, en vigueur depuis le 2005-02-12](https://legal.tricoteuses.fr//redirection/LEGIARTI000006682329?vers=git&vers=legifrance) |
+| 2005-07-13 | CITATION | [Loi n° 2005-781 du 13 juillet 2005 de programme fixant les orientations de la politique énergétique - article 109 AUTONOME ABROGE, en vigueur du 2005-07-14 au 2011-06-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006628696?vers=git&vers=legifrance) |
+| 2005-07-26 | CITATION | [Loi n° 2005-846 du 26 juillet 2005 habilitant le Gouvernement à prendre, par ordonnance, des mesures d'urgence pour l'emploi (1). - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2005-07-27](https://legal.tricoteuses.fr//redirection/LEGIARTI000006243200?vers=git&vers=legifrance) |
+| 2007-12-17 | CITATION | [LOI n° 2007-1774 du 17 décembre 2007 portant diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000017726076?vers=git&vers=legifrance) |
+| 2007-12-17 | CITATION | [LOI n° 2007-1774 du 17 décembre 2007 portant diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000017726066?vers=git&vers=legifrance) |
+| 2007-12-17 | CITATION | [LOI n° 2007-1774 du 17 décembre 2007 portant diverses dispositions d'adaptation au droit communautaire dans les domaines économique et financier - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000017726072?vers=git&vers=legifrance) |
+| 2008-01-03 | CITATION | [LOI n° 2008-3 du 3 janvier 2008 pour le développement de la concurrence au service des consommateurs - article 35 AUTONOME ABROGE, en vigueur du 2008-01-05 au 2010-07-03](https://legal.tricoteuses.fr//redirection/LEGIARTI000017959706?vers=git&vers=legifrance) |
+| 2008-04-15 | CITATION | [LOI n° 2008-337 du 15 avril 2008 ratifiant l'ordonnance n° 2007-613 du 26 avril 2007 portant diverses dispositions d'adaptation au droit communautaire dans le domaine du médicament - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2008-04-17](https://legal.tricoteuses.fr//redirection/LEGIARTI000018650932?vers=git&vers=legifrance) |
+| 2008-04-15 | CITATION | [LOI n° 2008-337 du 15 avril 2008 ratifiant l'ordonnance n° 2007-613 du 26 avril 2007 portant diverses dispositions d'adaptation au droit communautaire dans le domaine du médicament - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2008-04-17](https://legal.tricoteuses.fr//redirection/LEGIARTI000018650942?vers=git&vers=legifrance) |
+| 2008-06-25 | CITATION | [LOI n° 2008-596 du 25 juin 2008 portant modernisation du marché du travail - article 10 AUTONOME VIGUEUR, en vigueur depuis le 2008-06-27](https://legal.tricoteuses.fr//redirection/LEGIARTI000019067184?vers=git&vers=legifrance) |
+| 2008-07-03 | CITATION | [LOI n° 2008-649 du 3 juillet 2008 portant diverses dispositions d'adaptation du droit des sociétés au droit communautaire - article 32 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000019118506?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 14 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238705?vers=git&vers=legifrance) |
+| 2008-08-01 | CITATION | [LOI n° 2008-757 du 1er août 2008 relative à la responsabilité environnementale et à diverses dispositions d'adaptation au droit communautaire dans le domaine de l'environnement - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2008-08-03](https://legal.tricoteuses.fr//redirection/LEGIARTI000019279084?vers=git&vers=legifrance) |
+| 2008-08-01 | CITATION | [LOI n° 2008-757 du 1er août 2008 relative à la responsabilité environnementale et à diverses dispositions d'adaptation au droit communautaire dans le domaine de l'environnement - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2008-08-03](https://legal.tricoteuses.fr//redirection/LEGIARTI000019279088?vers=git&vers=legifrance) |
+| 2008-12-01 | CITATION | [LOI n° 2008-1249 du 1er décembre 2008 généralisant le revenu de solidarité active et réformant les politiques d'insertion - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2008-12-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000019861584?vers=git&vers=legifrance) |
+| 2008-12-18 | CITATION | [Ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté VIGUEUR](https://legal.tricoteuses.fr//redirection/LEGITEXT000019957905?vers=git&vers=legifrance) |
+| 2009-02-17 | CITATION | [LOI n° 2009-179 du 17 février 2009 pour l'accélération des programmes de construction et d'investissement publics et privés - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2009-02-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000020277763?vers=git&vers=legifrance) |
+| 2009-02-17 | CITATION | [LOI n° 2009-179 du 17 février 2009 pour l'accélération des programmes de construction et d'investissement publics et privés - article 37 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000020452147?vers=git&vers=legifrance) |
+| 2009-03-05 | CITATION | [LOI n° 2009-258 du 5 mars 2009 relative à la communication audiovisuelle et au nouveau service public de la télévision - article 23 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000020353725?vers=git&vers=legifrance) |
+| 2009-03-05 | CITATION | [LOI n° 2009-258 du 5 mars 2009 relative à la communication audiovisuelle et au nouveau service public de la télévision - article 71 AUTONOME VIGUEUR, en vigueur depuis le 2009-07-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000020905770?vers=git&vers=legifrance) |
+| 2009-03-05 | CITATION | [LOI n° 2009-258 du 5 mars 2009 relative à la communication audiovisuelle et au nouveau service public de la télévision - article 72 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000020353629?vers=git&vers=legifrance) |
+| 2009-05-12 | CITATION | [LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 68 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14](https://legal.tricoteuses.fr//redirection/LEGIARTI000020606440?vers=git&vers=legifrance) |
+| 2009-05-12 | CITATION | [LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 78 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14](https://legal.tricoteuses.fr//redirection/LEGIARTI000020606498?vers=git&vers=legifrance) |
+| 2009-05-12 | CITATION | [LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 120 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14](https://legal.tricoteuses.fr//redirection/LEGIARTI000020606626?vers=git&vers=legifrance) |
+| 2009-05-12 | CITATION | [LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 69 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14](https://legal.tricoteuses.fr//redirection/LEGIARTI000020606442?vers=git&vers=legifrance) |
+| 2009-05-12 | CITATION | [LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 88 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14](https://legal.tricoteuses.fr//redirection/LEGIARTI000020606612?vers=git&vers=legifrance) |
+| 2009-05-12 | CITATION | [LOI n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures - article 93 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-14](https://legal.tricoteuses.fr//redirection/LEGIARTI000020606556?vers=git&vers=legifrance) |
+| 2009-05-27 | CITATION | [LOI n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer - article 72 AUTONOME VIGUEUR, en vigueur depuis le 2009-05-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000020672227?vers=git&vers=legifrance) |
+| 2009-07-21 | CITATION | [LOI n° 2009-879 du 21 juillet 2009 portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires - article 133 AUTONOME VIGUEUR, en vigueur depuis le 2009-07-23](https://legal.tricoteuses.fr//redirection/LEGIARTI000020881322?vers=git&vers=legifrance) |
+| 2009-07-29 | CITATION | [LOI n° 2009-928 du 29 juillet 2009 relative à la programmation militaire pour les années 2009 à 2014 et portant diverses dispositions concernant la défense - article 20 AUTONOME VIGUEUR, en vigueur depuis le 2023-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000045293516?vers=git&vers=legifrance) |
+| 2010-06-15 | CITATION | [LOI n° 2010-658 du 15 juin 2010 relative à l'entrepreneur individuel à responsabilité limitée - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2010-06-17](https://legal.tricoteuses.fr//redirection/LEGIARTI000022355953?vers=git&vers=legifrance) |
+| 2010-07-01 | CITATION | [LOI n° 2010-737 du 1er juillet 2010 portant réforme du crédit à la consommation - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-03](https://legal.tricoteuses.fr//redirection/LEGIARTI000022420553?vers=git&vers=legifrance) |
+| 2010-07-12 | CITATION | [LOI n° 2010-788 du 12 juillet 2010 portant engagement national pour l'environnement - article 169 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-14](https://legal.tricoteuses.fr//redirection/LEGIARTI000022473134?vers=git&vers=legifrance) |
+| 2010-07-27 | CITATION | [LOI n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000022522739?vers=git&vers=legifrance) |
+| 2010-07-27 | CITATION | [LOI n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche - article 94 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000022522909?vers=git&vers=legifrance) |
+| 2010-10-22 | CITATION | [LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 33 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022942876?vers=git&vers=legifrance) |
+| 2010-10-22 | CITATION | [LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 34 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022942878?vers=git&vers=legifrance) |
+| 2010-10-22 | CITATION | [LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 56 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022942928?vers=git&vers=legifrance) |
+| 2010-10-22 | CITATION | [LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 77 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022942990?vers=git&vers=legifrance) |
+| 2010-10-22 | CITATION | [LOI n° 2010-1249 du 22 octobre 2010 de régulation bancaire et financière - article 91 AUTONOME VIGUEUR, en vigueur depuis le 2010-10-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000022942810?vers=git&vers=legifrance) |
+| 2010-12-07 | CITATION | [LOI n° 2010-1487 du 7 décembre 2010 relative au Département de Mayotte - article 30 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000023176289?vers=git&vers=legifrance) |
+| 2010-12-07 | CITATION | [LOI n° 2010-1487 du 7 décembre 2010 relative au Département de Mayotte - article 33 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000023176277?vers=git&vers=legifrance) |
+| 2010-12-16 | CITATION | [LOI n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales - article 87 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000023241015?vers=git&vers=legifrance) |
+| 2010-12-16 | CITATION | [LOI n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales - article 88 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000023241019?vers=git&vers=legifrance) |
+| 2010-12-22 | CITATION | [LOI n° 2010-1609 du 22 décembre 2010 relative à l'exécution des décisions de justice, aux conditions d'exercice de certaines professions réglementées et aux experts judiciaires - article 42 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2010-12-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000023274868?vers=git&vers=legifrance) |
+| 2010-12-22 | CITATION | [LOI n° 2010-1609 du 22 décembre 2010 relative à l'exécution des décisions de justice, aux conditions d'exercice de certaines professions réglementées et aux experts judiciaires - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2010-12-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000023274798?vers=git&vers=legifrance) |
+| 2011-01-05 | CITATION | [LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000023376144?vers=git&vers=legifrance) |
+| 2011-01-05 | CITATION | [LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 16 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000023376126?vers=git&vers=legifrance) |
+| 2011-01-05 | CITATION | [LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 17 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000023376128?vers=git&vers=legifrance) |
+| 2011-01-05 | CITATION | [LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 18 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000023376130?vers=git&vers=legifrance) |
+| 2011-01-05 | CITATION | [LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000023376136?vers=git&vers=legifrance) |
+| 2011-01-05 | CITATION | [LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000023376108?vers=git&vers=legifrance) |
+| 2011-01-05 | CITATION | [LOI n° 2011-12 du 5 janvier 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2011-01-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000023376110?vers=git&vers=legifrance) |
+| 2011-03-14 | CITATION | [LOI n° 2011-267 du 14 mars 2011 d'orientation et de programmation pour la performance de la sécurité intérieure - article 102 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-16](https://legal.tricoteuses.fr//redirection/LEGIARTI000023708985?vers=git&vers=legifrance) |
+| 2011-03-22 | CITATION | [LOI n° 2011-302 du 22 mars 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière de santé, de travail et de communications électroniques - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000023752132?vers=git&vers=legifrance) |
+| 2011-03-22 | CITATION | [LOI n° 2011-302 du 22 mars 2011 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière de santé, de travail et de communications électroniques - article 22 AUTONOME VIGUEUR, en vigueur depuis le 2011-03-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000023752144?vers=git&vers=legifrance) |
+| 2011-05-17 | CITATION | [LOI n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit - article 198 AUTONOME VIGUEUR, en vigueur depuis le 2011-05-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000024023486?vers=git&vers=legifrance) |
+| 2011-05-17 | CITATION | [LOI n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit - article 199 AUTONOME VIGUEUR, en vigueur depuis le 2011-05-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000024023482?vers=git&vers=legifrance) |
+| 2011-07-07 | CITATION | [LOI n° 2011-814 du 7 juillet 2011 relative à la bioéthique - article 56 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000024324053?vers=git&vers=legifrance) |
+| 2011-07-27 | CITATION | [LOI n° 2011-884 du 27 juillet 2011 relative aux collectivités territoriales de Guyane et de Martinique - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000024404948?vers=git&vers=legifrance) |
+| 2012-02-22 | CITATION | [LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000025402200?vers=git&vers=legifrance) |
+| 2012-02-22 | CITATION | [LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000025402202?vers=git&vers=legifrance) |
+| 2012-02-22 | CITATION | [LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000025402204?vers=git&vers=legifrance) |
+| 2012-02-22 | CITATION | [LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000025402206?vers=git&vers=legifrance) |
+| 2012-02-22 | CITATION | [LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2012-02-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000025402196?vers=git&vers=legifrance) |
+| 2012-03-22 | CITATION | [LOI n° 2012-387 du 22 mars 2012 relative à la simplification du droit et à l'allégement des démarches administratives - article 51 AUTONOME VIGUEUR, en vigueur depuis le 2012-03-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000025555096?vers=git&vers=legifrance) |
+| 2012-03-22 | CITATION | [LOI n° 2012-387 du 22 mars 2012 relative à la simplification du droit et à l'allégement des démarches administratives - article 59 AUTONOME VIGUEUR, en vigueur depuis le 2012-03-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000025555128?vers=git&vers=legifrance) |
+| 2012-11-20 | CITATION | [LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2012-11-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000026658408?vers=git&vers=legifrance) |
+| 2012-11-20 | CITATION | [LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 25 AUTONOME VIGUEUR, en vigueur depuis le 2012-11-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000026658452?vers=git&vers=legifrance) |
+| 2012-11-20 | CITATION | [LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2014-03-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000028699400?vers=git&vers=legifrance) |
+| 2012-11-20 | CITATION | [LOI n° 2012-1270 du 20 novembre 2012 relative à la régulation économique outre-mer et portant diverses dispositions relatives aux outre-mer - article 30 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2012-11-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000026658460?vers=git&vers=legifrance) |
+| 2012-12-27 | CITATION | [LOI n° 2012-1460 du 27 décembre 2012 relative à la mise en œuvre du principe de participation du public défini à l'article 7 de la Charte de l'environnement - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2012-12-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000026845010?vers=git&vers=legifrance) |
+| 2012-12-31 | CITATION | [LOI n° 2012-1559 du 31 décembre 2012 relative à la création de la Banque publique d'investissement - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2013-01-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000026894006?vers=git&vers=legifrance) |
+| 2012-12-31 | CITATION | [LOI n° 2012-1559 du 31 décembre 2012 relative à la création de la Banque publique d'investissement - article 18 AUTONOME VIGUEUR, en vigueur depuis le 2013-01-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000026894012?vers=git&vers=legifrance) |
+| 2012-12-31 | CITATION | [LOI n° 2012-1559 du 31 décembre 2012 relative à la création de la Banque publique d'investissement - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2013-01-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000026893996?vers=git&vers=legifrance) |
+| 2013-03-01 | CITATION | [LOI n° 2013-185 du 1er mars 2013 portant création du contrat de génération - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2013-03-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000027124290?vers=git&vers=legifrance) |
+| 2013-06-14 | CITATION | [LOI n° 2013-504 du 14 juin 2013 relative à la sécurisation de l'emploi - article 25 AUTONOME VIGUEUR, en vigueur depuis le 2013-06-17](https://legal.tricoteuses.fr//redirection/LEGIARTI000027548739?vers=git&vers=legifrance) |
+| 2013-07-01 | CITATION | [LOI n° 2013-569 du 1er juillet 2013 habilitant le Gouvernement à adopter des mesures de nature législative pour accélérer les projets de construction - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-03](https://legal.tricoteuses.fr//redirection/LEGIARTI000027646996?vers=git&vers=legifrance) |
+| 2013-07-22 | CITATION | [LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 124 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000027736831?vers=git&vers=legifrance) |
+| 2013-07-22 | CITATION | [LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 126 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000027736840?vers=git&vers=legifrance) |
+| 2013-07-22 | CITATION | [LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 127 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-16](https://legal.tricoteuses.fr//redirection/LEGIARTI000030103066?vers=git&vers=legifrance) |
+| 2013-07-22 | CITATION | [LOI n° 2013-660 du 22 juillet 2013 relative à l'enseignement supérieur et à la recherche - article 128 AUTONOME VIGUEUR, en vigueur depuis le 2013-07-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000027736810?vers=git&vers=legifrance) |
+| 2013-11-12 | CITATION | [LOI n° 2013-1005 du 12 novembre 2013 habilitant le Gouvernement à simplifier les relations entre l'administration et les citoyens - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2016-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000033222884?vers=git&vers=legifrance) |
+| 2013-12-18 | CITATION | [LOI n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale - article 55 AUTONOME VIGUEUR, en vigueur depuis le 2013-12-20](https://legal.tricoteuses.fr//redirection/LEGIARTI000028340532?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426497?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 10 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426513?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426515?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426517?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 17 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426528?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426499?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426559?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426503?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426505?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-04](https://legal.tricoteuses.fr//redirection/LEGIARTI000028426507?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2019-12-27](https://legal.tricoteuses.fr//redirection/LEGIARTI000042031244?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 13 AUTONOME VIGUEUR, en vigueur depuis le 2017-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000032973403?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2016-08-10](https://legal.tricoteuses.fr//redirection/LEGIARTI000033034379?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2016-08-10](https://legal.tricoteuses.fr//redirection/LEGIARTI000033034371?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 16 AUTONOME VIGUEUR, en vigueur depuis le 2016-08-10](https://legal.tricoteuses.fr//redirection/LEGIARTI000033034365?vers=git&vers=legifrance) |
+| 2014-01-02 | CITATION | [LOI n° 2014-1 du 2 janvier 2014 habilitant le Gouvernement à simplifier et sécuriser la vie des entreprises - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2024-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000048539946?vers=git&vers=legifrance) |
+| 2014-01-20 | CITATION | [LOI n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites - article 50 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030054336?vers=git&vers=legifrance) |
+| 2014-01-20 | CITATION | [LOI n° 2014-40 du 20 janvier 2014 garantissant l'avenir et la justice du système de retraites - article 52 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000028494670?vers=git&vers=legifrance) |
+| 2014-03-05 | CITATION | [LOI n° 2014-288 du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale - article 35 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-03-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000028685235?vers=git&vers=legifrance) |
+| 2014-03-24 | CITATION | [LOI n° 2014-366 du 24 mars 2014 pour l'accès au logement et un urbanisme rénové - article 171 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000031010662?vers=git&vers=legifrance) |
+| 2014-07-08 | CITATION | [LOI n° 2014-779 du 8 juillet 2014 encadrant les conditions de la vente à distance des livres et habilitant le Gouvernement à modifier par ordonnance les dispositions du code de la propriété intellectuelle relatives au contrat d'édition - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2014-07-10](https://legal.tricoteuses.fr//redirection/LEGIARTI000029211465?vers=git&vers=legifrance) |
+| 2014-07-10 | CITATION | [LOI n° 2014-789 du 10 juillet 2014 habilitant le Gouvernement à adopter des mesures législatives pour la mise en accessibilité des établissements recevant du public, des transports publics, des bâtiments d'habitation et de la voirie pour les personnes handicapées - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-07-12](https://legal.tricoteuses.fr//redirection/LEGIARTI000029222314?vers=git&vers=legifrance) |
+| 2014-07-10 | CITATION | [LOI n° 2014-789 du 10 juillet 2014 habilitant le Gouvernement à adopter des mesures législatives pour la mise en accessibilité des établissements recevant du public, des transports publics, des bâtiments d'habitation et de la voirie pour les personnes handicapées - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2014-07-12](https://legal.tricoteuses.fr//redirection/LEGIARTI000029222323?vers=git&vers=legifrance) |
+| 2014-07-31 | CITATION | [LOI n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire - article 62 AUTONOME VIGUEUR, en vigueur depuis le 2014-08-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000029315050?vers=git&vers=legifrance) |
+| 2014-07-31 | CITATION | [LOI n° 2014-856 du 31 juillet 2014 relative à l'économie sociale et solidaire - article 96 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2016-04-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000032374661?vers=git&vers=legifrance) |
+| 2014-08-04 | CITATION | [LOI n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes - article 74 AUTONOME VIGUEUR, en vigueur depuis le 2014-08-06](https://legal.tricoteuses.fr//redirection/LEGIARTI000029333496?vers=git&vers=legifrance) |
+| 2014-10-13 | CITATION | [LOI n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt - article 21 AUTONOME VIGUEUR, en vigueur depuis le 2014-10-15](https://legal.tricoteuses.fr//redirection/LEGIARTI000029575131?vers=git&vers=legifrance) |
+| 2014-10-13 | CITATION | [LOI n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt - article 55 AUTONOME VIGUEUR, en vigueur depuis le 2014-10-15](https://legal.tricoteuses.fr//redirection/LEGIARTI000029575199?vers=git&vers=legifrance) |
+| 2014-11-13 | CITATION | [LOI n° 2014-1353 du 13 novembre 2014 renforçant les dispositions relatives à la lutte contre le terrorisme - article 26 AUTONOME VIGUEUR, en vigueur depuis le 2014-11-15](https://legal.tricoteuses.fr//redirection/LEGIARTI000029755293?vers=git&vers=legifrance) |
+| 2014-12-18 | CITATION | [LOI n° 2014-1528 du 18 décembre 2014 relative à la désignation des conseillers prud'hommes - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000031085348?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928193?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 10 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928263?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 12 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928261?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 15 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928269?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 18 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928275?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928277?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928195?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 23 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928285?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 27 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928173?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928179?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 36 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928199?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928249?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 42 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928209?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 46 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928217?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 49 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928221?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 5 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928251?vers=git&vers=legifrance) |
+| 2014-12-20 | CITATION | [LOI n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises - article 9 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-22](https://legal.tricoteuses.fr//redirection/LEGIARTI000029928257?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034341?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 11 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034349?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034301?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 15 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034311?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 17 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034313?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 19 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034317?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034283?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 27 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034325?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 28 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034327?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 29 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034329?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034293?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 30 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034331?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034343?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 6 AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034285?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1662 du 30 décembre 2014 portant diverses dispositions d'adaptation de la législation au droit de l'Union européenne en matière économique et financière - article 9 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030034347?vers=git&vers=legifrance) |
+| 2014-12-30 | CITATION | [LOI n° 2014-1663 du 30 décembre 2014 habilitant le Gouvernement à prendre les mesures relevant du domaine de la loi nécessaires pour assurer dans le droit interne le respect des principes du code mondial antidopage - article unique AUTONOME VIGUEUR, en vigueur depuis le 2015-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000030096126?vers=git&vers=legifrance) |
+| 2015-02-16 | CITATION | [LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 1 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000030249591?vers=git&vers=legifrance) |
+| 2015-02-16 | CITATION | [LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 15 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000030249611?vers=git&vers=legifrance) |
+| 2015-02-16 | CITATION | [LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 20 AUTONOME VIGUEUR, en vigueur depuis le 2015-02-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000030249627?vers=git&vers=legifrance) |
+| 2015-02-16 | CITATION | [LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 21 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000030249619?vers=git&vers=legifrance) |
+| 2015-02-16 | CITATION | [LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 3 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-02-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000030249595?vers=git&vers=legifrance) |
+| 2015-02-16 | CITATION | [LOI n° 2015-177 du 16 février 2015 relative à la modernisation et à la simplification du droit et des procédures dans les domaines de la justice et des affaires intérieures - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2015-02-18](https://legal.tricoteuses.fr//redirection/LEGIARTI000030249601?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 1 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030982294?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 106 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030981787?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 115 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030981869?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 61 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030981899?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 64 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030981905?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 7 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030982306?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030982308?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 94 AUTONOME VIGUEUR, en vigueur depuis le 2015-08-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000030982114?vers=git&vers=legifrance) |
+| 2015-08-06 | CITATION | [LOI n° 2015-990 du 6 août 2015 pour la croissance, l'activité et l'égalité des chances économiques - article 12 AUTONOME VIGUEUR, en vigueur depuis le 2019-10-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000038885033?vers=git&vers=legifrance) |
+| 2015-08-07 | CITATION | [LOI n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République - article 30 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000030998175?vers=git&vers=legifrance) |
+| 2015-08-07 | CITATION | [LOI n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République - article 59 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2025-02-16](https://legal.tricoteuses.fr//redirection/LEGIARTI000051201109?vers=git&vers=legifrance) |
+| 2015-08-17 | CITATION | [LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte - article 119 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000031047987?vers=git&vers=legifrance) |
+| 2015-08-17 | CITATION | [LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte - article 123 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2015-08-19](https://legal.tricoteuses.fr//redirection/LEGIARTI000031048013?vers=git&vers=legifrance) |
+| 2015-08-17 | CITATION | [LOI n° 2015-994 du 17 août 2015 relative au dialogue social et à l'emploi - article 60 AUTONOME VIGUEUR, en vigueur depuis le 2017-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000033810264?vers=git&vers=legifrance) |
+| 2016-01-26 | CITATION | [LOI n° 2016-41 du 26 janvier 2016 de modernisation de notre système de santé - article 223 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000034109984?vers=git&vers=legifrance) |
+| 2016-06-03 | CITATION | [LOI n° 2016-731 du 3 juin 2016 renforçant la lutte contre le crime organisé, le terrorisme et leur financement, et améliorant l'efficacité et les garanties de la procédure pénale - article 118 AUTONOME VIGUEUR, en vigueur depuis le 2016-06-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000032631389?vers=git&vers=legifrance) |
+| 2016-07-07 | CITATION | [LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 93 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000032855910?vers=git&vers=legifrance) |
+| 2016-07-07 | CITATION | [LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 94 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000032855772?vers=git&vers=legifrance) |
+| 2016-07-07 | CITATION | [LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 95 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000032855912?vers=git&vers=legifrance) |
+| 2016-07-07 | CITATION | [LOI n° 2016-925 du 7 juillet 2016 relative à la liberté de la création, à l'architecture et au patrimoine - article 96 AUTONOME VIGUEUR, en vigueur depuis le 2016-07-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000032855914?vers=git&vers=legifrance) |
+| 2016-10-07 | CITATION | [LOI n° 2016-1321 du 7 octobre 2016 pour une République numérique - article 103 AUTONOME VIGUEUR, en vigueur depuis le 2016-10-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000033205256?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 114 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033562207?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 117 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033562213?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 120 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033562219?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 122 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033562223?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 136 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033562021?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 48 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033561935?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 67 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033561973?vers=git&vers=legifrance) |
+| 2016-12-09 | CITATION | [LOI n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique - article 70 AUTONOME VIGUEUR, en vigueur depuis le 2016-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000033561979?vers=git&vers=legifrance) |
+| 2017-02-28 | CITATION | [LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 118 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000034105617?vers=git&vers=legifrance) |
+| 2017-02-28 | CITATION | [LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 38 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000034105459?vers=git&vers=legifrance) |
+| 2017-02-28 | CITATION | [LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 42 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2017-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000034105417?vers=git&vers=legifrance) |
+| 2017-02-28 | CITATION | [LOI n° 2017-256 du 28 février 2017 de programmation relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique - article 55 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000034105485?vers=git&vers=legifrance) |
+| 2017-02-28 | CITATION | [LOI n° 2017-257 du 28 février 2017 relative au statut de Paris et à l'aménagement métropolitain - article 55 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2017-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000034108149?vers=git&vers=legifrance) |
+| 2017-02-28 | CITATION | [LOI n° 2017-257 du 28 février 2017 relative au statut de Paris et à l'aménagement métropolitain - article 8 AUTONOME VIGUEUR, en vigueur depuis le 2017-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000034108121?vers=git&vers=legifrance) |
+| 2017-12-30 | CITATION | [LOI n° 2017-1839 du 30 décembre 2017 mettant fin à la recherche ainsi qu'à l'exploitation des hydrocarbures et portant diverses dispositions relatives à l'énergie et à l'environnement - article 12 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2018-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000036397149?vers=git&vers=legifrance) |
+| 2018-08-10 | CITATION | [LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12](https://legal.tricoteuses.fr//redirection/LEGIARTI000037309113?vers=git&vers=legifrance) |
+| 2018-08-10 | CITATION | [LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 52 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12](https://legal.tricoteuses.fr//redirection/LEGIARTI000037309119?vers=git&vers=legifrance) |
+| 2018-08-10 | CITATION | [LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 63 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12](https://legal.tricoteuses.fr//redirection/LEGIARTI000037309179?vers=git&vers=legifrance) |
+| 2018-08-10 | CITATION | [LOI n° 2018-727 du 10 août 2018 pour un Etat au service d'une société de confiance - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2018-08-12](https://legal.tricoteuses.fr//redirection/LEGIARTI000037309181?vers=git&vers=legifrance) |
+| 2018-09-05 | CITATION | [LOI n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel - article 114 AUTONOME VIGUEUR, en vigueur depuis le 2018-09-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000037368684?vers=git&vers=legifrance) |
+| 2018-09-05 | CITATION | [LOI n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel - article 93 AUTONOME VIGUEUR, en vigueur depuis le 2018-09-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000037368602?vers=git&vers=legifrance) |
+| 2019-01-23 | CITATION | [Ordonnance n° 2019-36 du 23 janvier 2019 portant diverses adaptations et dérogations temporaires nécessaires à la réalisation en urgence des travaux requis par le rétablissement des contrôles à la frontière avec le Royaume-Uni en raison du retrait de cet Etat de l'Union européenne VIGUEUR](https://legal.tricoteuses.fr//redirection/LEGITEXT000038048526?vers=git&vers=legifrance) |
+| 2020-12-02 | CITATION | [Ordonnance n° 2020-1502 du 2 décembre 2020 adaptant les conditions d'exercice des missions des services de santé au travail à l'urgence sanitaire VIGUEUR](https://legal.tricoteuses.fr//redirection/LEGITEXT000042604501?vers=git&vers=legifrance) |
+| 2023-02-28 | CITATION | [LOI n° 2023-140 du 28 février 2023 créant une aide universelle d'urgence pour les victimes de violences conjugales - article 2 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2023-12-31](https://legal.tricoteuses.fr//redirection/LEGIARTI000048850279?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

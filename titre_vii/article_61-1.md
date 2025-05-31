@@ -30,33 +30,21 @@ décembre 2009.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021843288?vers=git&vers=legifrance">Décret n° 91-1369 du 30 décembre 1991 fixant les modalités particulières d'application dans les départements d'outre-mer, à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, ainsi qu'en Polynésie française de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique - article 19-1 ABROGE, en vigueur du 2010-03-01 au 2021-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021841984?vers=git&vers=legifrance">Décret n° 2010-148 du 16 février 2010 portant application de la loi organique n° 2009-1523 du 10 décembre 2009 relative à l'application de l'article 61-1 de la Constitution - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2010-03-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238709?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 29 ENTIEREMENT_MODIF</a> CREE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1991-12-30 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021843288?vers=git&vers=legifrance">Décret n° 91-1369 du 30 décembre 1991 fixant les modalités particulières d'application dans les départements d'outre-mer, à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, ainsi qu'en Polynésie française de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique - article 19-1 ABROGE, en vigueur du 2010-03-01 au 2021-01-01</a>
-    </li>
-    <li>
-      2008-07-23 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238709?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 29 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2010-02-16 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000021841984?vers=git&vers=legifrance">Décret n° 2010-148 du 16 février 2010 portant application de la loi organique n° 2009-1523 du 10 décembre 2009 relative à l'application de l'article 61-1 de la Constitution - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2010-03-01</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2010-03-01 | CITATION | [Décret n° 91-1369 du 30 décembre 1991 fixant les modalités particulières d'application dans les départements d'outre-mer, à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, ainsi qu'en Polynésie française de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique - article 19-1 ABROGE, en vigueur du  au 2021-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000021843288?vers=git&vers=legifrance) |
+| 2010-03-01 | CITATION | [Décret n° 2010-148 du 16 février 2010 portant application de la loi organique n° 2009-1523 du 10 décembre 2009 relative à l'application de l'article 61-1 de la Constitution - article 2 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000021841984?vers=git&vers=legifrance) |
+|  | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 29 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238709?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1991-12-30 | CITATION | [Décret n° 91-1369 du 30 décembre 1991 fixant les modalités particulières d'application dans les départements d'outre-mer, à Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon, ainsi qu'en Polynésie française de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique - article 19-1 ABROGE, en vigueur du 2010-03-01 au 2021-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000021843288?vers=git&vers=legifrance) |
+| 2008-07-23 | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 29 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238709?vers=git&vers=legifrance) |
+| 2010-02-16 | CITATION | [Décret n° 2010-148 du 16 février 2010 portant application de la loi organique n° 2009-1523 du 10 décembre 2009 relative à l'application de l'article 61-1 de la Constitution - article 2 AUTONOME VIGUEUR, en vigueur depuis le 2010-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000021841984?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

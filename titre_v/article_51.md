@@ -20,33 +20,21 @@ même fin, des séances supplémentaires sont de droit.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241062?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528617?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 6 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527529?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1995-08-05 au 2009-03-01</a> CITATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05</a>
-    </li>
-    <li>
-      1995-08-04 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528617?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 6 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2009-03-01 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241062?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du  au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance) |
+|  | MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 6 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528617?vers=git&vers=legifrance) |
+| 1995-08-05 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du  au 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527529?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 49 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527528?vers=git&vers=legifrance) |
+| 1995-08-04 | MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 6 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528617?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

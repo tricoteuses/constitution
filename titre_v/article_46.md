@@ -35,39 +35,23 @@ Conseil constitutionnel de leur conformité à la Constitution.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527518?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 42 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241040?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 45 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241032?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 42 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527521?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 45 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238678?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 21 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527518?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 42 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2009-03-01</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527521?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 45 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2009-03-01</a>
-    </li>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238678?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 21 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 42 AUTONOME MODIFIE, en vigueur du  au 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527518?vers=git&vers=legifrance) |
+| 2009-03-01 | CITATION | [Constitution du 4 octobre 1958 - article 45 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241040?vers=git&vers=legifrance) |
+| 2009-03-01 | CITATION | [Constitution du 4 octobre 1958 - article 42 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241032?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 45 AUTONOME MODIFIE, en vigueur du  au 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527521?vers=git&vers=legifrance) |
+|  | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 21 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238678?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 42 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527518?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 45 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527521?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 21 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238678?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

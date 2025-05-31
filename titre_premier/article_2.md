@@ -26,21 +26,17 @@ Son principe est : gouvernement du peuple, par le peuple et pour le peuple.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528619?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 8 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1995-08-04 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528619?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 8 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 8 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528619?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1995-08-04 | MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 8 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528619?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

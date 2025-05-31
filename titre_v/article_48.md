@@ -41,51 +41,27 @@ Parlement et aux réponses du Gouvernement.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527494?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 28 AUTONOME MODIFIE, en vigueur du 1963-12-31 au 1995-08-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527506?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 35 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527493?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 28 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1963-12-31</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527496?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 29 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241022?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 35 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527495?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 28 AUTONOME VIGUEUR, en vigueur depuis le 1995-08-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238686?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 23 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527493?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 28 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1963-12-31</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527496?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 29 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05</a>
-    </li>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527506?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 35 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a>
-    </li>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238686?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 23 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024324741?vers=git&vers=legifrance">Code de la santé publique - article L1418-1-1 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-09</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1963-12-31 | CITATION | [Constitution du 4 octobre 1958 - article 28 AUTONOME MODIFIE, en vigueur du  au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527494?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 35 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527506?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 28 AUTONOME MODIFIE, en vigueur du  au 1963-12-31](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527493?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 29 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527496?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 35 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241022?vers=git&vers=legifrance) |
+| 1995-08-05 | CITATION | [Constitution du 4 octobre 1958 - article 28 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527495?vers=git&vers=legifrance) |
+|  | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 23 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238686?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 28 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1963-12-31](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527493?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 29 AUTONOME VIGUEUR, en vigueur depuis le 1958-10-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527496?vers=git&vers=legifrance) |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 35 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527506?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 23 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238686?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code de la santé publique - article L1418-1-1 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-09](https://legal.tricoteuses.fr//redirection/LEGIARTI000024324741?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

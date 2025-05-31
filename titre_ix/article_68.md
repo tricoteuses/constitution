@@ -35,27 +35,19 @@ Une loi organique fixe les conditions d'application du présent article.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276554?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-238 du 23 février 2007 portant modification du titre IX de la Constitution - article unique ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527561?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-24</a>
-    </li>
-    <li>
-      2007-02-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276554?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-238 du 23 février 2007 portant modification du titre IX de la Constitution - article unique ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2014-11-24 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029797076?vers=git&vers=legifrance">LOI organique n° 2014-1392 du 24 novembre 2014 portant application de l'article 68 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-11-26</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [LOI constitutionnelle n° 2007-238 du 23 février 2007 portant modification du titre IX de la Constitution - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006276554?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527561?vers=git&vers=legifrance) |
+| 2007-02-23 | MODIFIE | [LOI constitutionnelle n° 2007-238 du 23 février 2007 portant modification du titre IX de la Constitution - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006276554?vers=git&vers=legifrance) |
+| 2014-11-24 | CITATION | [LOI organique n° 2014-1392 du 24 novembre 2014 portant application de l'article 68 de la Constitution - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2014-11-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000029797076?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

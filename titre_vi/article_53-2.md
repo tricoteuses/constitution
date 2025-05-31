@@ -19,27 +19,19 @@ dans les conditions prévues par le traité signé le 18 juillet 1998.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527561?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-24</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006529156?vers=git&vers=legifrance">LOI constitutionnelle no 99-568 du 8 juillet 1999 insérant, au titre VI de la Constitution, un article 53-2 et relative à la Cour pénale internationale - article unique ENTIEREMENT_MODIF</a> CREE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527561?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-24</a>
-    </li>
-    <li>
-      1999-07-08 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006529156?vers=git&vers=legifrance">LOI constitutionnelle no 99-568 du 8 juillet 1999 insérant, au titre VI de la Constitution, un article 53-2 et relative à la Cour pénale internationale - article unique ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2007-02-24 | CITATION | [Constitution du 4 octobre 1958 - article 67 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527561?vers=git&vers=legifrance) |
+|  | CREE | [LOI constitutionnelle no 99-568 du 8 juillet 1999 insérant, au titre VI de la Constitution, un article 53-2 et relative à la Cour pénale internationale - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006529156?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 67 AUTONOME VIGUEUR, en vigueur depuis le 2007-02-24](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527561?vers=git&vers=legifrance) |
+| 1999-07-08 | CREE | [LOI constitutionnelle no 99-568 du 8 juillet 1999 insérant, au titre VI de la Constitution, un article 53-2 et relative à la Cour pénale internationale - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006529156?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

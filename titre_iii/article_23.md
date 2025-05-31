@@ -27,51 +27,27 @@ l'article 25.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018620290?vers=git&vers=legifrance">Code général des impôts - article 80 undecies A AUTONOME MODIFIE, en vigueur du 2008-04-03 au 2017-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033812681?vers=git&vers=legifrance">Code général des impôts - article 80 undecies A AUTONOME VIGUEUR, en vigueur depuis le 2017-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006353424?vers=git&vers=legifrance">Code électoral - article LO177 AUTONOME VIGUEUR, en vigueur depuis le 1964-10-28</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020103145?vers=git&vers=legifrance">Code électoral - article LO135 AUTONOME VIGUEUR, en vigueur depuis le 2009-01-15</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527489?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 25 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000017924333?vers=git&vers=legifrance">Loi n° 2002-1050 du 6 août 2002 de Finances rectificative pour 2002 - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-28</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241016?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 25 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527489?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 25 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a>
-    </li>
-    <li>
-      2002-08-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000017924333?vers=git&vers=legifrance">Loi n° 2002-1050 du 6 août 2002 de Finances rectificative pour 2002 - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-28</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006353424?vers=git&vers=legifrance">Code électoral - article LO177 AUTONOME VIGUEUR, en vigueur depuis le 1964-10-28</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000033812681?vers=git&vers=legifrance">Code général des impôts - article 80 undecies A AUTONOME VIGUEUR, en vigueur depuis le 2017-01-01</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020103145?vers=git&vers=legifrance">Code électoral - article LO135 AUTONOME VIGUEUR, en vigueur depuis le 2009-01-15</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-04-03 | CITATION | [Code général des impôts - article 80 undecies A AUTONOME MODIFIE, en vigueur du  au 2017-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000018620290?vers=git&vers=legifrance) |
+| 2017-01-01 | CITATION | [Code général des impôts - article 80 undecies A AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000033812681?vers=git&vers=legifrance) |
+| 1964-10-28 | CITATION | [Code électoral - article LO177 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006353424?vers=git&vers=legifrance) |
+| 2009-01-15 | CITATION | [Code électoral - article LO135 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000020103145?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 25 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527489?vers=git&vers=legifrance) |
+| 2007-12-28 | CITATION | [Loi n° 2002-1050 du 6 août 2002 de Finances rectificative pour 2002 - article 14 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000017924333?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 25 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241016?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 25 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527489?vers=git&vers=legifrance) |
+| 2002-08-06 | CITATION | [Loi n° 2002-1050 du 6 août 2002 de Finances rectificative pour 2002 - article 14 AUTONOME VIGUEUR, en vigueur depuis le 2007-12-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000017924333?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article LO177 AUTONOME VIGUEUR, en vigueur depuis le 1964-10-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000006353424?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des impôts - article 80 undecies A AUTONOME VIGUEUR, en vigueur depuis le 2017-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000033812681?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article LO135 AUTONOME VIGUEUR, en vigueur depuis le 2009-01-15](https://legal.tricoteuses.fr//redirection/LEGIARTI000020103145?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

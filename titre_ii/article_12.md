@@ -30,24 +30,18 @@ Il ne peut être procédé à une nouvelle dissolution dans l'année qui suit ce
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528613?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 3 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1995-08-04 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528613?vers=git&vers=legifrance">LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 3 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006354094?vers=git&vers=legifrance">Code électoral - article L397 AUTONOME VIGUEUR, en vigueur depuis le 2004-03-02</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 3 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528613?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1995-08-04 | MODIFIE | [LOI constitutionnelle no 95-880 du 4 août 1995 portant extension du champ d'application du référendum, instituant une session parlementaire ordinaire unique, modifiant le régime de l'inviolabilité parlementaire et abrogeant les dispositions relatives à la Communauté et les dispositions transitoires - article 3 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528613?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code électoral - article L397 AUTONOME VIGUEUR, en vigueur depuis le 2004-03-02](https://legal.tricoteuses.fr//redirection/LEGIARTI000006354094?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

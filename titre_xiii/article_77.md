@@ -48,45 +48,25 @@ personnes non admises à y participer.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527592?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 76 AUTONOME VIGUEUR, en vigueur depuis le 1998-07-21</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006386296?vers=git&vers=legifrance">Loi n° 99-209 organique du 19 mars 1999 relative à la Nouvelle-Calédonie - article 188 AUTONOME VIGUEUR, en vigueur depuis le 1999-03-21</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276553?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-237 du 23 février 2007 modifiant l'article 77 de la Constitution - article unique ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527591?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 76 AUTONOME ABROGE, en vigueur du 1993-07-28 au 1995-08-05</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527590?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 76 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1993-07-28</a> CITATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527590?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 76 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1993-07-28</a>
-    </li>
-    <li>
-      1999-03-19 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006386296?vers=git&vers=legifrance">Loi n° 99-209 organique du 19 mars 1999 relative à la Nouvelle-Calédonie - article 188 AUTONOME VIGUEUR, en vigueur depuis le 1999-03-21</a>
-    </li>
-    <li>
-      2007-02-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006276553?vers=git&vers=legifrance">LOI constitutionnelle n° 2007-237 du 23 février 2007 modifiant l'article 77 de la Constitution - article unique ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2018-06-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGITEXT000037037007?vers=git&vers=legifrance">Décret n° 2018-457 du 6 juin 2018 portant convocation des électeurs et organisation de la consultation sur l'accession à la pleine souveraineté de la Nouvelle-Calédonie VIGUEUR</a>
-    </li>
-    <li>
-      2018-06-06 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000037037029?vers=git&vers=legifrance">Décret n° 2018-457 du 6 juin 2018 portant convocation des électeurs et organisation de la consultation sur l'accession à la pleine souveraineté de la Nouvelle-Calédonie - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2018-06-08</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1998-07-21 | CITATION | [Constitution du 4 octobre 1958 - article 76 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527592?vers=git&vers=legifrance) |
+| 1999-03-21 | CITATION | [Loi n° 99-209 organique du 19 mars 1999 relative à la Nouvelle-Calédonie - article 188 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006386296?vers=git&vers=legifrance) |
+|  | MODIFIE | [LOI constitutionnelle n° 2007-237 du 23 février 2007 modifiant l'article 77 de la Constitution - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006276553?vers=git&vers=legifrance) |
+| 1993-07-28 | CITATION | [Constitution du 4 octobre 1958 - article 76 AUTONOME ABROGE, en vigueur du  au 1995-08-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527591?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 76 AUTONOME MODIFIE, en vigueur du  au 1993-07-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527590?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 76 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 1993-07-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527590?vers=git&vers=legifrance) |
+| 1999-03-19 | CITATION | [Loi n° 99-209 organique du 19 mars 1999 relative à la Nouvelle-Calédonie - article 188 AUTONOME VIGUEUR, en vigueur depuis le 1999-03-21](https://legal.tricoteuses.fr//redirection/LEGIARTI000006386296?vers=git&vers=legifrance) |
+| 2007-02-23 | MODIFIE | [LOI constitutionnelle n° 2007-237 du 23 février 2007 modifiant l'article 77 de la Constitution - article unique ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006276553?vers=git&vers=legifrance) |
+| 2018-06-06 | CITATION | [Décret n° 2018-457 du 6 juin 2018 portant convocation des électeurs et organisation de la consultation sur l'accession à la pleine souveraineté de la Nouvelle-Calédonie VIGUEUR](https://legal.tricoteuses.fr//redirection/LEGITEXT000037037007?vers=git&vers=legifrance) |
+| 2018-06-06 | CITATION | [Décret n° 2018-457 du 6 juin 2018 portant convocation des électeurs et organisation de la consultation sur l'accession à la pleine souveraineté de la Nouvelle-Calédonie - article 1 AUTONOME VIGUEUR, en vigueur depuis le 2018-06-08](https://legal.tricoteuses.fr//redirection/LEGIARTI000037037029?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

@@ -23,21 +23,17 @@ révision de la Constitution.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528763?vers=git&vers=legifrance">LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 2 ENTIEREMENT_MODIF</a> MODIFICATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1992-06-25 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528763?vers=git&vers=legifrance">LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 2 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFICATION | [LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528763?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1992-06-25 | MODIFICATION | [LOI constitutionnelle n° 92-554 du 25 juin 1992 ajoutant à la Constitution un titre : « Des Communautés européennes et de l'Union européenne » - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528763?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

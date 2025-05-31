@@ -40,24 +40,18 @@ dont la convocation a été décidée par le Conseil européen avant le 1er juil
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2008-07-25</a> MODIFICATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a>
-    </li>
-    <li>
-      2008-07-23 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-25 | MODIFICATION | [LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 89 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527639?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFICATION | [LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

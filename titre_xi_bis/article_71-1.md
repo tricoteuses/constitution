@@ -37,51 +37,27 @@ République et au Parlement.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028285916?vers=git&vers=legifrance">Code de la sécurité intérieure - article R434-24 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-01</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241006?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527476?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 2003-03-29 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238733?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 41 ENTIEREMENT_MODIF</a> CREE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513134?vers=git&vers=legifrance">LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022096920?vers=git&vers=legifrance">LOI n° 2010-372 du 12 avril 2010 visant à proroger le mandat du Médiateur de la République - article unique AUTONOME VIGUEUR, en vigueur depuis le 2010-04-16</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29</a>
-    </li>
-    <li>
-      2008-07-23 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238733?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 41 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2010-04-12 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022096920?vers=git&vers=legifrance">LOI n° 2010-372 du 12 avril 2010 visant à proroger le mandat du Médiateur de la République - article unique AUTONOME VIGUEUR, en vigueur depuis le 2010-04-16</a>
-    </li>
-    <li>
-      2010-07-23 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000022513134?vers=git&vers=legifrance">LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028285916?vers=git&vers=legifrance">Code de la sécurité intérieure - article R434-24 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-01</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2014-01-01 | CITATION | [Code de la sécurité intérieure - article R434-24 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000028285916?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du  au 2003-03-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance) |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241006?vers=git&vers=legifrance) |
+| 2003-03-29 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527476?vers=git&vers=legifrance) |
+|  | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 41 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238733?vers=git&vers=legifrance) |
+| 2010-07-25 | CITATION | [LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 4 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000022513134?vers=git&vers=legifrance) |
+| 2010-04-16 | CITATION | [LOI n° 2010-372 du 12 avril 2010 visant à proroger le mandat du Médiateur de la République - article unique AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000022096920?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 13 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2003-03-29](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527475?vers=git&vers=legifrance) |
+| 2008-07-23 | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 41 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238733?vers=git&vers=legifrance) |
+| 2010-04-12 | CITATION | [LOI n° 2010-372 du 12 avril 2010 visant à proroger le mandat du Médiateur de la République - article unique AUTONOME VIGUEUR, en vigueur depuis le 2010-04-16](https://legal.tricoteuses.fr//redirection/LEGIARTI000022096920?vers=git&vers=legifrance) |
+| 2010-07-23 | CITATION | [LOI n° 2010-838 du 23 juillet 2010 relative à l'application du cinquième alinéa de l'article 13 de la Constitution - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2010-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000022513134?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code de la sécurité intérieure - article R434-24 AUTONOME VIGUEUR, en vigueur depuis le 2014-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000028285916?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

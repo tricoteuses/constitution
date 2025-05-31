@@ -29,21 +29,17 @@ vigueur le 1er décembre 2009.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF</a> MODIFICATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2008-02-04 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFICATION | [LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-02-04 | MODIFICATION | [LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

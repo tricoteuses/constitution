@@ -32,33 +32,21 @@ lieu à la consultation des électeurs dans les conditions prévues par la loi.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029879973?vers=git&vers=legifrance">Décret n° 2014-1479 du 9 décembre 2014 relatif à la mise en œuvre de deux traitements automatisés de données à caractère personnel dénommés « Application élection » et « Répertoire national des élus » - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-11</a> CITATION source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218056?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 6 ENTIEREMENT_MODIF</a> CREE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006389051?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO1112-6 AUTONOME VIGUEUR, en vigueur depuis le 2005-01-01</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2003-03-28 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006218056?vers=git&vers=legifrance">LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 6 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2014-12-09 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000029879973?vers=git&vers=legifrance">Décret n° 2014-1479 du 9 décembre 2014 relatif à la mise en œuvre de deux traitements automatisés de données à caractère personnel dénommés « Application élection » et « Répertoire national des élus » - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-11</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006389051?vers=git&vers=legifrance">Code général des collectivités territoriales - article LO1112-6 AUTONOME VIGUEUR, en vigueur depuis le 2005-01-01</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2014-12-11 | CITATION | [Décret n° 2014-1479 du 9 décembre 2014 relatif à la mise en œuvre de deux traitements automatisés de données à caractère personnel dénommés « Application élection » et « Répertoire national des élus » - article 4 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000029879973?vers=git&vers=legifrance) |
+|  | CREE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 6 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218056?vers=git&vers=legifrance) |
+| 2005-01-01 | CITATION | [Code général des collectivités territoriales - article LO1112-6 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000006389051?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2003-03-28 | CREE | [LOI constitutionnelle n° 2003-276 du 28 mars 2003 relative à l'organisation décentralisée de la République - article 6 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006218056?vers=git&vers=legifrance) |
+| 2014-12-09 | CITATION | [Décret n° 2014-1479 du 9 décembre 2014 relatif à la mise en œuvre de deux traitements automatisés de données à caractère personnel dénommés « Application élection » et « Répertoire national des élus » - article 4 AUTONOME VIGUEUR, en vigueur depuis le 2014-12-11](https://legal.tricoteuses.fr//redirection/LEGIARTI000029879973?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article LO1112-6 AUTONOME VIGUEUR, en vigueur depuis le 2005-01-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000006389051?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

@@ -40,21 +40,17 @@ vigueur le 1er décembre 2009.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2008-07-25</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-25 | MODIFIE | [LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-23 | MODIFIE | [LOI constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 47 PARTIELLEMENT_MODIF VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238741?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

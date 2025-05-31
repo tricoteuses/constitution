@@ -37,45 +37,25 @@ vigueur le 1er décembre 2009.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238737?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 43 ENTIEREMENT_MODIF</a> MODIFICATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-11-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020749146?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 bis AUTONOME VIGUEUR, en vigueur depuis le 2009-06-17</a>
-    </li>
-    <li>
-      1958-11-17 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020749143?vers=git&vers=legifrance">Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 septies AUTONOME VIGUEUR, en vigueur depuis le 2009-06-17</a>
-    </li>
-    <li>
-      2008-02-04 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance">LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2008-07-23 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238737?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 43 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2009-01-02 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020091493?vers=git&vers=legifrance">Décret n° 2009-3 du 2 janvier 2009 relatif aux attributions déléguées du secrétaire d'Etat chargé des affaires européennes - article 3 AUTONOME PERIME, en vigueur du 2009-01-07 au 2009-06-25</a>
-    </li>
-    <li>
-      2009-07-03 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020817269?vers=git&vers=legifrance">Décret n° 2009-821 du 3 juillet 2009 relatif aux attributions déléguées au secrétaire d'Etat chargé des affaires européennes - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2009-07-05</a>
-    </li>
-    <li>
-      2011-07-26 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000024402819?vers=git&vers=legifrance">Décret n° 2011-882 du 26 juillet 2011 relatif aux attributions du ministre auprès du ministre d'Etat, ministre des affaires étrangères et européennes, chargé des affaires européennes - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-28</a>
-    </li>
-    <li>
-      2020-08-14 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000042239379?vers=git&vers=legifrance">Décret n° 2020-1041 du 14 août 2020 relatif aux attributions du secrétaire d'État auprès du ministre de l'Europe et des affaires étrangères, chargé des affaires européennes - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2020-08-16</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFIE | [LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance) |
+| MODIFICATION | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 43 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238737?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-11-17 | CITATION | [Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 bis AUTONOME VIGUEUR, en vigueur depuis le 2009-06-17](https://legal.tricoteuses.fr//redirection/LEGIARTI000020749146?vers=git&vers=legifrance) |
+| 1958-11-17 | CITATION | [Ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des assemblées parlementaires. - article 6 septies AUTONOME VIGUEUR, en vigueur depuis le 2009-06-17](https://legal.tricoteuses.fr//redirection/LEGIARTI000020749143?vers=git&vers=legifrance) |
+| 2008-02-04 | MODIFIE | [LOI constitutionnelle n° 2008-103 du 4 février 2008 modifiant le titre XV de la Constitution - article 2 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000018072109?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFICATION | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 43 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238737?vers=git&vers=legifrance) |
+| 2009-01-02 | CITATION | [Décret n° 2009-3 du 2 janvier 2009 relatif aux attributions déléguées du secrétaire d'Etat chargé des affaires européennes - article 3 AUTONOME PERIME, en vigueur du 2009-01-07 au 2009-06-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000020091493?vers=git&vers=legifrance) |
+| 2009-07-03 | CITATION | [Décret n° 2009-821 du 3 juillet 2009 relatif aux attributions déléguées au secrétaire d'Etat chargé des affaires européennes - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2009-07-05](https://legal.tricoteuses.fr//redirection/LEGIARTI000020817269?vers=git&vers=legifrance) |
+| 2011-07-26 | CITATION | [Décret n° 2011-882 du 26 juillet 2011 relatif aux attributions du ministre auprès du ministre d'Etat, ministre des affaires étrangères et européennes, chargé des affaires européennes - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2011-07-28](https://legal.tricoteuses.fr//redirection/LEGIARTI000024402819?vers=git&vers=legifrance) |
+| 2020-08-14 | CITATION | [Décret n° 2020-1041 du 14 août 2020 relatif aux attributions du secrétaire d'État auprès du ministre de l'Europe et des affaires étrangères, chargé des affaires européennes - article 3 AUTONOME VIGUEUR, en vigueur depuis le 2020-08-16](https://legal.tricoteuses.fr//redirection/LEGIARTI000042239379?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

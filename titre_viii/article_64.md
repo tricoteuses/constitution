@@ -25,21 +25,17 @@ Les magistrats du siège sont inamovibles.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241083?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 65 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241083?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 65 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 65 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241083?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 65 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241083?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

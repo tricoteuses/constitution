@@ -40,45 +40,25 @@ dernier s'y oppose.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241038?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 44 AUTONOME VIGUEUR, en vigueur depuis le 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527520?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 44 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238662?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 15 ENTIEREMENT_MODIF</a> MODIFIE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006527520?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 44 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25</a>
-    </li>
-    <li>
-      1958-11-07 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000020523667?vers=git&vers=legifrance">Ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel - article 26-1 AUTONOME VIGUEUR, en vigueur depuis le 2009-04-17</a>
-    </li>
-    <li>
-      2001-08-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000044611870?vers=git&vers=legifrance">Loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances - article 51 AUTONOME VIGUEUR, en vigueur depuis le 2022-09-26</a>
-    </li>
-    <li>
-      2004-02-27 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000038741652?vers=git&vers=legifrance">Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 9 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07</a>
-    </li>
-    <li>
-      2008-07-23 MODIFIE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238662?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 15 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      2018-09-05 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000042914300?vers=git&vers=legifrance">LOI n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel - article 41 AUTONOME VIGUEUR, en vigueur depuis le 2020-12-31</a>
-    </li>
-    <li>
-      2999-01-01 CITATION cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000028888866?vers=git&vers=legifrance">Code général des collectivités territoriales - article R1213-27 AUTONOME VIGUEUR, en vigueur depuis le 2014-05-03</a>
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2008-07-25 | CITATION | [Constitution du 4 octobre 1958 - article 44 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241038?vers=git&vers=legifrance) |
+| 1958-10-05 | CITATION | [Constitution du 4 octobre 1958 - article 44 AUTONOME MODIFIE, en vigueur du  au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527520?vers=git&vers=legifrance) |
+|  | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 15 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238662?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 44 AUTONOME MODIFIE, en vigueur du 1958-10-05 au 2008-07-25](https://legal.tricoteuses.fr//redirection/LEGIARTI000006527520?vers=git&vers=legifrance) |
+| 1958-11-07 | CITATION | [Ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil constitutionnel - article 26-1 AUTONOME VIGUEUR, en vigueur depuis le 2009-04-17](https://legal.tricoteuses.fr//redirection/LEGIARTI000020523667?vers=git&vers=legifrance) |
+| 2001-08-01 | CITATION | [Loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances - article 51 AUTONOME VIGUEUR, en vigueur depuis le 2022-09-26](https://legal.tricoteuses.fr//redirection/LEGIARTI000044611870?vers=git&vers=legifrance) |
+| 2004-02-27 | CITATION | [Loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française (1). - article 9 AUTONOME VIGUEUR, en vigueur depuis le 2019-07-07](https://legal.tricoteuses.fr//redirection/LEGIARTI000038741652?vers=git&vers=legifrance) |
+| 2008-07-23 | MODIFIE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 15 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238662?vers=git&vers=legifrance) |
+| 2018-09-05 | CITATION | [LOI n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel - article 41 AUTONOME VIGUEUR, en vigueur depuis le 2020-12-31](https://legal.tricoteuses.fr//redirection/LEGIARTI000042914300?vers=git&vers=legifrance) |
+| 2999-01-01 | CITATION | [Code général des collectivités territoriales - article R1213-27 AUTONOME VIGUEUR, en vigueur depuis le 2014-05-03](https://legal.tricoteuses.fr//redirection/LEGIARTI000028888866?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

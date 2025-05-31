@@ -24,24 +24,17 @@ deux assemblées détermine les conditions d'application du présent article.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a> MODIFICATION cible
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1993-07-27 MODIFICATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance">LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      CITATION source Traité 1992-02-07, signé à Maastrïcht
-    </li>
-  </ul>
+### Textes citant cet article
+| Type    | Document                                    |
+| :------ | :------------------------------------------ |
+| MODIFICATION | [LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1993-07-27 | MODIFICATION | [LOI constitutionnelle n° 93-952 du 27 juillet 1993 portant révision de la Constitution du 4 octobre 1958 et modifiant ses titres VIII, IX, X et XVIII - article 3 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000006528769?vers=git&vers=legifrance) |
+
 </details>
 
 <details>

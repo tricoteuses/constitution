@@ -20,30 +20,19 @@ s'il le décide, faire l'objet d'un vote sans engager sa responsabilité.
 <details>
   <summary><h2>Références</h2></summary>
 
-  ### Articles faisant référence à l'article
-  
-  <ul>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241069?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 51-1 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a> CITATION cible
-    </li>
-    <li>
-      <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238690?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 25 ENTIEREMENT_MODIF</a> CREE source
-    </li>
-  </ul>
-  
-  ### Références faites par l'article
-  
-  <ul>
-    <li>
-      1958-10-04 CITATION source <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019241069?vers=git&vers=legifrance">Constitution du 4 octobre 1958 - article 51-1 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01</a>
-    </li>
-    <li>
-      2008-07-23 CREE cible <a href="https://legal.tricoteuses.fr//redirection/LEGIARTI000019238690?vers=git&vers=legifrance">Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 25 ENTIEREMENT_MODIF</a>
-    </li>
-    <li>
-      CITATION source Constitution du 4 octobre 1958 - art. 51-1 (VD)
-    </li>
-  </ul>
+### Textes citant cet article
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 2009-03-01 | CITATION | [Constitution du 4 octobre 1958 - article 51-1 AUTONOME VIGUEUR, en vigueur depuis le](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241069?vers=git&vers=legifrance) |
+|  | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 25 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238690?vers=git&vers=legifrance) |
+
+
+### Cet article cite les textes suivants
+| Date       | Type    | Document                                    |
+| :--------- | :------ | :------------------------------------------ |
+| 1958-10-04 | CITATION | [Constitution du 4 octobre 1958 - article 51-1 AUTONOME VIGUEUR, en vigueur depuis le 2009-03-01](https://legal.tricoteuses.fr//redirection/LEGIARTI000019241069?vers=git&vers=legifrance) |
+| 2008-07-23 | CREE | [Loi constitutionnelle n° 2008-724 du 23 juillet 2008 de modernisation des institutions de la Ve République - article 25 ENTIEREMENT_MODIF](https://legal.tricoteuses.fr//redirection/LEGIARTI000019238690?vers=git&vers=legifrance) |
+
 </details>
 
 <details>
